@@ -1,0 +1,1251 @@
+interview_id,role,run_idx,model,ca,exp,ps,rel,prof,comm,latency_ms,input_tokens,output_tokens,cost
+customer_service_representative_001,Customer Service Representative,0,gpt-3.5-turbo,4,3,4,2,3,3,1981.1599254608154,1554,51,0.0008535
+customer_service_representative_001,Customer Service Representative,1,gpt-3.5-turbo,4,3,4,2,3,3,1469.2511558532715,1554,51,0.0008535
+customer_service_representative_001,Customer Service Representative,2,gpt-3.5-turbo,4,3,4,2,3,3,1052.3972511291504,1554,51,0.0008535
+customer_service_representative_001,Customer Service Representative,3,gpt-3.5-turbo,4,3,4,2,3,3,1448.5349655151367,1554,51,0.0008535
+customer_service_representative_001,Customer Service Representative,4,gpt-3.5-turbo,4,3,4,2,3,3,819.3421363830566,1554,51,0.0008535
+customer_service_representative_002,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,3,2,822.9198455810547,1367,51,0.0007599999999999999
+customer_service_representative_002,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,3,2,836.5230560302734,1367,51,0.0007599999999999999
+customer_service_representative_002,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,2,3,2,1623.741865158081,1367,51,0.0007599999999999999
+customer_service_representative_002,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,3,2,1737.3030185699463,1367,51,0.0007599999999999999
+customer_service_representative_002,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,3,2,1355.8309078216553,1367,51,0.0007599999999999999
+customer_service_representative_003,Customer Service Representative,0,gpt-3.5-turbo,4,3,3,2,3,2,689.9499893188477,1502,51,0.0008275
+customer_service_representative_003,Customer Service Representative,1,gpt-3.5-turbo,4,3,3,2,3,2,1173.125982284546,1502,51,0.0008275
+customer_service_representative_003,Customer Service Representative,2,gpt-3.5-turbo,4,3,3,2,3,2,975.0211238861084,1502,51,0.0008275
+customer_service_representative_003,Customer Service Representative,3,gpt-3.5-turbo,4,3,3,2,3,2,817.9259300231934,1502,51,0.0008275
+customer_service_representative_003,Customer Service Representative,4,gpt-3.5-turbo,4,3,3,2,3,2,779.3538570404053,1502,51,0.0008275
+customer_service_representative_004,Customer Service Representative,0,gpt-3.5-turbo,4,2,3,2,3,3,1254.9128532409668,1425,51,0.000789
+customer_service_representative_004,Customer Service Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,829.1208744049072,1425,51,0.000789
+customer_service_representative_004,Customer Service Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,843.4238433837891,1425,51,0.000789
+customer_service_representative_004,Customer Service Representative,3,gpt-3.5-turbo,4,2,3,2,3,2,673.2702255249023,1425,51,0.000789
+customer_service_representative_004,Customer Service Representative,4,gpt-3.5-turbo,4,2,3,2,3,3,852.543830871582,1425,51,0.000789
+customer_service_representative_005,Customer Service Representative,0,gpt-3.5-turbo,4,3,3,2,3,2,787.9219055175781,1294,51,0.0007235
+customer_service_representative_005,Customer Service Representative,1,gpt-3.5-turbo,4,3,3,2,3,2,811.3400936126709,1294,51,0.0007235
+customer_service_representative_005,Customer Service Representative,2,gpt-3.5-turbo,4,3,3,2,3,2,643.2290077209473,1294,51,0.0007235
+customer_service_representative_005,Customer Service Representative,3,gpt-3.5-turbo,4,3,3,2,3,2,609.9977493286133,1294,51,0.0007235
+customer_service_representative_005,Customer Service Representative,4,gpt-3.5-turbo,4,3,3,2,3,2,733.7009906768799,1294,51,0.0007235
+customer_service_representative_006,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,809.9620342254639,1510,51,0.0008315
+customer_service_representative_006,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,1095.9229469299316,1510,51,0.0008315
+customer_service_representative_006,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,1052.9382228851318,1510,51,0.0008315
+customer_service_representative_006,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,1333.739995956421,1510,51,0.0008315
+customer_service_representative_006,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,885.2999210357666,1510,51,0.0008315
+customer_service_representative_007,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,3,2,1047.0142364501953,1397,51,0.000775
+customer_service_representative_007,Customer Service Representative,1,gpt-3.5-turbo,4,3,3,2,3,2,1049.213171005249,1397,51,0.000775
+customer_service_representative_007,Customer Service Representative,2,gpt-3.5-turbo,4,3,3,2,3,2,618.2410717010498,1397,51,0.000775
+customer_service_representative_007,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,3,2,826.2362480163574,1397,51,0.000775
+customer_service_representative_007,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,3,2,594.0358638763428,1397,51,0.000775
+customer_service_representative_008,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,8,9,9,953.3951282501221,2193,51,0.001173
+customer_service_representative_008,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,8,9,9,793.8807010650635,2193,51,0.001173
+customer_service_representative_008,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,8,9,9,1010.6797218322754,2193,51,0.001173
+customer_service_representative_008,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,8,9,9,922.6400852203369,2193,51,0.001173
+customer_service_representative_008,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,8,9,9,591.4702415466309,2193,51,0.001173
+customer_service_representative_009,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,9,9,800.4748821258545,2188,51,0.0011704999999999999
+customer_service_representative_009,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,9,9,758.0051422119141,2188,51,0.0011704999999999999
+customer_service_representative_009,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,9,9,1071.004867553711,2188,51,0.0011704999999999999
+customer_service_representative_009,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,9,9,803.034782409668,2188,51,0.0011704999999999999
+customer_service_representative_009,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,9,9,891.514778137207,2188,51,0.0011704999999999999
+customer_service_representative_010,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,919.8629856109619,1574,51,0.0008635
+customer_service_representative_010,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,1228.5051345825195,1574,51,0.0008635
+customer_service_representative_010,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,904.4849872589111,1574,51,0.0008635
+customer_service_representative_010,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,733.4797382354736,1574,51,0.0008635
+customer_service_representative_010,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,819.4479942321777,1574,51,0.0008635
+customer_service_representative_011,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,831.2690258026123,1630,51,0.0008914999999999999
+customer_service_representative_011,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,910.4342460632324,1630,51,0.0008914999999999999
+customer_service_representative_011,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,869.8968887329102,1630,51,0.0008914999999999999
+customer_service_representative_011,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,1126.3720989227295,1630,51,0.0008914999999999999
+customer_service_representative_011,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,665.3597354888916,1630,51,0.0008914999999999999
+customer_service_representative_012,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,1021.7428207397461,1415,51,0.000784
+customer_service_representative_012,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,1025.2618789672852,1415,51,0.000784
+customer_service_representative_012,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,658.8428020477295,1415,51,0.000784
+customer_service_representative_012,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,672.011137008667,1415,51,0.000784
+customer_service_representative_012,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,817.3787593841553,1415,51,0.000784
+customer_service_representative_013,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,8,9,9,826.7741203308105,2087,51,0.00112
+customer_service_representative_013,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,8,9,9,780.479907989502,2087,51,0.00112
+customer_service_representative_013,Customer Service Representative,2,gpt-3.5-turbo,8,9,9,8,9,9,1261.7080211639404,2087,51,0.00112
+customer_service_representative_013,Customer Service Representative,3,gpt-3.5-turbo,8,9,9,8,9,9,1023.5819816589355,2087,51,0.00112
+customer_service_representative_013,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,8,9,9,1127.7270317077637,2087,51,0.00112
+customer_service_representative_014,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,1023.9391326904297,2173,51,0.001163
+customer_service_representative_014,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1124.7410774230957,2173,51,0.001163
+customer_service_representative_014,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,9,9,1447.6420879364014,2173,51,0.001163
+customer_service_representative_014,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,9,9,1001.9979476928711,2173,51,0.001163
+customer_service_representative_014,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,9,9,867.9029941558838,2173,51,0.001163
+customer_service_representative_015,Customer Service Representative,0,gpt-3.5-turbo,4,3,4,2,3,3,984.381914138794,1312,51,0.0007325
+customer_service_representative_015,Customer Service Representative,1,gpt-3.5-turbo,4,3,4,2,3,3,745.4378604888916,1312,51,0.0007325
+customer_service_representative_015,Customer Service Representative,2,gpt-3.5-turbo,4,3,4,2,3,3,890.3851509094238,1312,51,0.0007325
+customer_service_representative_015,Customer Service Representative,3,gpt-3.5-turbo,4,3,4,2,3,3,819.8342323303223,1312,51,0.0007325
+customer_service_representative_015,Customer Service Representative,4,gpt-3.5-turbo,4,3,4,2,3,3,1284.9631309509277,1312,51,0.0007325
+customer_service_representative_016,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,3,2,655.84397315979,1354,51,0.0007534999999999999
+customer_service_representative_016,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,3,2,636.7998123168945,1354,51,0.0007534999999999999
+customer_service_representative_016,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,2,3,2,941.9679641723633,1354,51,0.0007534999999999999
+customer_service_representative_016,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,3,2,1394.6387767791748,1354,51,0.0007534999999999999
+customer_service_representative_016,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,3,2,1231.031894683838,1354,51,0.0007534999999999999
+customer_service_representative_017,Customer Service Representative,0,gpt-3.5-turbo,4,3,4,2,3,3,925.2960681915283,1436,51,0.0007945
+customer_service_representative_017,Customer Service Representative,1,gpt-3.5-turbo,4,3,4,2,3,3,1124.8929500579834,1436,51,0.0007945
+customer_service_representative_017,Customer Service Representative,2,gpt-3.5-turbo,4,3,4,2,3,3,658.3890914916992,1436,51,0.0007945
+customer_service_representative_017,Customer Service Representative,3,gpt-3.5-turbo,4,3,4,2,3,3,1388.8120651245117,1436,51,0.0007945
+customer_service_representative_017,Customer Service Representative,4,gpt-3.5-turbo,4,3,4,2,3,3,709.1059684753418,1436,51,0.0007945
+customer_service_representative_018,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,3,2,671.0541248321533,1396,51,0.0007745
+customer_service_representative_018,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,3,2,603.1630039215088,1396,51,0.0007745
+customer_service_representative_018,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,2,3,2,674.8030185699463,1396,51,0.0007745
+customer_service_representative_018,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,3,2,852.2212505340576,1396,51,0.0007745
+customer_service_representative_018,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,3,2,686.7897510528564,1396,51,0.0007745
+customer_service_representative_019,Customer Service Representative,0,gpt-3.5-turbo,3,2,2,1,2,2,751.7561912536621,1442,51,0.0007974999999999999
+customer_service_representative_019,Customer Service Representative,1,gpt-3.5-turbo,3,2,2,1,2,2,1058.3150386810303,1442,51,0.0007974999999999999
+customer_service_representative_019,Customer Service Representative,2,gpt-3.5-turbo,3,2,2,1,2,2,1156.7389965057373,1442,51,0.0007974999999999999
+customer_service_representative_019,Customer Service Representative,3,gpt-3.5-turbo,3,2,2,1,2,2,658.693790435791,1442,51,0.0007974999999999999
+customer_service_representative_019,Customer Service Representative,4,gpt-3.5-turbo,3,2,2,1,2,2,674.4091510772705,1442,51,0.0007974999999999999
+customer_service_representative_020,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,2,2,1124.1490840911865,1340,51,0.0007465
+customer_service_representative_020,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,2,2,819.3061351776123,1340,51,0.0007465
+customer_service_representative_020,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,2,2,3,696.5408325195312,1340,51,0.0007465
+customer_service_representative_020,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,2,2,723.5093116760254,1340,51,0.0007465
+customer_service_representative_020,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,2,2,1216.738224029541,1340,51,0.0007465
+customer_service_representative_021,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,846.3881015777588,1679,51,0.0009159999999999999
+customer_service_representative_021,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,818.6500072479248,1679,51,0.0009159999999999999
+customer_service_representative_021,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,716.2432670593262,1679,51,0.0009159999999999999
+customer_service_representative_021,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,839.6329879760742,1679,51,0.0009159999999999999
+customer_service_representative_021,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,741.3532733917236,1679,51,0.0009159999999999999
+customer_service_representative_022,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,827.599287033081,1624,51,0.0008885
+customer_service_representative_022,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,630.770206451416,1624,51,0.0008885
+customer_service_representative_022,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,953.2411098480225,1624,51,0.0008885
+customer_service_representative_022,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,718.980073928833,1624,51,0.0008885
+customer_service_representative_022,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,1329.211950302124,1624,51,0.0008885
+customer_service_representative_023,Customer Service Representative,0,gpt-3.5-turbo,3,2,2,4,3,2,716.1159515380859,1413,51,0.000783
+customer_service_representative_023,Customer Service Representative,1,gpt-3.5-turbo,3,2,2,4,3,2,1046.6439723968506,1413,51,0.000783
+customer_service_representative_023,Customer Service Representative,2,gpt-3.5-turbo,3,2,2,4,3,2,1410.9270572662354,1413,51,0.000783
+customer_service_representative_023,Customer Service Representative,3,gpt-3.5-turbo,3,2,2,4,3,2,716.4750099182129,1413,51,0.000783
+customer_service_representative_023,Customer Service Representative,4,gpt-3.5-turbo,3,2,2,4,3,2,637.1490955352783,1413,51,0.000783
+customer_service_representative_024,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,3,2,796.6220378875732,1353,51,0.000753
+customer_service_representative_024,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,3,2,687.6237392425537,1353,51,0.000753
+customer_service_representative_024,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,2,3,2,777.9061794281006,1353,51,0.000753
+customer_service_representative_024,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,3,2,891.3149833679199,1353,51,0.000753
+customer_service_representative_024,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,3,2,818.0761337280273,1353,51,0.000753
+customer_service_representative_025,Customer Service Representative,0,gpt-3.5-turbo,7,6,7,6,7,8,921.5829372406006,1648,51,0.0009004999999999999
+customer_service_representative_025,Customer Service Representative,1,gpt-3.5-turbo,7,6,8,7,8,8,716.616153717041,1648,51,0.0009004999999999999
+customer_service_representative_025,Customer Service Representative,2,gpt-3.5-turbo,7,6,8,7,8,8,622.3812103271484,1648,51,0.0009004999999999999
+customer_service_representative_025,Customer Service Representative,3,gpt-3.5-turbo,7,6,8,7,8,8,707.5986862182617,1648,51,0.0009004999999999999
+customer_service_representative_025,Customer Service Representative,4,gpt-3.5-turbo,7,6,8,7,8,8,658.6287021636963,1648,51,0.0009004999999999999
+customer_service_representative_026,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,730.8320999145508,1636,51,0.0008945
+customer_service_representative_026,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,760.9281539916992,1636,51,0.0008945
+customer_service_representative_026,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,1331.2139511108398,1636,51,0.0008945
+customer_service_representative_026,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,832.664966583252,1636,51,0.0008945
+customer_service_representative_026,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,816.7369365692139,1636,51,0.0008945
+customer_service_representative_027,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,707.2310447692871,2153,51,0.001153
+customer_service_representative_027,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1124.8068809509277,2153,51,0.001153
+customer_service_representative_027,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,1109.4417572021484,2153,51,0.001153
+customer_service_representative_027,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,939.810037612915,2153,51,0.001153
+customer_service_representative_027,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,826.2100219726562,2153,51,0.001153
+customer_service_representative_028,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,1118.4580326080322,1557,51,0.000855
+customer_service_representative_028,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,919.8031425476074,1557,51,0.000855
+customer_service_representative_028,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,615.0221824645996,1557,51,0.000855
+customer_service_representative_028,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,1024.0490436553955,1557,51,0.000855
+customer_service_representative_028,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,819.9067115783691,1557,51,0.000855
+customer_service_representative_029,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,835.1333141326904,2144,51,0.0011485
+customer_service_representative_029,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,9,9,968.85085105896,2144,51,0.0011485
+customer_service_representative_029,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,858.6649894714355,2144,51,0.0011485
+customer_service_representative_029,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,1291.1453247070312,2144,51,0.0011485
+customer_service_representative_029,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,9,9,1169.6529388427734,2144,51,0.0011485
+customer_service_representative_030,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,662.6548767089844,1497,51,0.000825
+customer_service_representative_030,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,878.8290023803711,1497,51,0.000825
+customer_service_representative_030,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,705.8758735656738,1497,51,0.000825
+customer_service_representative_030,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,7,716.7789936065674,1497,51,0.000825
+customer_service_representative_030,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,895.4970836639404,1497,51,0.000825
+customer_service_representative_031,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,8,9,9,1562.713861465454,2219,51,0.001186
+customer_service_representative_031,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,8,9,9,818.8550472259521,2219,51,0.001186
+customer_service_representative_031,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,8,9,9,1717.0641422271729,2219,51,0.001186
+customer_service_representative_031,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,8,9,9,638.5350227355957,2219,51,0.001186
+customer_service_representative_031,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,8,9,9,1013.2331848144531,2219,51,0.001186
+customer_service_representative_032,Customer Service Representative,0,gpt-3.5-turbo,8,9,9,8,9,9,1004.7318935394287,2322,51,0.0012374999999999999
+customer_service_representative_032,Customer Service Representative,1,gpt-3.5-turbo,8,9,9,8,9,9,939.708948135376,2322,51,0.0012374999999999999
+customer_service_representative_032,Customer Service Representative,2,gpt-3.5-turbo,8,9,9,8,9,9,1974.330186843872,2322,51,0.0012374999999999999
+customer_service_representative_032,Customer Service Representative,3,gpt-3.5-turbo,8,9,9,8,9,9,944.0691471099854,2322,51,0.0012374999999999999
+customer_service_representative_032,Customer Service Representative,4,gpt-3.5-turbo,8,9,9,8,9,9,1254.328966140747,2322,51,0.0012374999999999999
+customer_service_representative_033,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,9,9,847.0659255981445,2001,51,0.001077
+customer_service_representative_033,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,9,8,893.8138484954834,2001,51,0.001077
+customer_service_representative_033,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,9,9,1146.8079090118408,2001,51,0.001077
+customer_service_representative_033,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,9,9,731.4229011535645,2001,51,0.001077
+customer_service_representative_033,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,9,9,698.3802318572998,2001,51,0.001077
+customer_service_representative_034,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,1145.2281475067139,1539,51,0.000846
+customer_service_representative_034,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,777.7371406555176,1539,51,0.000846
+customer_service_representative_034,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,728.5339832305908,1539,51,0.000846
+customer_service_representative_034,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,623.0220794677734,1539,51,0.000846
+customer_service_representative_034,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,839.8520946502686,1539,51,0.000846
+customer_service_representative_035,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,792.4699783325195,1723,51,0.0009379999999999999
+customer_service_representative_035,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,914.1528606414795,1723,51,0.0009379999999999999
+customer_service_representative_035,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,803.2667636871338,1723,51,0.0009379999999999999
+customer_service_representative_035,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,1097.7649688720703,1723,51,0.0009379999999999999
+customer_service_representative_035,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,693.9237117767334,1723,51,0.0009379999999999999
+customer_service_representative_036,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,817.8989887237549,2048,51,0.0011005
+customer_service_representative_036,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,819.8838233947754,2048,51,0.0011005
+customer_service_representative_036,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,1125.8301734924316,2048,51,0.0011005
+customer_service_representative_036,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,747.2660541534424,2048,51,0.0011005
+customer_service_representative_036,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,1200.434923171997,2048,51,0.0011005
+customer_service_representative_037,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,2,2,1168.9341068267822,1340,51,0.0007465
+customer_service_representative_037,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,2,2,775.4991054534912,1340,51,0.0007465
+customer_service_representative_037,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,2,2,2,921.0178852081299,1340,51,0.0007465
+customer_service_representative_037,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,2,2,931.6890239715576,1340,51,0.0007465
+customer_service_representative_037,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,2,2,737.3270988464355,1340,51,0.0007465
+customer_service_representative_038,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,787.3880863189697,1536,51,0.0008445
+customer_service_representative_038,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,921.5490818023682,1536,51,0.0008445
+customer_service_representative_038,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,767.0609951019287,1536,51,0.0008445
+customer_service_representative_038,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,1009.1769695281982,1536,51,0.0008445
+customer_service_representative_038,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,989.6821975708008,1536,51,0.0008445
+customer_service_representative_039,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,2,2,770.6742286682129,1460,51,0.0008064999999999999
+customer_service_representative_039,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,2,2,763.6673450469971,1460,51,0.0008064999999999999
+customer_service_representative_039,Customer Service Representative,2,gpt-3.5-turbo,4,3,4,2,3,2,916.0349369049072,1460,51,0.0008064999999999999
+customer_service_representative_039,Customer Service Representative,3,gpt-3.5-turbo,4,3,4,2,3,2,722.8751182556152,1460,51,0.0008064999999999999
+customer_service_representative_039,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,2,2,746.1841106414795,1460,51,0.0008064999999999999
+customer_service_representative_040,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,4,3,2,891.312837600708,1389,51,0.000771
+customer_service_representative_040,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,4,3,2,1435.0481033325195,1389,51,0.000771
+customer_service_representative_040,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,2,3,2,817.6548480987549,1389,51,0.000771
+customer_service_representative_040,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,2,3,2,1331.2301635742188,1389,51,0.000771
+customer_service_representative_040,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,3,2,922.9841232299805,1389,51,0.000771
+customer_service_representative_041,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,715.0719165802002,1632,51,0.0008925
+customer_service_representative_041,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,686.9587898254395,1632,51,0.0008925
+customer_service_representative_041,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,1180.3960800170898,1632,51,0.0008925
+customer_service_representative_041,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,685.4732036590576,1632,51,0.0008925
+customer_service_representative_041,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,826.2736797332764,1632,51,0.0008925
+customer_service_representative_042,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,1503.0522346496582,1590,51,0.0008715
+customer_service_representative_042,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,1057.3959350585938,1590,51,0.0008715
+customer_service_representative_042,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,1227.8461456298828,1590,51,0.0008715
+customer_service_representative_042,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,843.3940410614014,1590,51,0.0008715
+customer_service_representative_042,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,999.3188381195068,1590,51,0.0008715
+customer_service_representative_043,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,835.5967998504639,2291,51,0.001222
+customer_service_representative_043,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1007.2939395904541,2291,51,0.001222
+customer_service_representative_043,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,819.1068172454834,2291,51,0.001222
+customer_service_representative_043,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,804.9747943878174,2291,51,0.001222
+customer_service_representative_043,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,731.2300205230713,2291,51,0.001222
+customer_service_representative_044,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,785.8419418334961,1583,51,0.000868
+customer_service_representative_044,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,885.7080936431885,1583,51,0.000868
+customer_service_representative_044,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,1154.4749736785889,1583,51,0.000868
+customer_service_representative_044,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,787.6698970794678,1583,51,0.000868
+customer_service_representative_044,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,1199.8810768127441,1583,51,0.000868
+customer_service_representative_045,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,946.1669921875,1772,51,0.0009624999999999999
+customer_service_representative_045,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,879.0781497955322,1772,51,0.0009624999999999999
+customer_service_representative_045,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,657.4909687042236,1772,51,0.0009624999999999999
+customer_service_representative_045,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,802.1259307861328,1772,51,0.0009624999999999999
+customer_service_representative_045,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,1222.1498489379883,1772,51,0.0009624999999999999
+customer_service_representative_046,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,817.4769878387451,1753,51,0.000953
+customer_service_representative_046,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,844.4209098815918,1753,51,0.000953
+customer_service_representative_046,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,946.3541507720947,1753,51,0.000953
+customer_service_representative_046,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,1133.6891651153564,1753,51,0.000953
+customer_service_representative_046,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,757.7791213989258,1753,51,0.000953
+customer_service_representative_047,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,8,9,9,1013.7450695037842,2241,51,0.001197
+customer_service_representative_047,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1349.1499423980713,2241,51,0.001197
+customer_service_representative_047,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,797.2574234008789,2241,51,0.001197
+customer_service_representative_047,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,8,9,9,705.6307792663574,2241,51,0.001197
+customer_service_representative_047,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,948.9767551422119,2241,51,0.001197
+customer_service_representative_048,Customer Service Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,1191.9879913330078,1549,51,0.000851
+customer_service_representative_048,Customer Service Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,1035.9671115875244,1549,51,0.000851
+customer_service_representative_048,Customer Service Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,722.1250534057617,1549,51,0.000851
+customer_service_representative_048,Customer Service Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,1045.3190803527832,1549,51,0.000851
+customer_service_representative_048,Customer Service Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,804.5480251312256,1549,51,0.000851
+customer_service_representative_049,Customer Service Representative,0,gpt-3.5-turbo,3,2,3,2,3,2,693.3391094207764,1294,51,0.0007235
+customer_service_representative_049,Customer Service Representative,1,gpt-3.5-turbo,3,2,3,2,3,2,1051.6080856323242,1294,51,0.0007235
+customer_service_representative_049,Customer Service Representative,2,gpt-3.5-turbo,3,2,3,4,3,2,1246.992826461792,1294,51,0.0007235
+customer_service_representative_049,Customer Service Representative,3,gpt-3.5-turbo,3,2,3,4,3,2,913.5267734527588,1294,51,0.0007235
+customer_service_representative_049,Customer Service Representative,4,gpt-3.5-turbo,3,2,3,2,3,2,1130.924940109253,1294,51,0.0007235
+customer_service_representative_050,Customer Service Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,804.6748638153076,2152,51,0.0011524999999999999
+customer_service_representative_050,Customer Service Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1309.203863143921,2152,51,0.0011524999999999999
+customer_service_representative_050,Customer Service Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,1054.3959140777588,2152,51,0.0011524999999999999
+customer_service_representative_050,Customer Service Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,1229.6102046966553,2152,51,0.0011524999999999999
+customer_service_representative_050,Customer Service Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,663.6731624603271,2152,51,0.0011524999999999999
+sales_representative_001,Sales Representative,0,gpt-3.5-turbo,7,8,7,7,8,8,869.6799278259277,1243,51,0.0006979999999999999
+sales_representative_001,Sales Representative,1,gpt-3.5-turbo,7,8,7,6,7,8,780.815839767456,1243,51,0.0006979999999999999
+sales_representative_001,Sales Representative,2,gpt-3.5-turbo,7,8,7,6,7,8,953.6178112030029,1243,51,0.0006979999999999999
+sales_representative_001,Sales Representative,3,gpt-3.5-turbo,7,8,7,7,8,8,1644.7069644927979,1243,51,0.0006979999999999999
+sales_representative_001,Sales Representative,4,gpt-3.5-turbo,7,8,7,6,7,8,883.6901187896729,1243,51,0.0006979999999999999
+sales_representative_002,Sales Representative,0,gpt-3.5-turbo,4,2,3,2,3,2,810.5452060699463,1130,51,0.0006414999999999999
+sales_representative_002,Sales Representative,1,gpt-3.5-turbo,3,2,4,2,3,2,641.2568092346191,1130,51,0.0006414999999999999
+sales_representative_002,Sales Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,918.5049533843994,1130,51,0.0006414999999999999
+sales_representative_002,Sales Representative,3,gpt-3.5-turbo,4,2,3,2,3,2,1558.8901042938232,1130,51,0.0006414999999999999
+sales_representative_002,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,920.7069873809814,1130,51,0.0006414999999999999
+sales_representative_003,Sales Representative,0,gpt-3.5-turbo,4,3,4,2,3,2,871.690034866333,1124,51,0.0006385
+sales_representative_003,Sales Representative,1,gpt-3.5-turbo,4,3,3,2,3,2,666.5210723876953,1124,51,0.0006385
+sales_representative_003,Sales Representative,2,gpt-3.5-turbo,4,3,5,2,3,2,780.4811000823975,1124,51,0.0006385
+sales_representative_003,Sales Representative,3,gpt-3.5-turbo,4,3,4,2,3,2,1282.1779251098633,1124,51,0.0006385
+sales_representative_003,Sales Representative,4,gpt-3.5-turbo,4,3,4,2,3,2,594.6540832519531,1124,51,0.0006385
+sales_representative_004,Sales Representative,0,gpt-3.5-turbo,7,8,7,7,8,8,672.5950241088867,1211,51,0.000682
+sales_representative_004,Sales Representative,1,gpt-3.5-turbo,7,8,7,7,8,8,1053.246021270752,1211,51,0.000682
+sales_representative_004,Sales Representative,2,gpt-3.5-turbo,7,8,7,7,8,8,706.5348625183105,1211,51,0.000682
+sales_representative_004,Sales Representative,3,gpt-3.5-turbo,7,8,7,6,7,8,811.3081455230713,1211,51,0.000682
+sales_representative_004,Sales Representative,4,gpt-3.5-turbo,7,8,7,6,7,8,612.4758720397949,1211,51,0.000682
+sales_representative_005,Sales Representative,0,gpt-3.5-turbo,3,2,2,1,2,2,1199.5577812194824,1105,51,0.000629
+sales_representative_005,Sales Representative,1,gpt-3.5-turbo,3,2,2,1,2,2,782.9759120941162,1105,51,0.000629
+sales_representative_005,Sales Representative,2,gpt-3.5-turbo,3,2,2,1,2,2,661.0591411590576,1105,51,0.000629
+sales_representative_005,Sales Representative,3,gpt-3.5-turbo,3,2,2,1,2,2,884.6468925476074,1105,51,0.000629
+sales_representative_005,Sales Representative,4,gpt-3.5-turbo,3,2,2,1,2,2,708.4000110626221,1105,51,0.000629
+sales_representative_006,Sales Representative,0,gpt-3.5-turbo,4,3,2,2,3,2,773.561954498291,1172,51,0.0006625
+sales_representative_006,Sales Representative,1,gpt-3.5-turbo,4,3,2,1,2,3,842.6592350006104,1172,51,0.0006625
+sales_representative_006,Sales Representative,2,gpt-3.5-turbo,4,3,2,1,2,3,1522.933006286621,1172,51,0.0006625
+sales_representative_006,Sales Representative,3,gpt-3.5-turbo,4,3,2,1,2,3,932.18994140625,1172,51,0.0006625
+sales_representative_006,Sales Representative,4,gpt-3.5-turbo,4,3,2,2,3,2,1102.410078048706,1172,51,0.0006625
+sales_representative_007,Sales Representative,0,gpt-3.5-turbo,7,8,7,7,8,8,663.3000373840332,1202,51,0.0006774999999999999
+sales_representative_007,Sales Representative,1,gpt-3.5-turbo,7,8,7,7,8,8,1366.1460876464844,1202,51,0.0006774999999999999
+sales_representative_007,Sales Representative,2,gpt-3.5-turbo,7,8,7,7,8,8,871.5898990631104,1202,51,0.0006774999999999999
+sales_representative_007,Sales Representative,3,gpt-3.5-turbo,7,8,7,7,8,8,831.428050994873,1202,51,0.0006774999999999999
+sales_representative_007,Sales Representative,4,gpt-3.5-turbo,7,8,7,7,8,8,1925.903081893921,1202,51,0.0006774999999999999
+sales_representative_008,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,1147.3848819732666,1741,51,0.0009469999999999999
+sales_representative_008,Sales Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,818.2621002197266,1741,51,0.0009469999999999999
+sales_representative_008,Sales Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,681.3180446624756,1741,51,0.0009469999999999999
+sales_representative_008,Sales Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,1110.1303100585938,1741,51,0.0009469999999999999
+sales_representative_008,Sales Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,642.3308849334717,1741,51,0.0009469999999999999
+sales_representative_009,Sales Representative,0,gpt-3.5-turbo,3,2,3,1,2,2,1355.3903102874756,1101,51,0.000627
+sales_representative_009,Sales Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,866.6191101074219,1101,51,0.000627
+sales_representative_009,Sales Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,770.1077461242676,1101,51,0.000627
+sales_representative_009,Sales Representative,3,gpt-3.5-turbo,4,2,3,2,3,2,843.4550762176514,1101,51,0.000627
+sales_representative_009,Sales Representative,4,gpt-3.5-turbo,3,2,2,1,2,2,796.0870265960693,1101,51,0.000627
+sales_representative_010,Sales Representative,0,gpt-3.5-turbo,4,2,3,2,3,2,772.770881652832,1188,51,0.0006705
+sales_representative_010,Sales Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,667.9208278656006,1188,51,0.0006705
+sales_representative_010,Sales Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,1025.825023651123,1188,51,0.0006705
+sales_representative_010,Sales Representative,3,gpt-3.5-turbo,4,2,3,2,3,2,1531.214714050293,1188,51,0.0006705
+sales_representative_010,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,1430.370807647705,1188,51,0.0006705
+sales_representative_011,Sales Representative,0,gpt-3.5-turbo,4,3,2,2,3,2,617.8150177001953,1188,51,0.0006705
+sales_representative_011,Sales Representative,1,gpt-3.5-turbo,4,3,2,2,3,2,629.4839382171631,1188,51,0.0006705
+sales_representative_011,Sales Representative,2,gpt-3.5-turbo,4,3,2,2,3,2,1823.8039016723633,1188,51,0.0006705
+sales_representative_011,Sales Representative,3,gpt-3.5-turbo,4,3,2,2,3,2,816.796064376831,1188,51,0.0006705
+sales_representative_011,Sales Representative,4,gpt-3.5-turbo,4,3,2,2,3,2,1090.5349254608154,1188,51,0.0006705
+sales_representative_012,Sales Representative,0,gpt-3.5-turbo,7,8,7,7,8,8,1060.4770183563232,1228,51,0.0006904999999999999
+sales_representative_012,Sales Representative,1,gpt-3.5-turbo,7,8,7,7,8,8,920.9499359130859,1228,51,0.0006904999999999999
+sales_representative_012,Sales Representative,2,gpt-3.5-turbo,7,8,7,6,7,8,2202.099084854126,1228,51,0.0006904999999999999
+sales_representative_012,Sales Representative,3,gpt-3.5-turbo,7,8,7,6,7,8,735.914945602417,1228,51,0.0006904999999999999
+sales_representative_012,Sales Representative,4,gpt-3.5-turbo,7,8,7,7,8,8,801.5968799591064,1228,51,0.0006904999999999999
+sales_representative_013,Sales Representative,0,gpt-3.5-turbo,3,1,2,1,2,2,1185.8859062194824,1262,51,0.0007075
+sales_representative_013,Sales Representative,1,gpt-3.5-turbo,3,1,2,1,2,2,1898.3039855957031,1262,51,0.0007075
+sales_representative_013,Sales Representative,2,gpt-3.5-turbo,3,1,2,1,2,2,1060.281753540039,1262,51,0.0007075
+sales_representative_013,Sales Representative,3,gpt-3.5-turbo,3,1,2,1,2,2,819.7658061981201,1262,51,0.0007075
+sales_representative_013,Sales Representative,4,gpt-3.5-turbo,3,1,2,1,2,2,743.3350086212158,1262,51,0.0007075
+sales_representative_014,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,700.9639739990234,1693,51,0.000923
+sales_representative_014,Sales Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,911.8709564208984,1693,51,0.000923
+sales_representative_014,Sales Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,850.0380516052246,1693,51,0.000923
+sales_representative_014,Sales Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,873.9328384399414,1693,51,0.000923
+sales_representative_014,Sales Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,809.5040321350098,1693,51,0.000923
+sales_representative_015,Sales Representative,0,gpt-3.5-turbo,7,8,7,6,8,8,692.3298835754395,1264,51,0.0007084999999999999
+sales_representative_015,Sales Representative,1,gpt-3.5-turbo,7,8,7,6,8,8,2431.3061237335205,1264,51,0.0007084999999999999
+sales_representative_015,Sales Representative,2,gpt-3.5-turbo,7,8,7,6,7,8,1201.2779712677002,1264,51,0.0007084999999999999
+sales_representative_015,Sales Representative,3,gpt-3.5-turbo,7,8,7,6,8,8,819.0009593963623,1264,51,0.0007084999999999999
+sales_representative_015,Sales Representative,4,gpt-3.5-turbo,7,8,7,6,8,8,1127.9242038726807,1264,51,0.0007084999999999999
+sales_representative_016,Sales Representative,0,gpt-3.5-turbo,4,3,2,2,3,2,741.4798736572266,1160,51,0.0006565
+sales_representative_016,Sales Representative,1,gpt-3.5-turbo,4,3,2,2,3,2,749.1500377655029,1160,51,0.0006565
+sales_representative_016,Sales Representative,2,gpt-3.5-turbo,4,3,2,2,3,2,712.3701572418213,1160,51,0.0006565
+sales_representative_016,Sales Representative,3,gpt-3.5-turbo,4,3,2,2,3,2,794.0077781677246,1160,44,0.000646
+sales_representative_016,Sales Representative,4,gpt-3.5-turbo,4,3,2,2,3,2,1419.3711280822754,1160,44,0.000646
+sales_representative_017,Sales Representative,0,gpt-3.5-turbo,4,2,3,2,3,2,1013.5529041290283,1235,51,0.000694
+sales_representative_017,Sales Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,766.5531635284424,1235,51,0.000694
+sales_representative_017,Sales Representative,2,gpt-3.5-turbo,5,2,3,2,3,2,1429.0368556976318,1235,51,0.000694
+sales_representative_017,Sales Representative,3,gpt-3.5-turbo,5,2,3,2,3,2,784.9609851837158,1235,51,0.000694
+sales_representative_017,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,1098.639726638794,1235,51,0.000694
+sales_representative_018,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,774.9831676483154,1924,51,0.0010385
+sales_representative_018,Sales Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,865.0219440460205,1924,51,0.0010385
+sales_representative_018,Sales Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,758.4221363067627,1924,51,0.0010385
+sales_representative_018,Sales Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,1402.5671482086182,1924,51,0.0010385
+sales_representative_018,Sales Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,795.2439785003662,1924,51,0.0010385
+sales_representative_019,Sales Representative,0,gpt-3.5-turbo,3,2,2,1,2,2,843.7192440032959,1151,51,0.0006519999999999999
+sales_representative_019,Sales Representative,1,gpt-3.5-turbo,3,2,2,1,2,2,825.4349231719971,1151,51,0.0006519999999999999
+sales_representative_019,Sales Representative,2,gpt-3.5-turbo,3,2,2,1,2,2,740.3719425201416,1151,51,0.0006519999999999999
+sales_representative_019,Sales Representative,3,gpt-3.5-turbo,3,2,2,1,2,2,885.2567672729492,1151,51,0.0006519999999999999
+sales_representative_019,Sales Representative,4,gpt-3.5-turbo,3,2,2,1,2,2,757.95578956604,1151,51,0.0006519999999999999
+sales_representative_020,Sales Representative,0,gpt-3.5-turbo,7,8,7,6,8,8,745.2218532562256,1311,51,0.000732
+sales_representative_020,Sales Representative,1,gpt-3.5-turbo,7,8,7,6,8,8,932.1210384368896,1311,51,0.000732
+sales_representative_020,Sales Representative,2,gpt-3.5-turbo,7,8,7,6,8,8,743.7870502471924,1311,51,0.000732
+sales_representative_020,Sales Representative,3,gpt-3.5-turbo,7,8,7,6,8,8,613.4719848632812,1311,51,0.000732
+sales_representative_020,Sales Representative,4,gpt-3.5-turbo,7,8,7,6,8,8,882.8878402709961,1311,51,0.000732
+sales_representative_021,Sales Representative,0,gpt-3.5-turbo,7,8,8,7,8,8,1268.489122390747,1258,51,0.0007055
+sales_representative_021,Sales Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,715.3480052947998,1258,51,0.0007055
+sales_representative_021,Sales Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,729.0959358215332,1258,51,0.0007055
+sales_representative_021,Sales Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,807.4958324432373,1258,51,0.0007055
+sales_representative_021,Sales Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,584.0089321136475,1258,51,0.0007055
+sales_representative_022,Sales Representative,0,gpt-3.5-turbo,4,2,3,2,3,2,1280.9240818023682,1128,51,0.0006405
+sales_representative_022,Sales Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,693.6020851135254,1128,51,0.0006405
+sales_representative_022,Sales Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,613.8739585876465,1128,51,0.0006405
+sales_representative_022,Sales Representative,3,gpt-3.5-turbo,4,2,3,2,3,2,819.6220397949219,1128,51,0.0006405
+sales_representative_022,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,819.2057609558105,1128,51,0.0006405
+sales_representative_023,Sales Representative,0,gpt-3.5-turbo,7,8,7,7,8,8,780.8740139007568,1331,51,0.0007419999999999999
+sales_representative_023,Sales Representative,1,gpt-3.5-turbo,7,8,7,7,8,8,652.184009552002,1331,51,0.0007419999999999999
+sales_representative_023,Sales Representative,2,gpt-3.5-turbo,7,8,7,7,8,8,684.1967105865479,1331,51,0.0007419999999999999
+sales_representative_023,Sales Representative,3,gpt-3.5-turbo,7,8,7,7,8,8,749.439001083374,1331,51,0.0007419999999999999
+sales_representative_023,Sales Representative,4,gpt-3.5-turbo,7,8,7,7,8,8,579.9088478088379,1331,51,0.0007419999999999999
+sales_representative_024,Sales Representative,0,gpt-3.5-turbo,7,8,7,7,8,8,957.8230381011963,1222,51,0.0006875
+sales_representative_024,Sales Representative,1,gpt-3.5-turbo,7,8,7,7,8,8,735.2020740509033,1222,51,0.0006875
+sales_representative_024,Sales Representative,2,gpt-3.5-turbo,7,8,7,7,8,8,900.4490375518799,1222,51,0.0006875
+sales_representative_024,Sales Representative,3,gpt-3.5-turbo,7,8,7,7,8,8,787.5263690948486,1222,51,0.0006875
+sales_representative_024,Sales Representative,4,gpt-3.5-turbo,7,8,7,7,8,8,647.4361419677734,1222,51,0.0006875
+sales_representative_025,Sales Representative,0,gpt-3.5-turbo,4,3,2,2,3,3,718.5962200164795,1092,51,0.0006225
+sales_representative_025,Sales Representative,1,gpt-3.5-turbo,4,3,2,2,3,2,816.1029815673828,1092,51,0.0006225
+sales_representative_025,Sales Representative,2,gpt-3.5-turbo,4,3,2,2,3,3,718.4808254241943,1092,51,0.0006225
+sales_representative_025,Sales Representative,3,gpt-3.5-turbo,4,3,2,2,3,3,714.9648666381836,1092,51,0.0006225
+sales_representative_025,Sales Representative,4,gpt-3.5-turbo,4,3,2,2,3,3,593.1458473205566,1092,51,0.0006225
+sales_representative_026,Sales Representative,0,gpt-3.5-turbo,3,2,2,1,2,2,817.5828456878662,1085,51,0.000619
+sales_representative_026,Sales Representative,1,gpt-3.5-turbo,3,2,2,1,2,2,663.9080047607422,1085,51,0.000619
+sales_representative_026,Sales Representative,2,gpt-3.5-turbo,3,2,2,1,2,2,690.5522346496582,1085,51,0.000619
+sales_representative_026,Sales Representative,3,gpt-3.5-turbo,3,2,2,1,2,2,1433.2091808319092,1085,51,0.000619
+sales_representative_026,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,818.4628486633301,1085,51,0.000619
+sales_representative_027,Sales Representative,0,gpt-3.5-turbo,7,8,7,7,8,8,716.5017127990723,1349,51,0.0007509999999999999
+sales_representative_027,Sales Representative,1,gpt-3.5-turbo,7,8,7,7,8,8,916.2149429321289,1349,51,0.0007509999999999999
+sales_representative_027,Sales Representative,2,gpt-3.5-turbo,7,8,7,7,8,8,1002.6571750640869,1349,51,0.0007509999999999999
+sales_representative_027,Sales Representative,3,gpt-3.5-turbo,7,8,7,7,8,8,1334.2339992523193,1349,51,0.0007509999999999999
+sales_representative_027,Sales Representative,4,gpt-3.5-turbo,7,8,7,7,8,8,741.1370277404785,1349,51,0.0007509999999999999
+sales_representative_028,Sales Representative,0,gpt-3.5-turbo,7,6,7,6,7,8,708.3017826080322,1230,51,0.0006915
+sales_representative_028,Sales Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,824.688196182251,1230,51,0.0006915
+sales_representative_028,Sales Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,930.8619499206543,1230,51,0.0006915
+sales_representative_028,Sales Representative,3,gpt-3.5-turbo,7,8,7,6,7,8,1323.9281177520752,1230,51,0.0006915
+sales_representative_028,Sales Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,752.1278858184814,1230,51,0.0006915
+sales_representative_029,Sales Representative,0,gpt-3.5-turbo,4,3,2,5,3,2,753.9000511169434,1178,51,0.0006655
+sales_representative_029,Sales Representative,1,gpt-3.5-turbo,4,3,2,5,3,2,849.6570587158203,1178,51,0.0006655
+sales_representative_029,Sales Representative,2,gpt-3.5-turbo,4,3,2,2,3,2,822.509765625,1178,51,0.0006655
+sales_representative_029,Sales Representative,3,gpt-3.5-turbo,4,3,2,2,3,2,1019.6950435638428,1178,51,0.0006655
+sales_representative_029,Sales Representative,4,gpt-3.5-turbo,4,3,2,5,3,2,822.3927021026611,1178,51,0.0006655
+sales_representative_030,Sales Representative,0,gpt-3.5-turbo,4,2,3,2,3,2,919.0380573272705,1139,51,0.000646
+sales_representative_030,Sales Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,614.6659851074219,1139,51,0.000646
+sales_representative_030,Sales Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,628.9048194885254,1139,51,0.000646
+sales_representative_030,Sales Representative,3,gpt-3.5-turbo,4,3,2,2,3,2,1110.6009483337402,1139,51,0.000646
+sales_representative_030,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,1031.9597721099854,1139,51,0.000646
+sales_representative_031,Sales Representative,0,gpt-3.5-turbo,7,6,7,6,7,8,1016.3640975952148,1224,51,0.0006885
+sales_representative_031,Sales Representative,1,gpt-3.5-turbo,7,6,7,6,7,8,1201.6119956970215,1224,51,0.0006885
+sales_representative_031,Sales Representative,2,gpt-3.5-turbo,7,6,7,6,7,8,1767.8117752075195,1224,51,0.0006885
+sales_representative_031,Sales Representative,3,gpt-3.5-turbo,7,6,7,6,7,8,612.8528118133545,1224,51,0.0006885
+sales_representative_031,Sales Representative,4,gpt-3.5-turbo,7,6,7,6,7,8,819.0460205078125,1224,51,0.0006885
+sales_representative_032,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,717.6499366760254,1913,51,0.001033
+sales_representative_032,Sales Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1714.6060466766357,1913,51,0.001033
+sales_representative_032,Sales Representative,2,gpt-3.5-turbo,7,8,9,7,8,9,1051.2418746948242,1913,51,0.001033
+sales_representative_032,Sales Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,635.9879970550537,1913,51,0.001033
+sales_representative_032,Sales Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,616.1370277404785,1913,51,0.001033
+sales_representative_033,Sales Representative,0,gpt-3.5-turbo,5,3,4,2,3,4,1435.7271194458008,1155,51,0.000654
+sales_representative_033,Sales Representative,1,gpt-3.5-turbo,4,3,2,2,3,2,756.066083908081,1155,51,0.000654
+sales_representative_033,Sales Representative,2,gpt-3.5-turbo,4,3,2,2,3,2,1097.4352359771729,1155,51,0.000654
+sales_representative_033,Sales Representative,3,gpt-3.5-turbo,4,3,2,2,3,2,823.9707946777344,1155,51,0.000654
+sales_representative_033,Sales Representative,4,gpt-3.5-turbo,4,3,2,2,3,2,2497.9779720306396,1155,51,0.000654
+sales_representative_034,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,750.3049373626709,1770,51,0.0009615
+sales_representative_034,Sales Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,989.6039962768555,1770,51,0.0009615
+sales_representative_034,Sales Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,944.3891048431396,1770,51,0.0009615
+sales_representative_034,Sales Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,851.499080657959,1770,51,0.0009615
+sales_representative_034,Sales Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,929.652214050293,1770,51,0.0009615
+sales_representative_035,Sales Representative,0,gpt-3.5-turbo,3,2,2,2,2,2,1184.7350597381592,1122,51,0.0006374999999999999
+sales_representative_035,Sales Representative,1,gpt-3.5-turbo,3,2,2,2,2,2,1359.9507808685303,1122,51,0.0006374999999999999
+sales_representative_035,Sales Representative,2,gpt-3.5-turbo,3,2,2,2,2,2,893.0721282958984,1122,51,0.0006374999999999999
+sales_representative_035,Sales Representative,3,gpt-3.5-turbo,4,2,3,2,3,2,1535.5801582336426,1122,51,0.0006374999999999999
+sales_representative_035,Sales Representative,4,gpt-3.5-turbo,3,2,2,2,2,2,1269.6688175201416,1122,51,0.0006374999999999999
+sales_representative_036,Sales Representative,0,gpt-3.5-turbo,3,2,2,1,2,2,774.2090225219727,1099,51,0.0006259999999999999
+sales_representative_036,Sales Representative,1,gpt-3.5-turbo,3,2,4,2,3,2,610.443115234375,1099,51,0.0006259999999999999
+sales_representative_036,Sales Representative,2,gpt-3.5-turbo,3,2,2,1,2,2,731.3289642333984,1099,51,0.0006259999999999999
+sales_representative_036,Sales Representative,3,gpt-3.5-turbo,3,2,2,1,2,2,1165.696144104004,1099,51,0.0006259999999999999
+sales_representative_036,Sales Representative,4,gpt-3.5-turbo,3,2,4,2,3,2,796.8671321868896,1099,51,0.0006259999999999999
+sales_representative_037,Sales Representative,0,gpt-3.5-turbo,4,3,2,2,3,2,796.133279800415,1119,51,0.000636
+sales_representative_037,Sales Representative,1,gpt-3.5-turbo,4,3,2,2,3,2,1110.0821495056152,1119,51,0.000636
+sales_representative_037,Sales Representative,2,gpt-3.5-turbo,4,3,2,2,3,2,725.7390022277832,1119,51,0.000636
+sales_representative_037,Sales Representative,3,gpt-3.5-turbo,4,3,2,2,3,2,1074.3129253387451,1119,51,0.000636
+sales_representative_037,Sales Representative,4,gpt-3.5-turbo,4,3,2,2,3,2,1319.671869277954,1119,51,0.000636
+sales_representative_038,Sales Representative,0,gpt-3.5-turbo,7,8,7,6,7,8,624.6120929718018,1264,51,0.0007084999999999999
+sales_representative_038,Sales Representative,1,gpt-3.5-turbo,7,8,7,6,8,8,1083.7619304656982,1264,51,0.0007084999999999999
+sales_representative_038,Sales Representative,2,gpt-3.5-turbo,7,8,7,6,7,8,1227.7569770812988,1264,51,0.0007084999999999999
+sales_representative_038,Sales Representative,3,gpt-3.5-turbo,7,8,7,6,8,8,821.6781616210938,1264,51,0.0007084999999999999
+sales_representative_038,Sales Representative,4,gpt-3.5-turbo,7,8,7,6,8,8,919.9140071868896,1264,51,0.0007084999999999999
+sales_representative_039,Sales Representative,0,gpt-3.5-turbo,7,6,7,6,7,8,601.7370223999023,1275,51,0.000714
+sales_representative_039,Sales Representative,1,gpt-3.5-turbo,7,6,7,6,7,8,857.4211597442627,1275,51,0.000714
+sales_representative_039,Sales Representative,2,gpt-3.5-turbo,7,6,7,6,7,8,1716.6128158569336,1275,51,0.000714
+sales_representative_039,Sales Representative,3,gpt-3.5-turbo,7,6,7,6,7,8,587.4321460723877,1275,51,0.000714
+sales_representative_039,Sales Representative,4,gpt-3.5-turbo,7,6,7,6,7,8,784.1317653656006,1275,51,0.000714
+sales_representative_040,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,777.5602340698242,1778,51,0.0009655
+sales_representative_040,Sales Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1025.007963180542,1778,51,0.0009655
+sales_representative_040,Sales Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,768.8601016998291,1778,51,0.0009655
+sales_representative_040,Sales Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,862.5478744506836,1778,51,0.0009655
+sales_representative_040,Sales Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,579.8251628875732,1778,51,0.0009655
+sales_representative_041,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,758.2857608795166,1648,51,0.0009004999999999999
+sales_representative_041,Sales Representative,1,gpt-3.5-turbo,8,9,8,7,8,9,1124.6919631958008,1648,51,0.0009004999999999999
+sales_representative_041,Sales Representative,2,gpt-3.5-turbo,8,9,8,7,8,9,818.5758590698242,1648,51,0.0009004999999999999
+sales_representative_041,Sales Representative,3,gpt-3.5-turbo,8,9,8,7,8,9,818.861722946167,1648,51,0.0009004999999999999
+sales_representative_041,Sales Representative,4,gpt-3.5-turbo,8,9,8,7,8,9,832.9992294311523,1648,51,0.0009004999999999999
+sales_representative_042,Sales Representative,0,gpt-3.5-turbo,4,2,3,2,3,2,1413.3100509643555,1172,51,0.0006625
+sales_representative_042,Sales Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,649.9841213226318,1172,51,0.0006625
+sales_representative_042,Sales Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,770.8690166473389,1172,51,0.0006625
+sales_representative_042,Sales Representative,3,gpt-3.5-turbo,4,2,3,2,3,2,647.4847793579102,1172,51,0.0006625
+sales_representative_042,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,619.9829578399658,1172,51,0.0006625
+sales_representative_043,Sales Representative,0,gpt-3.5-turbo,7,6,7,6,7,8,1067.706823348999,1235,51,0.000694
+sales_representative_043,Sales Representative,1,gpt-3.5-turbo,7,6,7,6,7,8,605.065107345581,1235,51,0.000694
+sales_representative_043,Sales Representative,2,gpt-3.5-turbo,7,6,7,6,7,8,1356.1091423034668,1235,51,0.000694
+sales_representative_043,Sales Representative,3,gpt-3.5-turbo,7,6,7,6,7,8,908.0691337585449,1235,51,0.000694
+sales_representative_043,Sales Representative,4,gpt-3.5-turbo,7,6,7,6,7,8,723.4640121459961,1235,51,0.000694
+sales_representative_044,Sales Representative,0,gpt-3.5-turbo,5,4,3,2,4,3,911.5560054779053,1041,51,0.000597
+sales_representative_044,Sales Representative,1,gpt-3.5-turbo,5,4,3,2,4,3,968.0750370025635,1041,51,0.000597
+sales_representative_044,Sales Representative,2,gpt-3.5-turbo,5,4,3,2,4,3,617.8581714630127,1041,51,0.000597
+sales_representative_044,Sales Representative,3,gpt-3.5-turbo,5,4,3,2,3,4,1344.1052436828613,1041,51,0.000597
+sales_representative_044,Sales Representative,4,gpt-3.5-turbo,5,4,3,2,3,4,978.1630039215088,1041,51,0.000597
+sales_representative_045,Sales Representative,0,gpt-3.5-turbo,4,3,2,2,3,2,1219.9058532714844,1150,51,0.0006515
+sales_representative_045,Sales Representative,1,gpt-3.5-turbo,4,3,3,2,3,2,646.6209888458252,1150,51,0.0006515
+sales_representative_045,Sales Representative,2,gpt-3.5-turbo,4,3,2,2,3,2,861.3448143005371,1150,51,0.0006515
+sales_representative_045,Sales Representative,3,gpt-3.5-turbo,4,3,3,2,3,2,1306.908369064331,1150,51,0.0006515
+sales_representative_045,Sales Representative,4,gpt-3.5-turbo,4,3,2,2,3,2,811.0871315002441,1150,51,0.0006515
+sales_representative_046,Sales Representative,0,gpt-3.5-turbo,8,9,8,7,8,9,906.0018062591553,1746,51,0.0009494999999999999
+sales_representative_046,Sales Representative,1,gpt-3.5-turbo,7,8,8,7,8,8,843.7070846557617,1746,51,0.0009494999999999999
+sales_representative_046,Sales Representative,2,gpt-3.5-turbo,7,8,8,7,8,8,681.1461448669434,1746,51,0.0009494999999999999
+sales_representative_046,Sales Representative,3,gpt-3.5-turbo,7,8,8,7,8,8,759.8311901092529,1746,51,0.0009494999999999999
+sales_representative_046,Sales Representative,4,gpt-3.5-turbo,7,8,8,7,8,8,658.7440967559814,1746,51,0.0009494999999999999
+sales_representative_047,Sales Representative,0,gpt-3.5-turbo,7,8,7,6,7,8,974.714994430542,1279,51,0.000716
+sales_representative_047,Sales Representative,1,gpt-3.5-turbo,7,8,7,7,8,8,922.091007232666,1279,51,0.000716
+sales_representative_047,Sales Representative,2,gpt-3.5-turbo,7,8,7,6,7,8,924.1406917572021,1279,51,0.000716
+sales_representative_047,Sales Representative,3,gpt-3.5-turbo,7,8,7,6,7,8,716.2978649139404,1279,51,0.000716
+sales_representative_047,Sales Representative,4,gpt-3.5-turbo,7,8,7,6,7,8,719.1290855407715,1279,51,0.000716
+sales_representative_048,Sales Representative,0,gpt-3.5-turbo,5,4,3,2,3,4,708.2529067993164,1144,51,0.0006485
+sales_representative_048,Sales Representative,1,gpt-3.5-turbo,5,4,3,2,3,4,768.7091827392578,1144,51,0.0006485
+sales_representative_048,Sales Representative,2,gpt-3.5-turbo,5,4,3,2,3,4,602.4870872497559,1144,51,0.0006485
+sales_representative_048,Sales Representative,3,gpt-3.5-turbo,5,4,3,2,3,4,661.6199016571045,1144,51,0.0006485
+sales_representative_048,Sales Representative,4,gpt-3.5-turbo,5,4,3,2,3,4,674.6201515197754,1144,51,0.0006485
+sales_representative_049,Sales Representative,0,gpt-3.5-turbo,3,2,4,1,2,2,795.0341701507568,1122,51,0.0006374999999999999
+sales_representative_049,Sales Representative,1,gpt-3.5-turbo,3,2,2,1,2,2,910.0420475006104,1122,51,0.0006374999999999999
+sales_representative_049,Sales Representative,2,gpt-3.5-turbo,3,2,2,1,2,2,817.9268836975098,1122,51,0.0006374999999999999
+sales_representative_049,Sales Representative,3,gpt-3.5-turbo,3,2,2,1,2,2,783.1122875213623,1122,51,0.0006374999999999999
+sales_representative_049,Sales Representative,4,gpt-3.5-turbo,3,2,2,1,2,2,732.8050136566162,1122,51,0.0006374999999999999
+sales_representative_050,Sales Representative,0,gpt-3.5-turbo,4,2,3,2,3,2,636.4331245422363,1131,51,0.000642
+sales_representative_050,Sales Representative,1,gpt-3.5-turbo,4,2,3,2,3,2,716.4590358734131,1131,51,0.000642
+sales_representative_050,Sales Representative,2,gpt-3.5-turbo,4,2,3,2,3,2,995.7740306854248,1131,51,0.000642
+sales_representative_050,Sales Representative,3,gpt-3.5-turbo,5,3,4,2,3,2,918.0028438568115,1131,51,0.000642
+sales_representative_050,Sales Representative,4,gpt-3.5-turbo,4,2,3,2,3,2,1157.200813293457,1131,51,0.000642
+field_technician_001,Field Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,790.2669906616211,1892,51,0.0010225
+field_technician_001,Field Technician,1,gpt-3.5-turbo,8,9,8,9,8,8,1075.8638381958008,1892,51,0.0010225
+field_technician_001,Field Technician,2,gpt-3.5-turbo,8,9,9,8,8,9,734.5001697540283,1892,51,0.0010225
+field_technician_001,Field Technician,3,gpt-3.5-turbo,8,9,8,8,8,9,628.0639171600342,1892,51,0.0010225
+field_technician_001,Field Technician,4,gpt-3.5-turbo,8,9,8,8,8,9,867.5050735473633,1892,51,0.0010225
+field_technician_002,Field Technician,0,gpt-3.5-turbo,3,4,3,2,2,2,617.0499324798584,1648,51,0.0009004999999999999
+field_technician_002,Field Technician,1,gpt-3.5-turbo,3,4,3,2,3,2,760.2686882019043,1648,51,0.0009004999999999999
+field_technician_002,Field Technician,2,gpt-3.5-turbo,3,4,3,2,3,2,634.9887847900391,1648,51,0.0009004999999999999
+field_technician_002,Field Technician,3,gpt-3.5-turbo,3,4,3,2,3,2,657.2628021240234,1648,51,0.0009004999999999999
+field_technician_002,Field Technician,4,gpt-3.5-turbo,3,4,3,2,3,2,813.6730194091797,1648,51,0.0009004999999999999
+field_technician_003,Field Technician,0,gpt-3.5-turbo,3,4,3,4,3,2,603.0020713806152,1646,51,0.0008994999999999999
+field_technician_003,Field Technician,1,gpt-3.5-turbo,3,4,3,2,3,2,768.3439254760742,1646,51,0.0008994999999999999
+field_technician_003,Field Technician,2,gpt-3.5-turbo,3,4,3,2,3,2,879.6818256378174,1646,51,0.0008994999999999999
+field_technician_003,Field Technician,3,gpt-3.5-turbo,3,4,3,2,3,2,1027.773380279541,1646,51,0.0008994999999999999
+field_technician_003,Field Technician,4,gpt-3.5-turbo,3,4,3,2,3,2,1302.8528690338135,1646,51,0.0008994999999999999
+field_technician_004,Field Technician,0,gpt-3.5-turbo,3,4,2,3,2,2,714.9519920349121,1525,51,0.000839
+field_technician_004,Field Technician,1,gpt-3.5-turbo,4,3,3,2,3,2,751.568078994751,1525,51,0.000839
+field_technician_004,Field Technician,2,gpt-3.5-turbo,3,4,2,5,3,2,709.0749740600586,1525,51,0.000839
+field_technician_004,Field Technician,3,gpt-3.5-turbo,4,3,3,2,3,2,717.5309658050537,1525,51,0.000839
+field_technician_004,Field Technician,4,gpt-3.5-turbo,4,3,3,2,3,2,870.715856552124,1525,51,0.000839
+field_technician_005,Field Technician,0,gpt-3.5-turbo,3,4,2,2,3,2,678.3161163330078,1535,51,0.0008439999999999999
+field_technician_005,Field Technician,1,gpt-3.5-turbo,3,4,2,2,3,2,1017.0462131500244,1535,51,0.0008439999999999999
+field_technician_005,Field Technician,2,gpt-3.5-turbo,3,4,2,2,3,2,710.5011940002441,1535,51,0.0008439999999999999
+field_technician_005,Field Technician,3,gpt-3.5-turbo,3,2,2,1,2,2,919.1439151763916,1535,51,0.0008439999999999999
+field_technician_005,Field Technician,4,gpt-3.5-turbo,3,2,2,1,2,2,1002.9408931732178,1535,51,0.0008439999999999999
+field_technician_006,Field Technician,0,gpt-3.5-turbo,3,2,3,4,2,2,1380.8448314666748,1548,51,0.0008504999999999999
+field_technician_006,Field Technician,1,gpt-3.5-turbo,3,2,3,2,3,2,687.5908374786377,1548,51,0.0008504999999999999
+field_technician_006,Field Technician,2,gpt-3.5-turbo,3,2,3,2,3,2,1035.3319644927979,1548,51,0.0008504999999999999
+field_technician_006,Field Technician,3,gpt-3.5-turbo,3,2,3,4,2,2,802.0238876342773,1548,51,0.0008504999999999999
+field_technician_006,Field Technician,4,gpt-3.5-turbo,3,2,3,4,2,2,785.5129241943359,1548,51,0.0008504999999999999
+field_technician_007,Field Technician,0,gpt-3.5-turbo,8,7,8,7,8,8,700.4468441009521,1684,51,0.0009184999999999999
+field_technician_007,Field Technician,1,gpt-3.5-turbo,8,7,8,7,8,8,1090.6791687011719,1684,51,0.0009184999999999999
+field_technician_007,Field Technician,2,gpt-3.5-turbo,7,8,8,7,8,8,895.0250148773193,1684,51,0.0009184999999999999
+field_technician_007,Field Technician,3,gpt-3.5-turbo,7,8,8,7,8,8,1516.2549018859863,1684,51,0.0009184999999999999
+field_technician_007,Field Technician,4,gpt-3.5-turbo,7,8,8,7,8,8,856.7056655883789,1684,51,0.0009184999999999999
+field_technician_008,Field Technician,0,gpt-3.5-turbo,3,2,2,1,2,2,1174.1130352020264,1395,51,0.000774
+field_technician_008,Field Technician,1,gpt-3.5-turbo,3,2,3,1,2,2,872.9970455169678,1395,51,0.000774
+field_technician_008,Field Technician,2,gpt-3.5-turbo,3,2,3,1,2,2,867.150068283081,1395,51,0.000774
+field_technician_008,Field Technician,3,gpt-3.5-turbo,3,2,2,1,2,2,631.1569213867188,1395,51,0.000774
+field_technician_008,Field Technician,4,gpt-3.5-turbo,3,2,3,1,2,2,857.6898574829102,1395,51,0.000774
+field_technician_009,Field Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,1022.7327346801758,1989,51,0.001071
+field_technician_009,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,1024.5277881622314,1989,51,0.001071
+field_technician_009,Field Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,821.1498260498047,1989,51,0.001071
+field_technician_009,Field Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,1124.4640350341797,1989,51,0.001071
+field_technician_009,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,887.103796005249,1989,51,0.001071
+field_technician_010,Field Technician,0,gpt-3.5-turbo,8,9,8,7,8,8,837.1660709381104,1864,51,0.0010085
+field_technician_010,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,8,782.649040222168,1864,51,0.0010085
+field_technician_010,Field Technician,2,gpt-3.5-turbo,8,9,8,7,8,8,974.0519523620605,1864,51,0.0010085
+field_technician_010,Field Technician,3,gpt-3.5-turbo,8,9,8,7,8,8,967.8769111633301,1864,51,0.0010085
+field_technician_010,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,8,865.3550148010254,1864,51,0.0010085
+field_technician_011,Field Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,729.1207313537598,2401,51,0.001277
+field_technician_011,Field Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,778.5301208496094,2401,51,0.001277
+field_technician_011,Field Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,2187.5369548797607,2401,51,0.001277
+field_technician_011,Field Technician,3,gpt-3.5-turbo,8,9,8,9,8,9,718.0731296539307,2401,51,0.001277
+field_technician_011,Field Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,1436.1107349395752,2401,51,0.001277
+field_technician_012,Field Technician,0,gpt-3.5-turbo,8,9,8,7,8,8,882.3211193084717,1870,51,0.0010115
+field_technician_012,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,8,709.2990875244141,1870,51,0.0010115
+field_technician_012,Field Technician,2,gpt-3.5-turbo,8,9,8,8,8,9,1539.538860321045,1870,51,0.0010115
+field_technician_012,Field Technician,3,gpt-3.5-turbo,8,9,8,7,8,8,962.2931480407715,1870,51,0.0010115
+field_technician_012,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,8,770.0240612030029,1870,51,0.0010115
+field_technician_013,Field Technician,0,gpt-3.5-turbo,3,2,2,1,2,2,769.1431045532227,1529,51,0.000841
+field_technician_013,Field Technician,1,gpt-3.5-turbo,3,2,2,1,2,2,890.6629085540771,1529,51,0.000841
+field_technician_013,Field Technician,2,gpt-3.5-turbo,3,2,2,1,2,2,847.5472927093506,1529,51,0.000841
+field_technician_013,Field Technician,3,gpt-3.5-turbo,3,2,2,1,2,2,1665.165901184082,1529,51,0.000841
+field_technician_013,Field Technician,4,gpt-3.5-turbo,3,2,3,1,2,2,1303.3671379089355,1529,51,0.000841
+field_technician_014,Field Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,716.2618637084961,2546,51,0.0013495
+field_technician_014,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,1920.8788871765137,2546,51,0.0013495
+field_technician_014,Field Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,856.2970161437988,2546,51,0.0013495
+field_technician_014,Field Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,1098.4549522399902,2546,51,0.0013495
+field_technician_014,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,918.2679653167725,2546,51,0.0013495
+field_technician_015,Field Technician,0,gpt-3.5-turbo,3,2,2,2,2,2,716.803789138794,1621,51,0.000887
+field_technician_015,Field Technician,1,gpt-3.5-turbo,3,2,2,2,2,2,940.467119216919,1621,51,0.000887
+field_technician_015,Field Technician,2,gpt-3.5-turbo,3,2,3,2,3,2,659.3372821807861,1621,51,0.000887
+field_technician_015,Field Technician,3,gpt-3.5-turbo,3,2,2,2,2,2,1425.2417087554932,1621,51,0.000887
+field_technician_015,Field Technician,4,gpt-3.5-turbo,3,2,2,2,2,2,576.4808654785156,1621,51,0.000887
+field_technician_016,Field Technician,0,gpt-3.5-turbo,3,2,2,2,2,2,2254.3323040008545,1444,51,0.0007985
+field_technician_016,Field Technician,1,gpt-3.5-turbo,3,2,3,2,3,2,914.4132137298584,1444,51,0.0007985
+field_technician_016,Field Technician,2,gpt-3.5-turbo,3,2,2,2,3,2,582.573652267456,1444,51,0.0007985
+field_technician_016,Field Technician,3,gpt-3.5-turbo,3,2,2,2,3,2,854.8002243041992,1444,51,0.0007985
+field_technician_016,Field Technician,4,gpt-3.5-turbo,3,2,2,2,2,2,827.7029991149902,1444,51,0.0007985
+field_technician_017,Field Technician,0,gpt-3.5-turbo,4,3,3,2,2,2,1528.3608436584473,1546,51,0.0008495
+field_technician_017,Field Technician,1,gpt-3.5-turbo,3,2,2,4,3,2,716.8712615966797,1546,51,0.0008495
+field_technician_017,Field Technician,2,gpt-3.5-turbo,3,2,2,4,3,2,650.8469581604004,1546,51,0.0008495
+field_technician_017,Field Technician,3,gpt-3.5-turbo,3,2,2,4,3,2,988.685131072998,1546,51,0.0008495
+field_technician_017,Field Technician,4,gpt-3.5-turbo,4,3,3,2,2,2,783.4908962249756,1546,51,0.0008495
+field_technician_018,Field Technician,0,gpt-3.5-turbo,8,9,8,8,8,9,1454.1599750518799,1804,51,0.0009785
+field_technician_018,Field Technician,1,gpt-3.5-turbo,8,9,8,8,8,9,832.9780101776123,1804,51,0.0009785
+field_technician_018,Field Technician,2,gpt-3.5-turbo,8,9,8,8,8,9,818.0239200592041,1804,51,0.0009785
+field_technician_018,Field Technician,3,gpt-3.5-turbo,8,9,8,8,8,9,617.7499294281006,1804,51,0.0009785
+field_technician_018,Field Technician,4,gpt-3.5-turbo,8,9,8,8,8,9,963.6149406433105,1804,51,0.0009785
+field_technician_019,Field Technician,0,gpt-3.5-turbo,3,4,3,2,2,2,1184.2350959777832,1498,51,0.0008255
+field_technician_019,Field Technician,1,gpt-3.5-turbo,3,2,3,2,2,2,820.7340240478516,1498,51,0.0008255
+field_technician_019,Field Technician,2,gpt-3.5-turbo,3,2,3,2,2,2,2014.1868591308594,1498,51,0.0008255
+field_technician_019,Field Technician,3,gpt-3.5-turbo,3,2,3,2,2,2,851.7589569091797,1498,51,0.0008255
+field_technician_019,Field Technician,4,gpt-3.5-turbo,3,4,3,2,3,2,603.496789932251,1498,51,0.0008255
+field_technician_020,Field Technician,0,gpt-3.5-turbo,8,9,8,9,8,9,980.025053024292,2297,51,0.001225
+field_technician_020,Field Technician,1,gpt-3.5-turbo,8,9,8,9,8,9,771.0509300231934,2297,51,0.001225
+field_technician_020,Field Technician,2,gpt-3.5-turbo,8,9,8,9,8,9,1433.655023574829,2297,51,0.001225
+field_technician_020,Field Technician,3,gpt-3.5-turbo,8,9,8,9,8,9,1024.3830680847168,2297,51,0.001225
+field_technician_020,Field Technician,4,gpt-3.5-turbo,8,9,8,9,8,9,1600.106954574585,2297,51,0.001225
+field_technician_021,Field Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,859.144926071167,2386,51,0.0012695
+field_technician_021,Field Technician,1,gpt-3.5-turbo,8,9,8,8,9,9,919.5427894592285,2386,51,0.0012695
+field_technician_021,Field Technician,2,gpt-3.5-turbo,8,9,8,8,9,9,728.3539772033691,2386,51,0.0012695
+field_technician_021,Field Technician,3,gpt-3.5-turbo,8,9,8,8,9,9,807.6109886169434,2386,51,0.0012695
+field_technician_021,Field Technician,4,gpt-3.5-turbo,8,9,8,8,9,9,1095.432996749878,2386,51,0.0012695
+field_technician_022,Field Technician,0,gpt-3.5-turbo,3,4,2,2,3,2,888.5688781738281,1468,51,0.0008104999999999999
+field_technician_022,Field Technician,1,gpt-3.5-turbo,3,4,2,2,3,2,780.8821201324463,1468,51,0.0008104999999999999
+field_technician_022,Field Technician,2,gpt-3.5-turbo,3,4,2,2,3,2,784.3198776245117,1468,51,0.0008104999999999999
+field_technician_022,Field Technician,3,gpt-3.5-turbo,3,4,3,2,3,2,812.1919631958008,1468,51,0.0008104999999999999
+field_technician_022,Field Technician,4,gpt-3.5-turbo,3,4,3,2,3,2,962.1920585632324,1468,51,0.0008104999999999999
+field_technician_023,Field Technician,0,gpt-3.5-turbo,8,9,8,9,8,9,810.344934463501,2436,51,0.0012944999999999999
+field_technician_023,Field Technician,1,gpt-3.5-turbo,8,9,8,9,8,9,882.2970390319824,2436,51,0.0012944999999999999
+field_technician_023,Field Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,866.4751052856445,2436,51,0.0012944999999999999
+field_technician_023,Field Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,916.168212890625,2436,51,0.0012944999999999999
+field_technician_023,Field Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,1106.9777011871338,2436,51,0.0012944999999999999
+field_technician_024,Field Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,1152.0500183105469,2460,51,0.0013065
+field_technician_024,Field Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,1241.5239810943604,2460,51,0.0013065
+field_technician_024,Field Technician,2,gpt-3.5-turbo,8,9,9,8,8,9,808.2702159881592,2460,51,0.0013065
+field_technician_024,Field Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,649.4102478027344,2460,51,0.0013065
+field_technician_024,Field Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,884.2451572418213,2460,51,0.0013065
+field_technician_025,Field Technician,0,gpt-3.5-turbo,4,3,3,2,3,2,819.2310333251953,1566,51,0.0008594999999999999
+field_technician_025,Field Technician,1,gpt-3.5-turbo,4,3,3,2,3,2,1245.0289726257324,1566,51,0.0008594999999999999
+field_technician_025,Field Technician,2,gpt-3.5-turbo,4,3,3,2,3,2,894.5779800415039,1566,51,0.0008594999999999999
+field_technician_025,Field Technician,3,gpt-3.5-turbo,4,3,3,2,3,2,829.0221691131592,1566,51,0.0008594999999999999
+field_technician_025,Field Technician,4,gpt-3.5-turbo,4,3,3,2,3,2,819.4811344146729,1566,51,0.0008594999999999999
+field_technician_026,Field Technician,0,gpt-3.5-turbo,3,2,2,4,3,2,818.8290596008301,1543,51,0.000848
+field_technician_026,Field Technician,1,gpt-3.5-turbo,3,2,2,4,3,2,613.394021987915,1543,51,0.000848
+field_technician_026,Field Technician,2,gpt-3.5-turbo,3,2,2,4,3,2,820.655107498169,1543,51,0.000848
+field_technician_026,Field Technician,3,gpt-3.5-turbo,3,2,2,4,3,2,921.3061332702637,1543,51,0.000848
+field_technician_026,Field Technician,4,gpt-3.5-turbo,3,2,2,4,3,2,923.5172271728516,1543,51,0.000848
+field_technician_027,Field Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,1021.7630863189697,2611,51,0.001382
+field_technician_027,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,1023.6988067626953,2611,51,0.001382
+field_technician_027,Field Technician,2,gpt-3.5-turbo,8,9,8,8,9,9,822.1869468688965,2611,51,0.001382
+field_technician_027,Field Technician,3,gpt-3.5-turbo,8,9,8,8,9,9,939.6829605102539,2611,51,0.001382
+field_technician_027,Field Technician,4,gpt-3.5-turbo,8,9,8,8,9,9,941.0228729248047,2611,51,0.001382
+field_technician_028,Field Technician,0,gpt-3.5-turbo,8,9,8,7,8,8,767.113208770752,1903,51,0.001028
+field_technician_028,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,2365.741014480591,1903,51,0.001028
+field_technician_028,Field Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,1025.0129699707031,1903,51,0.001028
+field_technician_028,Field Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,1020.9841728210449,1903,51,0.001028
+field_technician_028,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,1130.3620338439941,1903,51,0.001028
+field_technician_029,Field Technician,0,gpt-3.5-turbo,4,3,3,2,3,2,578.8121223449707,1578,51,0.0008655
+field_technician_029,Field Technician,1,gpt-3.5-turbo,4,3,3,2,3,2,656.8598747253418,1578,51,0.0008655
+field_technician_029,Field Technician,2,gpt-3.5-turbo,4,3,3,2,3,2,1629.7459602355957,1578,51,0.0008655
+field_technician_029,Field Technician,3,gpt-3.5-turbo,4,3,3,2,3,2,813.3151531219482,1578,51,0.0008655
+field_technician_029,Field Technician,4,gpt-3.5-turbo,4,3,3,2,3,2,1336.6549015045166,1578,51,0.0008655
+field_technician_030,Field Technician,0,gpt-3.5-turbo,7,8,8,7,8,8,820.3651905059814,1866,51,0.0010095
+field_technician_030,Field Technician,1,gpt-3.5-turbo,7,8,8,7,8,8,922.8999614715576,1866,51,0.0010095
+field_technician_030,Field Technician,2,gpt-3.5-turbo,7,8,8,7,8,8,1226.4208793640137,1866,51,0.0010095
+field_technician_030,Field Technician,3,gpt-3.5-turbo,7,8,8,7,8,8,819.1287517547607,1866,51,0.0010095
+field_technician_030,Field Technician,4,gpt-3.5-turbo,7,8,8,7,8,8,1025.1760482788086,1866,51,0.0010095
+field_technician_031,Field Technician,0,gpt-3.5-turbo,8,9,8,9,8,9,864.5691871643066,2588,51,0.0013705
+field_technician_031,Field Technician,1,gpt-3.5-turbo,8,9,8,9,8,9,961.8840217590332,2588,51,0.0013705
+field_technician_031,Field Technician,2,gpt-3.5-turbo,8,9,8,9,8,9,681.8530559539795,2588,51,0.0013705
+field_technician_031,Field Technician,3,gpt-3.5-turbo,8,9,8,9,8,9,867.6958084106445,2588,51,0.0013705
+field_technician_031,Field Technician,4,gpt-3.5-turbo,8,9,8,9,8,9,921.9911098480225,2588,51,0.0013705
+field_technician_032,Field Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,663.2671356201172,2522,51,0.0013375
+field_technician_032,Field Technician,1,gpt-3.5-turbo,8,9,8,8,9,9,811.7718696594238,2522,51,0.0013375
+field_technician_032,Field Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,780.1249027252197,2522,51,0.0013375
+field_technician_032,Field Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,1145.7500457763672,2522,51,0.0013375
+field_technician_032,Field Technician,4,gpt-3.5-turbo,8,9,8,8,9,9,591.7580127716064,2522,51,0.0013375
+field_technician_033,Field Technician,0,gpt-3.5-turbo,4,3,3,2,3,4,1435.4791641235352,1507,51,0.00083
+field_technician_033,Field Technician,1,gpt-3.5-turbo,4,3,3,2,3,3,819.2532062530518,1507,51,0.00083
+field_technician_033,Field Technician,2,gpt-3.5-turbo,4,3,3,2,3,4,817.2359466552734,1507,51,0.00083
+field_technician_033,Field Technician,3,gpt-3.5-turbo,4,3,3,2,3,4,763.8311386108398,1507,51,0.00083
+field_technician_033,Field Technician,4,gpt-3.5-turbo,4,3,3,2,3,4,695.6331729888916,1507,51,0.00083
+field_technician_034,Field Technician,0,gpt-3.5-turbo,8,7,8,7,8,8,871.6475963592529,1878,51,0.0010155
+field_technician_034,Field Technician,1,gpt-3.5-turbo,8,7,8,7,8,8,728.0170917510986,1878,51,0.0010155
+field_technician_034,Field Technician,2,gpt-3.5-turbo,8,7,8,7,8,8,832.3230743408203,1878,51,0.0010155
+field_technician_034,Field Technician,3,gpt-3.5-turbo,8,7,8,7,8,8,714.0562534332275,1878,51,0.0010155
+field_technician_034,Field Technician,4,gpt-3.5-turbo,8,7,8,7,8,8,729.6500205993652,1878,51,0.0010155
+field_technician_035,Field Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,809.9460601806641,1920,51,0.0010365
+field_technician_035,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,734.9498271942139,1920,51,0.0010365
+field_technician_035,Field Technician,2,gpt-3.5-turbo,8,9,8,7,8,8,1242.4418926239014,1920,51,0.0010365
+field_technician_035,Field Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,1298.0449199676514,1920,51,0.0010365
+field_technician_035,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,864.8707866668701,1920,51,0.0010365
+field_technician_036,Field Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,878.521203994751,1894,51,0.0010235
+field_technician_036,Field Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,656.5210819244385,1894,51,0.0010235
+field_technician_036,Field Technician,2,gpt-3.5-turbo,8,9,8,7,8,8,1183.4962368011475,1894,51,0.0010235
+field_technician_036,Field Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,921.9808578491211,1894,51,0.0010235
+field_technician_036,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,1318.8748359680176,1894,51,0.0010235
+field_technician_037,Field Technician,0,gpt-3.5-turbo,4,3,3,2,3,2,933.6490631103516,1467,51,0.00081
+field_technician_037,Field Technician,1,gpt-3.5-turbo,4,3,3,2,3,2,618.3018684387207,1467,51,0.00081
+field_technician_037,Field Technician,2,gpt-3.5-turbo,4,3,3,2,3,2,713.8640880584717,1467,51,0.00081
+field_technician_037,Field Technician,3,gpt-3.5-turbo,4,3,4,2,3,2,817.6472187042236,1467,51,0.00081
+field_technician_037,Field Technician,4,gpt-3.5-turbo,4,3,4,2,3,2,820.1858997344971,1467,51,0.00081
+field_technician_038,Field Technician,0,gpt-3.5-turbo,3,4,3,2,3,2,753.9200782775879,1545,51,0.0008489999999999999
+field_technician_038,Field Technician,1,gpt-3.5-turbo,3,4,3,2,3,2,780.7579040527344,1545,51,0.0008489999999999999
+field_technician_038,Field Technician,2,gpt-3.5-turbo,3,4,3,2,3,2,795.7918643951416,1545,51,0.0008489999999999999
+field_technician_038,Field Technician,3,gpt-3.5-turbo,3,4,3,2,3,2,1049.4201183319092,1545,51,0.0008489999999999999
+field_technician_038,Field Technician,4,gpt-3.5-turbo,3,4,3,2,3,2,716.6178226470947,1545,51,0.0008489999999999999
+field_technician_039,Field Technician,0,gpt-3.5-turbo,3,4,3,2,3,2,904.2999744415283,1585,51,0.000869
+field_technician_039,Field Technician,1,gpt-3.5-turbo,3,4,3,2,3,2,1014.4331455230713,1585,51,0.000869
+field_technician_039,Field Technician,2,gpt-3.5-turbo,3,4,2,2,3,2,752.744197845459,1585,51,0.000869
+field_technician_039,Field Technician,3,gpt-3.5-turbo,4,3,3,2,3,2,809.7848892211914,1585,51,0.000869
+field_technician_039,Field Technician,4,gpt-3.5-turbo,3,4,3,2,3,2,1330.3029537200928,1585,51,0.000869
+field_technician_040,Field Technician,0,gpt-3.5-turbo,4,3,3,2,3,2,921.8571186065674,1639,51,0.000896
+field_technician_040,Field Technician,1,gpt-3.5-turbo,4,3,3,2,3,2,1536.2300872802734,1639,51,0.000896
+field_technician_040,Field Technician,2,gpt-3.5-turbo,4,3,3,2,3,2,1246.3679313659668,1639,51,0.000896
+field_technician_040,Field Technician,3,gpt-3.5-turbo,4,3,3,2,3,2,905.4007530212402,1639,51,0.000896
+field_technician_040,Field Technician,4,gpt-3.5-turbo,4,3,3,2,3,2,1432.4736595153809,1639,51,0.000896
+field_technician_041,Field Technician,0,gpt-3.5-turbo,4,3,4,5,3,2,715.0599956512451,1540,51,0.0008464999999999999
+field_technician_041,Field Technician,1,gpt-3.5-turbo,4,3,4,2,3,3,716.4762020111084,1540,51,0.0008464999999999999
+field_technician_041,Field Technician,2,gpt-3.5-turbo,4,3,4,5,3,3,971.5371131896973,1540,51,0.0008464999999999999
+field_technician_041,Field Technician,3,gpt-3.5-turbo,4,3,4,3,4,3,768.7160968780518,1540,51,0.0008464999999999999
+field_technician_041,Field Technician,4,gpt-3.5-turbo,4,3,4,2,3,3,717.2009944915771,1540,51,0.0008464999999999999
+field_technician_042,Field Technician,0,gpt-3.5-turbo,3,2,3,2,3,2,1229.7112941741943,1563,51,0.0008579999999999999
+field_technician_042,Field Technician,1,gpt-3.5-turbo,3,2,3,2,3,2,819.4150924682617,1563,51,0.0008579999999999999
+field_technician_042,Field Technician,2,gpt-3.5-turbo,3,2,3,2,2,2,1023.1199264526367,1563,51,0.0008579999999999999
+field_technician_042,Field Technician,3,gpt-3.5-turbo,3,2,3,2,3,2,717.430830001831,1563,51,0.0008579999999999999
+field_technician_042,Field Technician,4,gpt-3.5-turbo,3,2,3,2,3,2,1332.1142196655273,1563,51,0.0008579999999999999
+field_technician_043,Field Technician,0,gpt-3.5-turbo,8,9,8,8,8,9,919.0998077392578,1849,51,0.001001
+field_technician_043,Field Technician,1,gpt-3.5-turbo,8,7,8,8,8,8,921.7040538787842,1849,51,0.001001
+field_technician_043,Field Technician,2,gpt-3.5-turbo,8,9,8,7,8,8,590.5609130859375,1849,51,0.001001
+field_technician_043,Field Technician,3,gpt-3.5-turbo,8,9,8,7,8,8,762.1188163757324,1849,51,0.001001
+field_technician_043,Field Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,604.1271686553955,1849,51,0.001001
+field_technician_044,Field Technician,0,gpt-3.5-turbo,3,2,2,4,3,2,1011.5907192230225,1441,51,0.000797
+field_technician_044,Field Technician,1,gpt-3.5-turbo,3,2,2,4,3,2,799.4680404663086,1441,51,0.000797
+field_technician_044,Field Technician,2,gpt-3.5-turbo,3,2,2,4,3,2,606.626033782959,1441,51,0.000797
+field_technician_044,Field Technician,3,gpt-3.5-turbo,3,2,2,4,3,2,529.2401313781738,1441,51,0.000797
+field_technician_044,Field Technician,4,gpt-3.5-turbo,3,2,2,4,3,2,1139.4939422607422,1441,51,0.000797
+field_technician_045,Field Technician,0,gpt-3.5-turbo,3,2,2,4,3,2,720.9320068359375,1655,51,0.000904
+field_technician_045,Field Technician,1,gpt-3.5-turbo,3,2,2,2,2,2,1078.4838199615479,1655,51,0.000904
+field_technician_045,Field Technician,2,gpt-3.5-turbo,3,2,2,2,2,2,587.669849395752,1655,51,0.000904
+field_technician_045,Field Technician,3,gpt-3.5-turbo,3,2,2,2,2,2,682.1150779724121,1655,51,0.000904
+field_technician_045,Field Technician,4,gpt-3.5-turbo,3,2,2,2,2,2,1023.6151218414307,1655,51,0.000904
+field_technician_046,Field Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,921.7920303344727,2502,51,0.0013275
+field_technician_046,Field Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,1023.1680870056152,2502,51,0.0013275
+field_technician_046,Field Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,1331.3407897949219,2502,51,0.0013275
+field_technician_046,Field Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,923.0039119720459,2502,51,0.0013275
+field_technician_046,Field Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,918.6999797821045,2502,51,0.0013275
+field_technician_047,Field Technician,0,gpt-3.5-turbo,8,7,8,7,8,8,1144.089937210083,1841,51,0.000997
+field_technician_047,Field Technician,1,gpt-3.5-turbo,8,7,8,7,8,8,725.5911827087402,1841,51,0.000997
+field_technician_047,Field Technician,2,gpt-3.5-turbo,8,7,8,7,8,8,689.6700859069824,1841,51,0.000997
+field_technician_047,Field Technician,3,gpt-3.5-turbo,8,7,8,7,8,8,571.7129707336426,1841,51,0.000997
+field_technician_047,Field Technician,4,gpt-3.5-turbo,8,7,8,7,8,8,1072.3400115966797,1841,51,0.000997
+field_technician_048,Field Technician,0,gpt-3.5-turbo,8,7,8,7,8,8,712.8040790557861,1820,51,0.0009865
+field_technician_048,Field Technician,1,gpt-3.5-turbo,8,7,8,7,8,8,1107.0377826690674,1820,51,0.0009865
+field_technician_048,Field Technician,2,gpt-3.5-turbo,8,7,8,8,8,8,866.2238121032715,1820,51,0.0009865
+field_technician_048,Field Technician,3,gpt-3.5-turbo,8,7,8,7,8,8,650.2377986907959,1820,51,0.0009865
+field_technician_048,Field Technician,4,gpt-3.5-turbo,8,7,8,7,8,8,1505.143165588379,1820,51,0.0009865
+field_technician_049,Field Technician,0,gpt-3.5-turbo,3,4,2,2,3,2,835.3250026702881,1549,51,0.000851
+field_technician_049,Field Technician,1,gpt-3.5-turbo,4,3,3,2,3,2,742.4430847167969,1549,51,0.000851
+field_technician_049,Field Technician,2,gpt-3.5-turbo,3,4,2,2,3,2,848.656177520752,1549,51,0.000851
+field_technician_049,Field Technician,3,gpt-3.5-turbo,3,4,2,2,3,2,919.6398258209229,1549,51,0.000851
+field_technician_049,Field Technician,4,gpt-3.5-turbo,3,4,2,2,3,2,716.3410186767578,1549,51,0.000851
+field_technician_050,Field Technician,0,gpt-3.5-turbo,3,4,2,2,3,2,717.0267105102539,1450,51,0.0008014999999999999
+field_technician_050,Field Technician,1,gpt-3.5-turbo,3,4,3,2,2,2,820.3678131103516,1450,51,0.0008014999999999999
+field_technician_050,Field Technician,2,gpt-3.5-turbo,3,4,2,5,3,2,567.7812099456787,1450,51,0.0008014999999999999
+field_technician_050,Field Technician,3,gpt-3.5-turbo,3,4,2,2,3,2,1181.8230152130127,1450,51,0.0008014999999999999
+field_technician_050,Field Technician,4,gpt-3.5-turbo,4,3,4,2,3,2,817.8110122680664,1450,51,0.0008014999999999999
+home_service_technician_001,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,9,9,1014.7550106048584,2443,51,0.001298
+home_service_technician_001,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,9,9,925.7738590240479,2443,51,0.001298
+home_service_technician_001,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,9,9,1019.9720859527588,2443,51,0.001298
+home_service_technician_001,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,9,9,820.2579021453857,2443,51,0.001298
+home_service_technician_001,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,9,9,1740.9300804138184,2443,51,0.001298
+home_service_technician_002,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,8,819.2567825317383,1863,51,0.001008
+home_service_technician_002,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,8,716.0351276397705,1863,51,0.001008
+home_service_technician_002,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,8,1125.0269412994385,1863,51,0.001008
+home_service_technician_002,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,8,1012.4990940093994,1863,51,0.001008
+home_service_technician_002,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,8,1075.434923171997,1863,51,0.001008
+home_service_technician_003,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,881.5290927886963,2524,51,0.0013385
+home_service_technician_003,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,1036.3142490386963,2524,51,0.0013385
+home_service_technician_003,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,909.3000888824463,2524,51,0.0013385
+home_service_technician_003,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,749.0570545196533,2524,51,0.0013385
+home_service_technician_003,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,1606.0700416564941,2524,51,0.0013385
+home_service_technician_004,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,1128.8859844207764,1785,51,0.0009689999999999999
+home_service_technician_004,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,1226.7639636993408,1785,51,0.0009689999999999999
+home_service_technician_004,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,817.6729679107666,1785,51,0.0009689999999999999
+home_service_technician_004,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,718.0848121643066,1785,51,0.0009689999999999999
+home_service_technician_004,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,1331.329107284546,1785,51,0.0009689999999999999
+home_service_technician_005,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,1227.9560565948486,1873,51,0.001013
+home_service_technician_005,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,1229.6547889709473,1873,51,0.001013
+home_service_technician_005,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,737.3230457305908,1873,51,0.001013
+home_service_technician_005,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,707.3831558227539,1873,51,0.001013
+home_service_technician_005,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,706.7430019378662,1873,51,0.001013
+home_service_technician_006,Home Service Technician,0,gpt-3.5-turbo,3,2,3,2,2,2,1227.220058441162,1372,51,0.0007624999999999999
+home_service_technician_006,Home Service Technician,1,gpt-3.5-turbo,3,2,2,1,2,2,794.4459915161133,1372,51,0.0007624999999999999
+home_service_technician_006,Home Service Technician,2,gpt-3.5-turbo,3,2,2,1,2,2,948.4989643096924,1372,51,0.0007624999999999999
+home_service_technician_006,Home Service Technician,3,gpt-3.5-turbo,3,2,3,2,2,2,752.6521682739258,1372,51,0.0007624999999999999
+home_service_technician_006,Home Service Technician,4,gpt-3.5-turbo,3,2,3,2,2,2,923.6049652099609,1372,51,0.0007624999999999999
+home_service_technician_007,Home Service Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,880.7260990142822,2454,51,0.0013035
+home_service_technician_007,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,921.7090606689453,2454,51,0.0013035
+home_service_technician_007,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,818.4680938720703,2454,51,0.0013035
+home_service_technician_007,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,872.938871383667,2454,51,0.0013035
+home_service_technician_007,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,718.8408374786377,2454,51,0.0013035
+home_service_technician_008,Home Service Technician,0,gpt-3.5-turbo,3,1,2,2,3,2,648.0777263641357,1545,51,0.0008489999999999999
+home_service_technician_008,Home Service Technician,1,gpt-3.5-turbo,3,1,2,2,3,2,732.8109741210938,1545,51,0.0008489999999999999
+home_service_technician_008,Home Service Technician,2,gpt-3.5-turbo,3,1,2,2,3,2,1022.94921875,1545,51,0.0008489999999999999
+home_service_technician_008,Home Service Technician,3,gpt-3.5-turbo,3,1,2,2,3,2,918.8320636749268,1545,51,0.0008489999999999999
+home_service_technician_008,Home Service Technician,4,gpt-3.5-turbo,3,1,2,2,3,2,866.2960529327393,1545,51,0.0008489999999999999
+home_service_technician_009,Home Service Technician,0,gpt-3.5-turbo,3,4,2,2,3,2,752.7890205383301,1603,51,0.000878
+home_service_technician_009,Home Service Technician,1,gpt-3.5-turbo,3,4,2,2,3,2,634.265661239624,1603,51,0.000878
+home_service_technician_009,Home Service Technician,2,gpt-3.5-turbo,3,4,3,2,3,2,713.8218879699707,1603,51,0.000878
+home_service_technician_009,Home Service Technician,3,gpt-3.5-turbo,3,4,3,2,3,2,820.6698894500732,1603,51,0.000878
+home_service_technician_009,Home Service Technician,4,gpt-3.5-turbo,3,4,2,2,3,2,921.7219352722168,1603,51,0.000878
+home_service_technician_010,Home Service Technician,0,gpt-3.5-turbo,7,6,8,7,8,8,818.8660144805908,1907,51,0.00103
+home_service_technician_010,Home Service Technician,1,gpt-3.5-turbo,7,6,8,7,8,8,718.8773155212402,1907,51,0.00103
+home_service_technician_010,Home Service Technician,2,gpt-3.5-turbo,7,6,8,7,8,8,818.5820579528809,1907,51,0.00103
+home_service_technician_010,Home Service Technician,3,gpt-3.5-turbo,7,6,8,7,8,8,818.9640045166016,1907,51,0.00103
+home_service_technician_010,Home Service Technician,4,gpt-3.5-turbo,7,6,8,7,8,8,819.0960884094238,1907,51,0.00103
+home_service_technician_011,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,806.6649436950684,2356,51,0.0012545
+home_service_technician_011,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,1008.2046985626221,2356,51,0.0012545
+home_service_technician_011,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,9,9,925.6877899169922,2356,51,0.0012545
+home_service_technician_011,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,945.5268383026123,2356,51,0.0012545
+home_service_technician_011,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,835.4678153991699,2356,51,0.0012545
+home_service_technician_012,Home Service Technician,0,gpt-3.5-turbo,7,8,8,7,8,8,960.482120513916,1931,51,0.001042
+home_service_technician_012,Home Service Technician,1,gpt-3.5-turbo,7,8,8,7,8,8,967.0200347900391,1931,51,0.001042
+home_service_technician_012,Home Service Technician,2,gpt-3.5-turbo,7,8,8,7,8,8,1023.9009857177734,1931,51,0.001042
+home_service_technician_012,Home Service Technician,3,gpt-3.5-turbo,7,8,8,7,8,8,1228.9857864379883,1931,51,0.001042
+home_service_technician_012,Home Service Technician,4,gpt-3.5-turbo,7,8,8,7,8,8,1002.518892288208,1931,51,0.001042
+home_service_technician_013,Home Service Technician,0,gpt-3.5-turbo,4,2,3,5,3,2,747.5869655609131,1389,51,0.000771
+home_service_technician_013,Home Service Technician,1,gpt-3.5-turbo,4,2,3,5,3,2,604.834794998169,1389,51,0.000771
+home_service_technician_013,Home Service Technician,2,gpt-3.5-turbo,4,2,3,5,4,3,819.4658756256104,1389,51,0.000771
+home_service_technician_013,Home Service Technician,3,gpt-3.5-turbo,4,2,3,5,4,3,717.3891067504883,1389,51,0.000771
+home_service_technician_013,Home Service Technician,4,gpt-3.5-turbo,4,2,3,5,4,3,818.4049129486084,1389,51,0.000771
+home_service_technician_014,Home Service Technician,0,gpt-3.5-turbo,3,2,2,4,3,2,922.5220680236816,1634,51,0.0008935
+home_service_technician_014,Home Service Technician,1,gpt-3.5-turbo,3,2,2,4,3,2,919.8191165924072,1634,51,0.0008935
+home_service_technician_014,Home Service Technician,2,gpt-3.5-turbo,3,2,2,4,3,2,1126.150131225586,1634,51,0.0008935
+home_service_technician_014,Home Service Technician,3,gpt-3.5-turbo,3,2,2,4,3,2,1023.8940715789795,1634,51,0.0008935
+home_service_technician_014,Home Service Technician,4,gpt-3.5-turbo,3,2,2,4,3,2,1014.3790245056152,1634,51,0.0008935
+home_service_technician_015,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,829.6627998352051,2582,51,0.0013675
+home_service_technician_015,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,734.5881462097168,2582,51,0.0013675
+home_service_technician_015,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,3053.2469749450684,2582,51,0.0013675
+home_service_technician_015,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,716.4790630340576,2582,51,0.0013675
+home_service_technician_015,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,717.0841693878174,2582,51,0.0013675
+home_service_technician_016,Home Service Technician,0,gpt-3.5-turbo,8,9,8,8,8,9,818.7119960784912,1691,51,0.000922
+home_service_technician_016,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,819.5700645446777,1691,51,0.000922
+home_service_technician_016,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,1332.150936126709,1691,51,0.000922
+home_service_technician_016,Home Service Technician,3,gpt-3.5-turbo,8,9,8,8,8,9,920.753002166748,1691,51,0.000922
+home_service_technician_016,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,922.3232269287109,1691,51,0.000922
+home_service_technician_017,Home Service Technician,0,gpt-3.5-turbo,3,2,2,2,3,2,613.5210990905762,1451,51,0.000802
+home_service_technician_017,Home Service Technician,1,gpt-3.5-turbo,3,2,2,2,3,2,820.1286792755127,1451,51,0.000802
+home_service_technician_017,Home Service Technician,2,gpt-3.5-turbo,3,2,2,2,3,2,817.8091049194336,1451,51,0.000802
+home_service_technician_017,Home Service Technician,3,gpt-3.5-turbo,3,2,2,2,3,2,614.4111156463623,1451,51,0.000802
+home_service_technician_017,Home Service Technician,4,gpt-3.5-turbo,3,2,2,2,3,2,653.6619663238525,1451,51,0.000802
+home_service_technician_018,Home Service Technician,0,gpt-3.5-turbo,3,2,2,4,3,2,1701.0152339935303,1522,51,0.0008374999999999999
+home_service_technician_018,Home Service Technician,1,gpt-3.5-turbo,3,2,2,4,3,2,1433.6357116699219,1522,51,0.0008374999999999999
+home_service_technician_018,Home Service Technician,2,gpt-3.5-turbo,3,2,2,4,3,2,2490.520238876343,1522,51,0.0008374999999999999
+home_service_technician_018,Home Service Technician,3,gpt-3.5-turbo,3,2,2,4,3,2,991.145133972168,1522,51,0.0008374999999999999
+home_service_technician_018,Home Service Technician,4,gpt-3.5-turbo,3,2,2,4,3,2,921.6439723968506,1522,51,0.0008374999999999999
+home_service_technician_019,Home Service Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,791.3939952850342,2323,51,0.001238
+home_service_technician_019,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,922.7049350738525,2323,51,0.001238
+home_service_technician_019,Home Service Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,665.7652854919434,2323,51,0.001238
+home_service_technician_019,Home Service Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,692.2297477722168,2323,51,0.001238
+home_service_technician_019,Home Service Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,1230.525255203247,2323,51,0.001238
+home_service_technician_020,Home Service Technician,0,gpt-3.5-turbo,3,2,3,2,3,2,920.7789897918701,1526,51,0.0008395
+home_service_technician_020,Home Service Technician,1,gpt-3.5-turbo,3,2,3,2,3,2,1090.2440547943115,1526,51,0.0008395
+home_service_technician_020,Home Service Technician,2,gpt-3.5-turbo,3,2,3,2,3,2,829.3218612670898,1526,51,0.0008395
+home_service_technician_020,Home Service Technician,3,gpt-3.5-turbo,3,2,3,2,3,2,767.0688629150391,1526,51,0.0008395
+home_service_technician_020,Home Service Technician,4,gpt-3.5-turbo,3,2,3,2,3,2,1305.6931495666504,1526,51,0.0008395
+home_service_technician_021,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,1038.2230281829834,1899,51,0.001026
+home_service_technician_021,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,641.2670612335205,1899,51,0.001026
+home_service_technician_021,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,1477.081060409546,1899,51,0.001026
+home_service_technician_021,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,938.3459091186523,1899,51,0.001026
+home_service_technician_021,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,1433.351993560791,1899,51,0.001026
+home_service_technician_022,Home Service Technician,0,gpt-3.5-turbo,8,7,8,7,8,9,820.3780651092529,1901,51,0.001027
+home_service_technician_022,Home Service Technician,1,gpt-3.5-turbo,8,7,8,7,8,9,817.5640106201172,1901,51,0.001027
+home_service_technician_022,Home Service Technician,2,gpt-3.5-turbo,8,7,8,6,8,9,588.3758068084717,1901,51,0.001027
+home_service_technician_022,Home Service Technician,3,gpt-3.5-turbo,8,7,8,6,8,9,948.4090805053711,1901,51,0.001027
+home_service_technician_022,Home Service Technician,4,gpt-3.5-turbo,8,7,8,6,8,9,717.8130149841309,1901,51,0.001027
+home_service_technician_023,Home Service Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,677.5188446044922,2546,51,0.0013495
+home_service_technician_023,Home Service Technician,1,gpt-3.5-turbo,8,9,8,8,9,9,925.9250164031982,2546,51,0.0013495
+home_service_technician_023,Home Service Technician,2,gpt-3.5-turbo,8,9,8,8,9,9,1449.1620063781738,2546,51,0.0013495
+home_service_technician_023,Home Service Technician,3,gpt-3.5-turbo,8,9,8,8,9,9,665.5087471008301,2546,51,0.0013495
+home_service_technician_023,Home Service Technician,4,gpt-3.5-turbo,8,9,8,8,9,9,785.8259677886963,2546,51,0.0013495
+home_service_technician_024,Home Service Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,615.8390045166016,2487,51,0.00132
+home_service_technician_024,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,801.2447357177734,2487,51,0.00132
+home_service_technician_024,Home Service Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,1142.1318054199219,2487,51,0.00132
+home_service_technician_024,Home Service Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,820.0368881225586,2487,51,0.00132
+home_service_technician_024,Home Service Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,784.480094909668,2487,51,0.00132
+home_service_technician_025,Home Service Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,1364.6719455718994,2328,51,0.0012405
+home_service_technician_025,Home Service Technician,1,gpt-3.5-turbo,8,9,8,8,9,9,1233.414888381958,2328,51,0.0012405
+home_service_technician_025,Home Service Technician,2,gpt-3.5-turbo,8,9,8,8,9,9,1021.5590000152588,2328,51,0.0012405
+home_service_technician_025,Home Service Technician,3,gpt-3.5-turbo,8,9,8,8,9,9,745.8310127258301,2328,51,0.0012405
+home_service_technician_025,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,9,9,992.9652214050293,2328,51,0.0012405
+home_service_technician_026,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,8,821.0000991821289,1677,51,0.000915
+home_service_technician_026,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,8,1169.6150302886963,1677,51,0.000915
+home_service_technician_026,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,8,930.0739765167236,1677,51,0.000915
+home_service_technician_026,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,8,765.8030986785889,1677,51,0.000915
+home_service_technician_026,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,8,818.3238506317139,1677,51,0.000915
+home_service_technician_027,Home Service Technician,0,gpt-3.5-turbo,3,2,2,1,2,2,716.6337966918945,1548,51,0.0008504999999999999
+home_service_technician_027,Home Service Technician,1,gpt-3.5-turbo,3,2,2,1,2,2,921.3268756866455,1548,51,0.0008504999999999999
+home_service_technician_027,Home Service Technician,2,gpt-3.5-turbo,3,2,2,1,2,2,784.4548225402832,1548,51,0.0008504999999999999
+home_service_technician_027,Home Service Technician,3,gpt-3.5-turbo,3,2,2,1,2,2,761.3160610198975,1548,51,0.0008504999999999999
+home_service_technician_027,Home Service Technician,4,gpt-3.5-turbo,3,2,2,1,2,2,811.2289905548096,1548,51,0.0008504999999999999
+home_service_technician_028,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,817.3959255218506,1833,51,0.000993
+home_service_technician_028,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,821.6829299926758,1833,51,0.000993
+home_service_technician_028,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,818.1149959564209,1833,51,0.000993
+home_service_technician_028,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,2050.710916519165,1833,51,0.000993
+home_service_technician_028,Home Service Technician,4,gpt-3.5-turbo,8,9,8,8,9,9,713.3529186248779,1833,51,0.000993
+home_service_technician_029,Home Service Technician,0,gpt-3.5-turbo,3,2,2,2,3,2,1093.4882164001465,1489,51,0.000821
+home_service_technician_029,Home Service Technician,1,gpt-3.5-turbo,3,2,2,2,3,2,1055.8362007141113,1489,51,0.000821
+home_service_technician_029,Home Service Technician,2,gpt-3.5-turbo,3,2,2,2,3,2,615.5447959899902,1489,51,0.000821
+home_service_technician_029,Home Service Technician,3,gpt-3.5-turbo,3,2,2,2,3,2,920.1738834381104,1489,51,0.000821
+home_service_technician_029,Home Service Technician,4,gpt-3.5-turbo,3,2,2,2,3,2,1440.5193328857422,1489,51,0.000821
+home_service_technician_030,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,5878.1068325042725,2564,51,0.0013585
+home_service_technician_030,Home Service Technician,1,gpt-3.5-turbo,8,9,8,8,9,9,796.9982624053955,2564,51,0.0013585
+home_service_technician_030,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,1110.6910705566406,2564,51,0.0013585
+home_service_technician_030,Home Service Technician,3,gpt-3.5-turbo,8,9,8,8,9,9,1218.4529304504395,2564,51,0.0013585
+home_service_technician_030,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,1542.3970222473145,2564,51,0.0013585
+home_service_technician_031,Home Service Technician,0,gpt-3.5-turbo,3,2,3,2,2,2,665.8210754394531,1605,51,0.000879
+home_service_technician_031,Home Service Technician,1,gpt-3.5-turbo,3,2,3,2,2,2,843.7702655792236,1605,51,0.000879
+home_service_technician_031,Home Service Technician,2,gpt-3.5-turbo,3,2,3,2,2,2,1147.763967514038,1605,51,0.000879
+home_service_technician_031,Home Service Technician,3,gpt-3.5-turbo,3,2,3,2,2,2,1124.162197113037,1605,51,0.000879
+home_service_technician_031,Home Service Technician,4,gpt-3.5-turbo,3,2,3,2,2,2,749.4311332702637,1605,51,0.000879
+home_service_technician_032,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,767.5111293792725,2394,51,0.0012735
+home_service_technician_032,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,736.2678050994873,2394,51,0.0012735
+home_service_technician_032,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,920.6690788269043,2394,51,0.0012735
+home_service_technician_032,Home Service Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,821.7332363128662,2394,51,0.0012735
+home_service_technician_032,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,804.8031330108643,2394,51,0.0012735
+home_service_technician_033,Home Service Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,1062.746286392212,1847,51,0.001
+home_service_technician_033,Home Service Technician,1,gpt-3.5-turbo,8,9,8,8,9,9,914.9110317230225,1847,51,0.001
+home_service_technician_033,Home Service Technician,2,gpt-3.5-turbo,8,9,8,8,9,9,698.0059146881104,1847,51,0.001
+home_service_technician_033,Home Service Technician,3,gpt-3.5-turbo,8,9,8,8,9,9,921.8049049377441,1847,51,0.001
+home_service_technician_033,Home Service Technician,4,gpt-3.5-turbo,8,9,8,8,9,9,822.4472999572754,1847,51,0.001
+home_service_technician_034,Home Service Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,711.2240791320801,2496,51,0.0013245
+home_service_technician_034,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,1433.114767074585,2496,51,0.0013245
+home_service_technician_034,Home Service Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,717.5018787384033,2496,51,0.0013245
+home_service_technician_034,Home Service Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,1432.7888488769531,2496,51,0.0013245
+home_service_technician_034,Home Service Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,921.5817451477051,2496,51,0.0013245
+home_service_technician_035,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,1129.3580532073975,2353,51,0.001253
+home_service_technician_035,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,768.9599990844727,2353,51,0.001253
+home_service_technician_035,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,971.5049266815186,2353,51,0.001253
+home_service_technician_035,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,688.2219314575195,2353,51,0.001253
+home_service_technician_035,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,1356.7779064178467,2353,51,0.001253
+home_service_technician_036,Home Service Technician,0,gpt-3.5-turbo,3,2,2,2,3,2,638.3447647094727,1419,51,0.0007859999999999999
+home_service_technician_036,Home Service Technician,1,gpt-3.5-turbo,3,2,2,2,2,2,833.0860137939453,1419,51,0.0007859999999999999
+home_service_technician_036,Home Service Technician,2,gpt-3.5-turbo,3,2,2,2,3,2,642.6358222961426,1419,51,0.0007859999999999999
+home_service_technician_036,Home Service Technician,3,gpt-3.5-turbo,3,2,2,2,2,2,1063.636064529419,1419,51,0.0007859999999999999
+home_service_technician_036,Home Service Technician,4,gpt-3.5-turbo,3,2,2,2,2,2,815.1991367340088,1419,51,0.0007859999999999999
+home_service_technician_037,Home Service Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,819.2791938781738,2490,51,0.0013215
+home_service_technician_037,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,922.0678806304932,2490,51,0.0013215
+home_service_technician_037,Home Service Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,1023.9338874816895,2490,51,0.0013215
+home_service_technician_037,Home Service Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,651.940107345581,2490,51,0.0013215
+home_service_technician_037,Home Service Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,737.0927333831787,2490,51,0.0013215
+home_service_technician_038,Home Service Technician,0,gpt-3.5-turbo,3,2,2,1,2,2,804.8009872436523,1648,51,0.0009004999999999999
+home_service_technician_038,Home Service Technician,1,gpt-3.5-turbo,3,2,2,1,2,2,1390.4478549957275,1648,51,0.0009004999999999999
+home_service_technician_038,Home Service Technician,2,gpt-3.5-turbo,3,2,2,1,2,2,641.1421298980713,1648,51,0.0009004999999999999
+home_service_technician_038,Home Service Technician,3,gpt-3.5-turbo,3,2,2,1,2,2,782.1269035339355,1648,51,0.0009004999999999999
+home_service_technician_038,Home Service Technician,4,gpt-3.5-turbo,3,2,2,1,2,2,930.408239364624,1648,51,0.0009004999999999999
+home_service_technician_039,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,9,736.3719940185547,1764,51,0.0009584999999999999
+home_service_technician_039,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,748.0599880218506,1764,51,0.0009584999999999999
+home_service_technician_039,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,767.8310871124268,1764,51,0.0009584999999999999
+home_service_technician_039,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,784.5439910888672,1764,51,0.0009584999999999999
+home_service_technician_039,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,834.693193435669,1764,51,0.0009584999999999999
+home_service_technician_040,Home Service Technician,0,gpt-3.5-turbo,8,9,8,7,8,8,747.9641437530518,1814,51,0.0009835
+home_service_technician_040,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,8,1301.6760349273682,1814,51,0.0009835
+home_service_technician_040,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,8,804.3317794799805,1814,51,0.0009835
+home_service_technician_040,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,8,954.0307521820068,1814,51,0.0009835
+home_service_technician_040,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,8,920.9909439086914,1814,51,0.0009835
+home_service_technician_041,Home Service Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,835.2000713348389,2029,50,0.0010895
+home_service_technician_041,Home Service Technician,1,gpt-3.5-turbo,8,9,8,8,9,9,1014.0590667724609,2029,51,0.001091
+home_service_technician_041,Home Service Technician,2,gpt-3.5-turbo,8,9,8,7,8,9,1068.6020851135254,2029,50,0.0010895
+home_service_technician_041,Home Service Technician,3,gpt-3.5-turbo,8,9,8,8,9,9,974.0779399871826,2029,51,0.001091
+home_service_technician_041,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,818.356990814209,2029,51,0.001091
+home_service_technician_042,Home Service Technician,0,gpt-3.5-turbo,3,2,3,4,3,2,1324.023962020874,1484,51,0.0008185
+home_service_technician_042,Home Service Technician,1,gpt-3.5-turbo,3,2,3,2,3,2,725.2364158630371,1484,51,0.0008185
+home_service_technician_042,Home Service Technician,2,gpt-3.5-turbo,3,2,3,4,3,2,818.0139064788818,1484,51,0.0008185
+home_service_technician_042,Home Service Technician,3,gpt-3.5-turbo,3,2,3,2,3,2,1126.8737316131592,1484,51,0.0008185
+home_service_technician_042,Home Service Technician,4,gpt-3.5-turbo,3,2,3,2,3,2,637.5570297241211,1484,51,0.0008185
+home_service_technician_043,Home Service Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,795.5441474914551,2284,51,0.0012185
+home_service_technician_043,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,1129.7881603240967,2284,51,0.0012185
+home_service_technician_043,Home Service Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,815.2458667755127,2284,51,0.0012185
+home_service_technician_043,Home Service Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,826.092004776001,2284,51,0.0012185
+home_service_technician_043,Home Service Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,1256.8328380584717,2284,51,0.0012185
+home_service_technician_044,Home Service Technician,0,gpt-3.5-turbo,3,2,3,2,3,2,579.2520046234131,1403,51,0.0007779999999999999
+home_service_technician_044,Home Service Technician,1,gpt-3.5-turbo,3,2,3,2,3,2,825.8490562438965,1403,51,0.0007779999999999999
+home_service_technician_044,Home Service Technician,2,gpt-3.5-turbo,3,2,3,2,3,2,1042.1669483184814,1403,51,0.0007779999999999999
+home_service_technician_044,Home Service Technician,3,gpt-3.5-turbo,3,2,3,2,3,2,1307.4429035186768,1403,51,0.0007779999999999999
+home_service_technician_044,Home Service Technician,4,gpt-3.5-turbo,3,2,3,2,3,2,649.4019031524658,1403,51,0.0007779999999999999
+home_service_technician_045,Home Service Technician,0,gpt-3.5-turbo,7,6,8,7,8,8,762.9539966583252,1814,51,0.0009835
+home_service_technician_045,Home Service Technician,1,gpt-3.5-turbo,7,6,8,7,8,8,875.3829002380371,1814,51,0.0009835
+home_service_technician_045,Home Service Technician,2,gpt-3.5-turbo,7,6,8,7,8,8,1398.6008167266846,1814,51,0.0009835
+home_service_technician_045,Home Service Technician,3,gpt-3.5-turbo,7,6,8,7,8,8,1146.3830471038818,1814,51,0.0009835
+home_service_technician_045,Home Service Technician,4,gpt-3.5-turbo,7,6,8,7,8,8,908.5361957550049,1814,51,0.0009835
+home_service_technician_046,Home Service Technician,0,gpt-3.5-turbo,4,2,3,2,3,2,708.9097499847412,1497,51,0.000825
+home_service_technician_046,Home Service Technician,1,gpt-3.5-turbo,4,2,3,2,3,2,1125.22292137146,1497,51,0.000825
+home_service_technician_046,Home Service Technician,2,gpt-3.5-turbo,4,2,3,2,3,2,1483.212947845459,1497,51,0.000825
+home_service_technician_046,Home Service Technician,3,gpt-3.5-turbo,4,2,3,2,3,2,973.7648963928223,1497,51,0.000825
+home_service_technician_046,Home Service Technician,4,gpt-3.5-turbo,4,2,3,2,3,2,821.1579322814941,1497,51,0.000825
+home_service_technician_047,Home Service Technician,0,gpt-3.5-turbo,7,6,8,7,8,8,1434.2269897460938,1961,51,0.001057
+home_service_technician_047,Home Service Technician,1,gpt-3.5-turbo,7,6,8,7,8,8,1022.7539539337158,1961,51,0.001057
+home_service_technician_047,Home Service Technician,2,gpt-3.5-turbo,7,6,8,7,8,8,1535.8819961547852,1961,51,0.001057
+home_service_technician_047,Home Service Technician,3,gpt-3.5-turbo,7,6,8,7,8,8,921.832799911499,1961,51,0.001057
+home_service_technician_047,Home Service Technician,4,gpt-3.5-turbo,7,6,8,7,8,8,1333.7740898132324,1961,51,0.001057
+home_service_technician_048,Home Service Technician,0,gpt-3.5-turbo,4,2,3,2,3,2,572.4248886108398,1411,51,0.0007819999999999999
+home_service_technician_048,Home Service Technician,1,gpt-3.5-turbo,4,2,3,2,3,2,755.4912567138672,1411,51,0.0007819999999999999
+home_service_technician_048,Home Service Technician,2,gpt-3.5-turbo,4,2,3,2,3,2,719.2330360412598,1411,51,0.0007819999999999999
+home_service_technician_048,Home Service Technician,3,gpt-3.5-turbo,4,2,3,2,3,2,547.5902557373047,1411,51,0.0007819999999999999
+home_service_technician_048,Home Service Technician,4,gpt-3.5-turbo,4,2,3,2,3,2,678.987979888916,1411,51,0.0007819999999999999
+home_service_technician_049,Home Service Technician,0,gpt-3.5-turbo,8,9,9,8,9,9,1024.1672992706299,2511,51,0.001332
+home_service_technician_049,Home Service Technician,1,gpt-3.5-turbo,8,9,9,8,9,9,2357.4929237365723,2511,51,0.001332
+home_service_technician_049,Home Service Technician,2,gpt-3.5-turbo,8,9,9,8,9,9,918.6098575592041,2511,51,0.001332
+home_service_technician_049,Home Service Technician,3,gpt-3.5-turbo,8,9,9,8,9,9,716.7420387268066,2511,51,0.001332
+home_service_technician_049,Home Service Technician,4,gpt-3.5-turbo,8,9,9,8,9,9,719.562292098999,2511,51,0.001332
+home_service_technician_050,Home Service Technician,0,gpt-3.5-turbo,8,9,8,8,9,9,815.0389194488525,1751,51,0.0009519999999999999
+home_service_technician_050,Home Service Technician,1,gpt-3.5-turbo,8,9,8,7,8,9,820.5070495605469,1751,51,0.0009519999999999999
+home_service_technician_050,Home Service Technician,2,gpt-3.5-turbo,8,9,8,8,9,9,1330.820083618164,1751,51,0.0009519999999999999
+home_service_technician_050,Home Service Technician,3,gpt-3.5-turbo,8,9,8,7,8,9,616.0130500793457,1751,51,0.0009519999999999999
+home_service_technician_050,Home Service Technician,4,gpt-3.5-turbo,8,9,8,7,8,9,920.616865158081,1751,51,0.0009519999999999999
+general_manager_(franchise)_001,General Manager (Franchise),0,gpt-3.5-turbo,4,2,3,2,3,2,615.2582168579102,1576,51,0.0008644999999999999
+general_manager_(franchise)_001,General Manager (Franchise),1,gpt-3.5-turbo,4,2,3,2,3,2,920.8791255950928,1576,51,0.0008644999999999999
+general_manager_(franchise)_001,General Manager (Franchise),2,gpt-3.5-turbo,4,2,3,2,3,2,820.9841251373291,1576,51,0.0008644999999999999
+general_manager_(franchise)_001,General Manager (Franchise),3,gpt-3.5-turbo,4,2,3,2,3,2,1225.9478569030762,1576,51,0.0008644999999999999
+general_manager_(franchise)_001,General Manager (Franchise),4,gpt-3.5-turbo,4,2,3,2,3,2,1433.6187839508057,1576,51,0.0008644999999999999
+general_manager_(franchise)_002,General Manager (Franchise),0,gpt-3.5-turbo,4,3,4,2,3,2,924.9062538146973,1594,51,0.0008734999999999999
+general_manager_(franchise)_002,General Manager (Franchise),1,gpt-3.5-turbo,4,3,4,2,3,2,919.5461273193359,1594,51,0.0008734999999999999
+general_manager_(franchise)_002,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,1259.916067123413,1594,51,0.0008734999999999999
+general_manager_(franchise)_002,General Manager (Franchise),3,gpt-3.5-turbo,4,3,4,2,3,3,786.0348224639893,1594,51,0.0008734999999999999
+general_manager_(franchise)_002,General Manager (Franchise),4,gpt-3.5-turbo,4,3,4,2,3,2,716.8731689453125,1594,51,0.0008734999999999999
+general_manager_(franchise)_003,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,1272.036075592041,1642,51,0.0008975
+general_manager_(franchise)_003,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,681.8702220916748,1642,51,0.0008975
+general_manager_(franchise)_003,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,719.628095626831,1642,51,0.0008975
+general_manager_(franchise)_003,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,1217.5180912017822,1642,51,0.0008975
+general_manager_(franchise)_003,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,1007.4019432067871,1642,51,0.0008975
+general_manager_(franchise)_004,General Manager (Franchise),0,gpt-3.5-turbo,4,3,4,2,3,2,733.4957122802734,1496,51,0.0008244999999999999
+general_manager_(franchise)_004,General Manager (Franchise),1,gpt-3.5-turbo,4,3,4,2,3,2,657.249927520752,1496,51,0.0008244999999999999
+general_manager_(franchise)_004,General Manager (Franchise),2,gpt-3.5-turbo,4,3,4,2,3,2,675.0049591064453,1496,51,0.0008244999999999999
+general_manager_(franchise)_004,General Manager (Franchise),3,gpt-3.5-turbo,4,3,4,2,3,2,837.5661373138428,1496,51,0.0008244999999999999
+general_manager_(franchise)_004,General Manager (Franchise),4,gpt-3.5-turbo,4,3,4,2,3,2,542.7229404449463,1496,51,0.0008244999999999999
+general_manager_(franchise)_005,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,5,3,2,973.038911819458,1461,51,0.000807
+general_manager_(franchise)_005,General Manager (Franchise),1,gpt-3.5-turbo,4,2,3,5,4,3,819.2722797393799,1461,51,0.000807
+general_manager_(franchise)_005,General Manager (Franchise),2,gpt-3.5-turbo,4,2,3,5,4,3,716.6988849639893,1461,51,0.000807
+general_manager_(franchise)_005,General Manager (Franchise),3,gpt-3.5-turbo,4,2,3,5,3,2,531.5530300140381,1461,51,0.000807
+general_manager_(franchise)_005,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,5,4,3,697.8018283843994,1461,51,0.000807
+general_manager_(franchise)_006,General Manager (Franchise),0,gpt-3.5-turbo,5,4,4,3,4,3,811.638593673706,1588,51,0.0008705
+general_manager_(franchise)_006,General Manager (Franchise),1,gpt-3.5-turbo,5,4,4,3,4,3,929.6271800994873,1588,51,0.0008705
+general_manager_(franchise)_006,General Manager (Franchise),2,gpt-3.5-turbo,5,4,4,3,4,3,806.0891628265381,1588,51,0.0008705
+general_manager_(franchise)_006,General Manager (Franchise),3,gpt-3.5-turbo,5,4,4,3,4,3,728.701114654541,1588,51,0.0008705
+general_manager_(franchise)_006,General Manager (Franchise),4,gpt-3.5-turbo,5,4,4,3,4,3,1331.5739631652832,1588,51,0.0008705
+general_manager_(franchise)_007,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,920.5200672149658,2395,51,0.001274
+general_manager_(franchise)_007,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,819.0691471099854,2395,51,0.001274
+general_manager_(franchise)_007,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,818.9730644226074,2395,51,0.001274
+general_manager_(franchise)_007,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,819.4780349731445,2395,51,0.001274
+general_manager_(franchise)_007,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,713.5698795318604,2395,51,0.001274
+general_manager_(franchise)_008,General Manager (Franchise),0,gpt-3.5-turbo,7,8,7,6,8,8,695.4009532928467,1887,51,0.00102
+general_manager_(franchise)_008,General Manager (Franchise),1,gpt-3.5-turbo,8,7,8,7,8,8,741.1739826202393,1887,51,0.00102
+general_manager_(franchise)_008,General Manager (Franchise),2,gpt-3.5-turbo,7,8,7,6,8,8,1229.6361923217773,1887,51,0.00102
+general_manager_(franchise)_008,General Manager (Franchise),3,gpt-3.5-turbo,8,7,8,7,8,8,818.1970119476318,1887,51,0.00102
+general_manager_(franchise)_008,General Manager (Franchise),4,gpt-3.5-turbo,8,7,8,7,8,8,819.1490173339844,1887,51,0.00102
+general_manager_(franchise)_009,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,1229.0551662445068,2287,51,0.00122
+general_manager_(franchise)_009,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,719.6307182312012,2287,51,0.00122
+general_manager_(franchise)_009,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,852.5209426879883,2287,51,0.00122
+general_manager_(franchise)_009,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,616.6877746582031,2287,51,0.00122
+general_manager_(franchise)_009,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,869.7211742401123,2287,51,0.00122
+general_manager_(franchise)_010,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,934.2532157897949,2458,51,0.0013055
+general_manager_(franchise)_010,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,1033.9090824127197,2458,51,0.0013055
+general_manager_(franchise)_010,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,810.7168674468994,2458,51,0.0013055
+general_manager_(franchise)_010,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,637.1829509735107,2458,51,0.0013055
+general_manager_(franchise)_010,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,1411.6489887237549,2458,51,0.0013055
+general_manager_(franchise)_011,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,8,900.7160663604736,1877,51,0.001015
+general_manager_(franchise)_011,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,8,810.5621337890625,1877,51,0.001015
+general_manager_(franchise)_011,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,8,768.1479454040527,1877,51,0.001015
+general_manager_(franchise)_011,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,8,796.597957611084,1877,51,0.001015
+general_manager_(franchise)_011,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,8,602.7331352233887,1877,51,0.001015
+general_manager_(franchise)_012,General Manager (Franchise),0,gpt-3.5-turbo,5,4,4,3,4,3,736.6471290588379,1625,51,0.0008889999999999999
+general_manager_(franchise)_012,General Manager (Franchise),1,gpt-3.5-turbo,4,3,4,3,3,3,682.9960346221924,1625,51,0.0008889999999999999
+general_manager_(franchise)_012,General Manager (Franchise),2,gpt-3.5-turbo,4,3,4,3,3,3,1087.01491355896,1625,51,0.0008889999999999999
+general_manager_(franchise)_012,General Manager (Franchise),3,gpt-3.5-turbo,5,4,4,3,4,3,630.7849884033203,1625,51,0.0008889999999999999
+general_manager_(franchise)_012,General Manager (Franchise),4,gpt-3.5-turbo,4,3,4,2,3,2,780.0331115722656,1625,51,0.0008889999999999999
+general_manager_(franchise)_013,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,8,649.3949890136719,1748,51,0.0009505
+general_manager_(franchise)_013,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,8,641.9639587402344,1748,51,0.0009505
+general_manager_(franchise)_013,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,8,739.6140098571777,1748,51,0.0009505
+general_manager_(franchise)_013,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,8,820.5251693725586,1748,51,0.0009505
+general_manager_(franchise)_013,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,8,572.6189613342285,1748,51,0.0009505
+general_manager_(franchise)_014,General Manager (Franchise),0,gpt-3.5-turbo,4,3,4,2,3,2,861.3669872283936,1664,51,0.0009084999999999999
+general_manager_(franchise)_014,General Manager (Franchise),1,gpt-3.5-turbo,4,3,4,2,3,2,1227.752923965454,1664,51,0.0009084999999999999
+general_manager_(franchise)_014,General Manager (Franchise),2,gpt-3.5-turbo,4,3,4,2,3,2,747.061014175415,1664,51,0.0009084999999999999
+general_manager_(franchise)_014,General Manager (Franchise),3,gpt-3.5-turbo,4,3,4,2,3,2,686.4149570465088,1664,51,0.0009084999999999999
+general_manager_(franchise)_014,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,924.7548580169678,1664,51,0.0009084999999999999
+general_manager_(franchise)_015,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,716.8939113616943,1678,51,0.0009155
+general_manager_(franchise)_015,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,668.6949729919434,1678,51,0.0009155
+general_manager_(franchise)_015,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,657.9289436340332,1678,51,0.0009155
+general_manager_(franchise)_015,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,716.9232368469238,1678,51,0.0009155
+general_manager_(franchise)_015,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,818.9737796783447,1678,51,0.0009155
+general_manager_(franchise)_016,General Manager (Franchise),0,gpt-3.5-turbo,7,8,8,7,8,8,818.6776638031006,1604,51,0.0008784999999999999
+general_manager_(franchise)_016,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,8,716.8397903442383,1604,51,0.0008784999999999999
+general_manager_(franchise)_016,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,8,1331.4480781555176,1604,51,0.0008784999999999999
+general_manager_(franchise)_016,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,8,819.9167251586914,1604,51,0.0008784999999999999
+general_manager_(franchise)_016,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,8,703.8609981536865,1604,51,0.0008784999999999999
+general_manager_(franchise)_017,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,830.9590816497803,1803,51,0.000978
+general_manager_(franchise)_017,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,915.4932498931885,1803,51,0.000978
+general_manager_(franchise)_017,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,1235.868215560913,1803,51,0.000978
+general_manager_(franchise)_017,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,921.4179515838623,1803,51,0.000978
+general_manager_(franchise)_017,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,653.5611152648926,1803,51,0.000978
+general_manager_(franchise)_018,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,1188.511848449707,1955,51,0.001054
+general_manager_(franchise)_018,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,861.1969947814941,1955,51,0.001054
+general_manager_(franchise)_018,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,1005.5618286132812,1955,51,0.001054
+general_manager_(franchise)_018,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,718.1129455566406,1955,51,0.001054
+general_manager_(franchise)_018,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,795.7720756530762,1955,51,0.001054
+general_manager_(franchise)_019,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,773.6570835113525,1542,51,0.0008475
+general_manager_(franchise)_019,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,760.4777812957764,1542,51,0.0008475
+general_manager_(franchise)_019,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,716.7270183563232,1542,51,0.0008475
+general_manager_(franchise)_019,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,820.1398849487305,1542,51,0.0008475
+general_manager_(franchise)_019,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,818.0749416351318,1542,51,0.0008475
+general_manager_(franchise)_020,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,1023.3583450317383,2544,51,0.0013484999999999999
+general_manager_(franchise)_020,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,701.3869285583496,2544,51,0.0013484999999999999
+general_manager_(franchise)_020,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,572.0858573913574,2544,51,0.0013484999999999999
+general_manager_(franchise)_020,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,877.1247863769531,2544,51,0.0013484999999999999
+general_manager_(franchise)_020,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,921.7836856842041,2544,51,0.0013484999999999999
+general_manager_(franchise)_021,General Manager (Franchise),0,gpt-3.5-turbo,4,2,3,2,3,2,716.6290283203125,1493,51,0.000823
+general_manager_(franchise)_021,General Manager (Franchise),1,gpt-3.5-turbo,4,2,3,2,3,2,818.9241886138916,1493,51,0.000823
+general_manager_(franchise)_021,General Manager (Franchise),2,gpt-3.5-turbo,4,2,3,2,3,2,819.9191093444824,1493,51,0.000823
+general_manager_(franchise)_021,General Manager (Franchise),3,gpt-3.5-turbo,4,2,3,2,3,2,600.1460552215576,1493,51,0.000823
+general_manager_(franchise)_021,General Manager (Franchise),4,gpt-3.5-turbo,4,2,3,2,3,2,628.1599998474121,1493,51,0.000823
+general_manager_(franchise)_022,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,818.9427852630615,2454,51,0.0013035
+general_manager_(franchise)_022,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,823.1868743896484,2454,51,0.0013035
+general_manager_(franchise)_022,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,768.2428359985352,2454,51,0.0013035
+general_manager_(franchise)_022,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,1893.4400081634521,2454,51,0.0013035
+general_manager_(franchise)_022,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,1072.8769302368164,2454,51,0.0013035
+general_manager_(franchise)_023,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,598.7751483917236,1630,51,0.0008914999999999999
+general_manager_(franchise)_023,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,679.7640323638916,1630,51,0.0008914999999999999
+general_manager_(franchise)_023,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,818.5322284698486,1630,51,0.0008914999999999999
+general_manager_(franchise)_023,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,883.3012580871582,1630,51,0.0008914999999999999
+general_manager_(franchise)_023,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,805.8419227600098,1630,51,0.0008914999999999999
+general_manager_(franchise)_024,General Manager (Franchise),0,gpt-3.5-turbo,3,2,3,2,3,2,1099.388837814331,1555,51,0.0008539999999999999
+general_manager_(franchise)_024,General Manager (Franchise),1,gpt-3.5-turbo,3,2,3,2,3,2,897.4988460540771,1555,51,0.0008539999999999999
+general_manager_(franchise)_024,General Manager (Franchise),2,gpt-3.5-turbo,3,2,3,2,3,2,716.7239189147949,1555,51,0.0008539999999999999
+general_manager_(franchise)_024,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,731.36305809021,1555,51,0.0008539999999999999
+general_manager_(franchise)_024,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,799.9861240386963,1555,51,0.0008539999999999999
+general_manager_(franchise)_025,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,757.5960159301758,1596,51,0.0008745
+general_manager_(franchise)_025,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,783.3030223846436,1596,51,0.0008745
+general_manager_(franchise)_025,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,615.7467365264893,1596,51,0.0008745
+general_manager_(franchise)_025,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,920.3181266784668,1596,51,0.0008745
+general_manager_(franchise)_025,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,716.4599895477295,1596,51,0.0008745
+general_manager_(franchise)_026,General Manager (Franchise),0,gpt-3.5-turbo,8,7,8,7,8,8,614.0868663787842,1765,51,0.000959
+general_manager_(franchise)_026,General Manager (Franchise),1,gpt-3.5-turbo,8,7,8,7,8,8,1284.8050594329834,1765,51,0.000959
+general_manager_(franchise)_026,General Manager (Franchise),2,gpt-3.5-turbo,8,7,8,7,8,9,821.3398456573486,1765,51,0.000959
+general_manager_(franchise)_026,General Manager (Franchise),3,gpt-3.5-turbo,8,7,8,7,8,8,1255.4807662963867,1765,51,0.000959
+general_manager_(franchise)_026,General Manager (Franchise),4,gpt-3.5-turbo,8,7,8,7,8,9,733.6547374725342,1765,51,0.000959
+general_manager_(franchise)_027,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,716.8560028076172,1552,51,0.0008525
+general_manager_(franchise)_027,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,716.51291847229,1552,51,0.0008525
+general_manager_(franchise)_027,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,902.9278755187988,1552,51,0.0008525
+general_manager_(franchise)_027,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,838.7460708618164,1552,51,0.0008525
+general_manager_(franchise)_027,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,818.8869953155518,1552,51,0.0008525
+general_manager_(franchise)_028,General Manager (Franchise),0,gpt-3.5-turbo,4,5,3,2,3,2,818.6819553375244,1690,51,0.0009215
+general_manager_(franchise)_028,General Manager (Franchise),1,gpt-3.5-turbo,4,5,3,2,3,2,720.1142311096191,1690,51,0.0009215
+general_manager_(franchise)_028,General Manager (Franchise),2,gpt-3.5-turbo,4,5,3,2,3,2,1226.3717651367188,1690,51,0.0009215
+general_manager_(franchise)_028,General Manager (Franchise),3,gpt-3.5-turbo,5,4,3,2,3,2,1331.6452503204346,1690,51,0.0009215
+general_manager_(franchise)_028,General Manager (Franchise),4,gpt-3.5-turbo,5,4,3,2,3,4,1329.2820453643799,1690,51,0.0009215
+general_manager_(franchise)_029,General Manager (Franchise),0,gpt-3.5-turbo,7,8,8,7,8,8,822.4730491638184,1850,51,0.0010015
+general_manager_(franchise)_029,General Manager (Franchise),1,gpt-3.5-turbo,7,8,8,7,8,8,1226.3391017913818,1850,51,0.0010015
+general_manager_(franchise)_029,General Manager (Franchise),2,gpt-3.5-turbo,7,8,8,7,8,8,1207.35502243042,1850,51,0.0010015
+general_manager_(franchise)_029,General Manager (Franchise),3,gpt-3.5-turbo,7,8,8,7,8,8,1044.753074645996,1850,51,0.0010015
+general_manager_(franchise)_029,General Manager (Franchise),4,gpt-3.5-turbo,7,8,8,7,8,8,583.7080478668213,1850,51,0.0010015
+general_manager_(franchise)_030,General Manager (Franchise),0,gpt-3.5-turbo,8,7,8,7,8,8,849.5368957519531,1881,51,0.0010170000000000001
+general_manager_(franchise)_030,General Manager (Franchise),1,gpt-3.5-turbo,8,7,8,7,8,8,1228.6291122436523,1881,51,0.0010170000000000001
+general_manager_(franchise)_030,General Manager (Franchise),2,gpt-3.5-turbo,8,7,8,7,8,8,810.2321624755859,1881,51,0.0010170000000000001
+general_manager_(franchise)_030,General Manager (Franchise),3,gpt-3.5-turbo,8,7,8,7,8,8,728.3661365509033,1881,51,0.0010170000000000001
+general_manager_(franchise)_030,General Manager (Franchise),4,gpt-3.5-turbo,8,7,8,7,8,8,1123.110055923462,1881,51,0.0010170000000000001
+general_manager_(franchise)_031,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,819.770097732544,1883,51,0.001018
+general_manager_(franchise)_031,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,818.4969425201416,1883,51,0.001018
+general_manager_(franchise)_031,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,717.2291278839111,1883,51,0.001018
+general_manager_(franchise)_031,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,791.2209033966064,1883,51,0.001018
+general_manager_(franchise)_031,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,714.8380279541016,1883,51,0.001018
+general_manager_(franchise)_032,General Manager (Franchise),0,gpt-3.5-turbo,4,2,3,5,4,3,1361.1149787902832,1683,51,0.000918
+general_manager_(franchise)_032,General Manager (Franchise),1,gpt-3.5-turbo,4,2,3,5,4,3,921.9439029693604,1683,51,0.000918
+general_manager_(franchise)_032,General Manager (Franchise),2,gpt-3.5-turbo,4,2,3,5,4,3,818.6788558959961,1683,51,0.000918
+general_manager_(franchise)_032,General Manager (Franchise),3,gpt-3.5-turbo,4,2,3,5,4,3,819.0979957580566,1683,51,0.000918
+general_manager_(franchise)_032,General Manager (Franchise),4,gpt-3.5-turbo,4,2,3,5,4,3,920.8588600158691,1683,51,0.000918
+general_manager_(franchise)_033,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,749.1018772125244,1431,51,0.000792
+general_manager_(franchise)_033,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,561.5906715393066,1431,51,0.000792
+general_manager_(franchise)_033,General Manager (Franchise),2,gpt-3.5-turbo,4,2,3,2,3,2,839.5438194274902,1431,51,0.000792
+general_manager_(franchise)_033,General Manager (Franchise),3,gpt-3.5-turbo,4,3,3,2,3,2,863.9740943908691,1431,51,0.000792
+general_manager_(franchise)_033,General Manager (Franchise),4,gpt-3.5-turbo,4,2,3,2,3,2,979.9690246582031,1431,51,0.000792
+general_manager_(franchise)_034,General Manager (Franchise),0,gpt-3.5-turbo,8,7,8,7,8,8,700.3259658813477,1933,51,0.001043
+general_manager_(franchise)_034,General Manager (Franchise),1,gpt-3.5-turbo,8,7,8,7,8,8,598.0563163757324,1933,51,0.001043
+general_manager_(franchise)_034,General Manager (Franchise),2,gpt-3.5-turbo,8,7,8,7,8,8,1158.5097312927246,1933,51,0.001043
+general_manager_(franchise)_034,General Manager (Franchise),3,gpt-3.5-turbo,8,7,8,7,8,8,718.2052135467529,1933,51,0.001043
+general_manager_(franchise)_034,General Manager (Franchise),4,gpt-3.5-turbo,8,7,8,7,8,8,897.4988460540771,1933,51,0.001043
+general_manager_(franchise)_035,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,8,944.5469379425049,1778,51,0.0009655
+general_manager_(franchise)_035,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,8,767.8649425506592,1778,51,0.0009655
+general_manager_(franchise)_035,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,8,841.7701721191406,1778,51,0.0009655
+general_manager_(franchise)_035,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,8,806.2920570373535,1778,51,0.0009655
+general_manager_(franchise)_035,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,8,1258.1899166107178,1778,51,0.0009655
+general_manager_(franchise)_036,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,830.4190635681152,2214,51,0.0011834999999999999
+general_manager_(franchise)_036,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,819.3001747131348,2214,51,0.0011834999999999999
+general_manager_(franchise)_036,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,800.8480072021484,2214,51,0.0011834999999999999
+general_manager_(franchise)_036,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,841.2551879882812,2214,51,0.0011834999999999999
+general_manager_(franchise)_036,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,917.0539379119873,2214,51,0.0011834999999999999
+general_manager_(franchise)_037,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,819.2040920257568,2446,51,0.0012994999999999999
+general_manager_(franchise)_037,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,716.3729667663574,2446,51,0.0012994999999999999
+general_manager_(franchise)_037,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,1016.9069766998291,2446,51,0.0012994999999999999
+general_manager_(franchise)_037,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,729.3350696563721,2446,51,0.0012994999999999999
+general_manager_(franchise)_037,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,571.7818737030029,2446,51,0.0012994999999999999
+general_manager_(franchise)_038,General Manager (Franchise),0,gpt-3.5-turbo,3,2,3,2,3,2,717.2989845275879,1401,51,0.0007769999999999999
+general_manager_(franchise)_038,General Manager (Franchise),1,gpt-3.5-turbo,3,2,3,2,3,2,652.6520252227783,1401,51,0.0007769999999999999
+general_manager_(franchise)_038,General Manager (Franchise),2,gpt-3.5-turbo,3,2,3,2,3,2,811.161994934082,1401,51,0.0007769999999999999
+general_manager_(franchise)_038,General Manager (Franchise),3,gpt-3.5-turbo,3,2,3,2,3,2,594.6140289306641,1401,51,0.0007769999999999999
+general_manager_(franchise)_038,General Manager (Franchise),4,gpt-3.5-turbo,3,2,3,2,3,2,702.3129463195801,1401,51,0.0007769999999999999
+general_manager_(franchise)_039,General Manager (Franchise),0,gpt-3.5-turbo,4,3,2,2,3,2,681.3387870788574,1406,51,0.0007794999999999999
+general_manager_(franchise)_039,General Manager (Franchise),1,gpt-3.5-turbo,4,3,3,2,3,2,1000.4379749298096,1406,51,0.0007794999999999999
+general_manager_(franchise)_039,General Manager (Franchise),2,gpt-3.5-turbo,4,3,3,2,3,2,686.2823963165283,1406,51,0.0007794999999999999
+general_manager_(franchise)_039,General Manager (Franchise),3,gpt-3.5-turbo,4,3,2,3,4,2,1066.8323040008545,1406,51,0.0007794999999999999
+general_manager_(franchise)_039,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,802.9541969299316,1406,51,0.0007794999999999999
+general_manager_(franchise)_040,General Manager (Franchise),0,gpt-3.5-turbo,8,7,8,7,8,8,1051.5332221984863,1854,51,0.0010035
+general_manager_(franchise)_040,General Manager (Franchise),1,gpt-3.5-turbo,8,7,8,7,8,8,794.9562072753906,1854,51,0.0010035
+general_manager_(franchise)_040,General Manager (Franchise),2,gpt-3.5-turbo,8,7,8,7,8,8,594.7170257568359,1854,51,0.0010035
+general_manager_(franchise)_040,General Manager (Franchise),3,gpt-3.5-turbo,8,7,8,7,8,8,604.5770645141602,1854,51,0.0010035
+general_manager_(franchise)_040,General Manager (Franchise),4,gpt-3.5-turbo,8,7,8,7,8,8,847.3169803619385,1854,51,0.0010035
+general_manager_(franchise)_041,General Manager (Franchise),0,gpt-3.5-turbo,8,7,8,7,8,9,919.9399948120117,1859,51,0.001006
+general_manager_(franchise)_041,General Manager (Franchise),1,gpt-3.5-turbo,8,7,8,7,8,9,819.5600509643555,1859,51,0.001006
+general_manager_(franchise)_041,General Manager (Franchise),2,gpt-3.5-turbo,8,7,8,7,8,9,1010.6968879699707,1859,51,0.001006
+general_manager_(franchise)_041,General Manager (Franchise),3,gpt-3.5-turbo,8,7,8,7,8,9,833.4262371063232,1859,51,0.001006
+general_manager_(franchise)_041,General Manager (Franchise),4,gpt-3.5-turbo,8,7,8,7,8,9,1433.5007667541504,1859,51,0.001006
+general_manager_(franchise)_042,General Manager (Franchise),0,gpt-3.5-turbo,4,2,3,2,3,2,817.8520202636719,1459,51,0.000806
+general_manager_(franchise)_042,General Manager (Franchise),1,gpt-3.5-turbo,4,2,3,2,3,2,636.3918781280518,1459,51,0.000806
+general_manager_(franchise)_042,General Manager (Franchise),2,gpt-3.5-turbo,4,2,3,2,3,2,901.1988639831543,1459,51,0.000806
+general_manager_(franchise)_042,General Manager (Franchise),3,gpt-3.5-turbo,4,2,3,2,3,2,817.2647953033447,1459,51,0.000806
+general_manager_(franchise)_042,General Manager (Franchise),4,gpt-3.5-turbo,4,2,3,2,3,2,1536.336898803711,1459,51,0.000806
+general_manager_(franchise)_043,General Manager (Franchise),0,gpt-3.5-turbo,5,4,4,3,4,3,697.4539756774902,1367,51,0.0007599999999999999
+general_manager_(franchise)_043,General Manager (Franchise),1,gpt-3.5-turbo,4,3,4,2,3,2,839.914083480835,1367,51,0.0007599999999999999
+general_manager_(franchise)_043,General Manager (Franchise),2,gpt-3.5-turbo,5,4,4,3,4,3,642.8930759429932,1367,51,0.0007599999999999999
+general_manager_(franchise)_043,General Manager (Franchise),3,gpt-3.5-turbo,5,4,4,3,4,3,629.6138763427734,1367,51,0.0007599999999999999
+general_manager_(franchise)_043,General Manager (Franchise),4,gpt-3.5-turbo,5,4,4,3,4,3,1182.5141906738281,1367,51,0.0007599999999999999
+general_manager_(franchise)_044,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,1127.4898052215576,1857,51,0.001005
+general_manager_(franchise)_044,General Manager (Franchise),1,gpt-3.5-turbo,8,7,8,7,8,8,785.9110832214355,1857,51,0.001005
+general_manager_(franchise)_044,General Manager (Franchise),2,gpt-3.5-turbo,8,7,8,7,8,8,852.1177768707275,1857,51,0.001005
+general_manager_(franchise)_044,General Manager (Franchise),3,gpt-3.5-turbo,8,7,8,7,8,8,1330.482006072998,1857,51,0.001005
+general_manager_(franchise)_044,General Manager (Franchise),4,gpt-3.5-turbo,8,7,8,7,8,8,716.5060043334961,1857,51,0.001005
+general_manager_(franchise)_045,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,8,1442.5830841064453,1854,51,0.0010035
+general_manager_(franchise)_045,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,8,866.347074508667,1854,51,0.0010035
+general_manager_(franchise)_045,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,8,762.7120018005371,1854,51,0.0010035
+general_manager_(franchise)_045,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,8,629.9800872802734,1854,51,0.0010035
+general_manager_(franchise)_045,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,8,1315.9291744232178,1854,51,0.0010035
+general_manager_(franchise)_046,General Manager (Franchise),0,gpt-3.5-turbo,8,9,9,8,9,9,803.0519485473633,2427,51,0.00129
+general_manager_(franchise)_046,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,1449.126958847046,2427,51,0.00129
+general_manager_(franchise)_046,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,1126.4357566833496,2427,51,0.00129
+general_manager_(franchise)_046,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,882.5802803039551,2427,51,0.00129
+general_manager_(franchise)_046,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,857.7821254730225,2427,51,0.00129
+general_manager_(franchise)_047,General Manager (Franchise),0,gpt-3.5-turbo,4,3,3,2,3,2,819.6671009063721,1621,51,0.000887
+general_manager_(franchise)_047,General Manager (Franchise),1,gpt-3.5-turbo,4,3,4,2,3,2,967.3058986663818,1621,51,0.000887
+general_manager_(franchise)_047,General Manager (Franchise),2,gpt-3.5-turbo,4,3,4,2,3,2,773.5590934753418,1621,51,0.000887
+general_manager_(franchise)_047,General Manager (Franchise),3,gpt-3.5-turbo,4,3,4,2,3,2,847.0661640167236,1621,51,0.000887
+general_manager_(franchise)_047,General Manager (Franchise),4,gpt-3.5-turbo,4,3,3,2,3,2,857.3927879333496,1621,51,0.000887
+general_manager_(franchise)_048,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,612.9181385040283,2402,51,0.0012775
+general_manager_(franchise)_048,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,857.6228618621826,2402,51,0.0012775
+general_manager_(franchise)_048,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,1534.8567962646484,2402,51,0.0012775
+general_manager_(franchise)_048,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,728.844165802002,2402,51,0.0012775
+general_manager_(franchise)_048,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,561.3892078399658,2402,51,0.0012775
+general_manager_(franchise)_049,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,1371.561050415039,1649,51,0.000901
+general_manager_(franchise)_049,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,8,789.6969318389893,1649,51,0.000901
+general_manager_(franchise)_049,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,8,818.7150955200195,1649,51,0.000901
+general_manager_(franchise)_049,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,8,749.8862743377686,1649,51,0.000901
+general_manager_(franchise)_049,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,684.9961280822754,1649,51,0.000901
+general_manager_(franchise)_050,General Manager (Franchise),0,gpt-3.5-turbo,8,9,8,7,8,9,1158.6191654205322,2548,51,0.0013505
+general_manager_(franchise)_050,General Manager (Franchise),1,gpt-3.5-turbo,8,9,8,7,8,9,1741.1248683929443,2548,51,0.0013505
+general_manager_(franchise)_050,General Manager (Franchise),2,gpt-3.5-turbo,8,9,8,7,8,9,706.8920135498047,2548,51,0.0013505
+general_manager_(franchise)_050,General Manager (Franchise),3,gpt-3.5-turbo,8,9,8,7,8,9,937.3388290405273,2548,51,0.0013505
+general_manager_(franchise)_050,General Manager (Franchise),4,gpt-3.5-turbo,8,9,8,7,8,9,887.3119354248047,2548,51,0.0013505

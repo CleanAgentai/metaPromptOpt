@@ -1,0 +1,1251 @@
+interview_id,role,run_idx,model,ca,exp,ps,rel,prof,comm,latency_ms,input_tokens,output_tokens,cost
+customer_service_representative_001,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1231.767177581787,1582,33,0.0
+customer_service_representative_001,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,7,1095.703125,1582,33,0.0
+customer_service_representative_001,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1255.0690174102783,1582,33,0.0
+customer_service_representative_001,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1505.0318241119385,1582,44,0.0
+customer_service_representative_001,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,6,1371.8409538269043,1582,44,0.0
+customer_service_representative_002,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,8,2257.4472427368164,1395,33,0.0
+customer_service_representative_002,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,5,6,1420.280933380127,1395,44,0.0
+customer_service_representative_002,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,5,4,6,1334.0039253234863,1395,44,0.0
+customer_service_representative_002,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1081.4311504364014,1395,33,0.0
+customer_service_representative_002,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,4,8,1168.5049533843994,1395,33,0.0
+customer_service_representative_003,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1036.067008972168,1530,33,0.0
+customer_service_representative_003,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1266.1678791046143,1530,44,0.0
+customer_service_representative_003,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1281.5971374511719,1530,33,0.0
+customer_service_representative_003,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1263.3748054504395,1530,33,0.0
+customer_service_representative_003,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1274.4016647338867,1530,33,0.0
+customer_service_representative_004,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,3,6,8,1454.671859741211,1453,33,0.0
+customer_service_representative_004,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1232.349157333374,1453,44,0.0
+customer_service_representative_004,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,3,6,8,1328.1688690185547,1453,33,0.0
+customer_service_representative_004,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,4,6,6,1225.0981330871582,1453,44,0.0
+customer_service_representative_004,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,3,6,8,1028.9051532745361,1453,33,0.0
+customer_service_representative_005,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1742.3558235168457,1322,33,0.0
+customer_service_representative_005,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,4,6,1124.305009841919,1322,33,0.0
+customer_service_representative_005,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1330.2090167999268,1322,33,0.0
+customer_service_representative_005,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1150.604009628296,1322,33,0.0
+customer_service_representative_005,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,4,6,1205.2202224731445,1322,44,0.0
+customer_service_representative_006,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1126.7237663269043,1538,33,0.0
+customer_service_representative_006,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1202.0490169525146,1538,33,0.0
+customer_service_representative_006,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1254.1720867156982,1538,33,0.0
+customer_service_representative_006,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1238.0506992340088,1538,33,0.0
+customer_service_representative_006,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,954.3170928955078,1538,33,0.0
+customer_service_representative_007,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1256.2129497528076,1425,44,0.0
+customer_service_representative_007,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,6,6,1329.24485206604,1425,44,0.0
+customer_service_representative_007,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1367.0339584350586,1425,44,0.0
+customer_service_representative_007,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,6,6,1328.9752006530762,1425,44,0.0
+customer_service_representative_007,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,4,6,6,1303.466796875,1425,44,0.0
+customer_service_representative_008,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1360.0738048553467,2221,33,0.0
+customer_service_representative_008,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1433.2380294799805,2221,33,0.0
+customer_service_representative_008,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1332.624912261963,2221,33,0.0
+customer_service_representative_008,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1230.5259704589844,2221,33,0.0
+customer_service_representative_008,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1480.3879261016846,2221,33,0.0
+customer_service_representative_009,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1281.653881072998,2216,33,0.0
+customer_service_representative_009,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1241.9521808624268,2216,33,0.0
+customer_service_representative_009,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1318.3138370513916,2216,33,0.0
+customer_service_representative_009,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.4159660339355,2216,33,0.0
+customer_service_representative_009,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1125.612735748291,2216,33,0.0
+customer_service_representative_010,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1316.4362907409668,1602,33,0.0
+customer_service_representative_010,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1244.507074356079,1602,33,0.0
+customer_service_representative_010,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1125.262975692749,1602,33,0.0
+customer_service_representative_010,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1126.2362003326416,1602,33,0.0
+customer_service_representative_010,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.0673236846924,1602,33,0.0
+customer_service_representative_011,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1249.31001663208,1658,33,0.0
+customer_service_representative_011,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1521.252155303955,1658,33,0.0
+customer_service_representative_011,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1120.09596824646,1658,33,0.0
+customer_service_representative_011,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1222.8691577911377,1658,33,0.0
+customer_service_representative_011,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1313.9188289642334,1658,33,0.0
+customer_service_representative_012,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1185.5442523956299,1443,33,0.0
+customer_service_representative_012,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,8,8,9,1085.575819015503,1443,33,0.0
+customer_service_representative_012,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1470.4160690307617,1443,33,0.0
+customer_service_representative_012,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1082.610845565796,1443,33,0.0
+customer_service_representative_012,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1241.0471439361572,1443,33,0.0
+customer_service_representative_013,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,2047.5919246673584,2115,33,0.0
+customer_service_representative_013,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1433.9573383331299,2115,33,0.0
+customer_service_representative_013,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1433.398962020874,2115,33,0.0
+customer_service_representative_013,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1229.1948795318604,2115,33,0.0
+customer_service_representative_013,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1125.4191398620605,2115,33,0.0
+customer_service_representative_014,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1312.258005142212,2201,33,0.0
+customer_service_representative_014,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1350.0149250030518,2201,33,0.0
+customer_service_representative_014,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1330.265760421753,2201,33,0.0
+customer_service_representative_014,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1230.407953262329,2201,33,0.0
+customer_service_representative_014,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1181.2291145324707,2201,33,0.0
+customer_service_representative_015,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,8,1188.2691383361816,1340,44,0.0
+customer_service_representative_015,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,6,1323.8520622253418,1340,44,0.0
+customer_service_representative_015,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,8,1119.1811561584473,1340,44,0.0
+customer_service_representative_015,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,5,6,8,1100.5072593688965,1340,33,0.0
+customer_service_representative_015,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,5,8,1144.6800231933594,1340,33,0.0
+customer_service_representative_016,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,5,6,1338.1140232086182,1382,44,0.0
+customer_service_representative_016,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,5,6,1432.8079223632812,1382,44,0.0
+customer_service_representative_016,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,5,6,1229.1250228881836,1382,44,0.0
+customer_service_representative_016,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,6,6,1200.847864151001,1382,44,0.0
+customer_service_representative_016,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,5,6,1358.7467670440674,1382,44,0.0
+customer_service_representative_017,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1228.6527156829834,1464,33,0.0
+customer_service_representative_017,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1296.6129779815674,1464,33,0.0
+customer_service_representative_017,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1264.8460865020752,1464,33,0.0
+customer_service_representative_017,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1292.1371459960938,1464,33,0.0
+customer_service_representative_017,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1059.826135635376,1464,33,0.0
+customer_service_representative_018,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,5,6,1231.0760021209717,1424,33,0.0
+customer_service_representative_018,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,4,6,1331.3448429107666,1424,33,0.0
+customer_service_representative_018,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,5,6,1226.8822193145752,1424,33,0.0
+customer_service_representative_018,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,4,6,973.4971523284912,1424,33,0.0
+customer_service_representative_018,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,4,6,1180.5200576782227,1424,33,0.0
+customer_service_representative_019,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,4,6,8,1123.216152191162,1470,33,0.0
+customer_service_representative_019,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1228.4879684448242,1470,33,0.0
+customer_service_representative_019,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,2,4,6,1317.5249099731445,1470,33,0.0
+customer_service_representative_019,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,2,4,6,2473.1040000915527,1470,33,0.0
+customer_service_representative_019,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1330.2412033081055,1470,33,0.0
+customer_service_representative_020,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,4,6,1233.7441444396973,1368,33,0.0
+customer_service_representative_020,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,4,6,1231.8358421325684,1368,44,0.0
+customer_service_representative_020,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,4,2,1250.6990432739258,1368,44,0.0
+customer_service_representative_020,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1197.1619129180908,1368,33,0.0
+customer_service_representative_020,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,4,6,1259.6070766448975,1368,44,0.0
+customer_service_representative_021,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,8,8,9,1198.3349323272705,1707,33,0.0
+customer_service_representative_021,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1126.7919540405273,1707,33,0.0
+customer_service_representative_021,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,8,8,9,1169.1367626190186,1707,33,0.0
+customer_service_representative_021,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,8,8,9,1390.2521133422852,1707,33,0.0
+customer_service_representative_021,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,8,8,9,1323.7152099609375,1707,33,0.0
+customer_service_representative_022,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1338.2089138031006,1652,33,0.0
+customer_service_representative_022,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,8,9,9,1432.1579933166504,1652,33,0.0
+customer_service_representative_022,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1124.3298053741455,1652,33,0.0
+customer_service_representative_022,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,8,8,9,975.071907043457,1652,33,0.0
+customer_service_representative_022,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1178.8647174835205,1652,33,0.0
+customer_service_representative_023,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,5,4,8,1175.7776737213135,1441,33,0.0
+customer_service_representative_023,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,4,6,1281.0029983520508,1441,44,0.0
+customer_service_representative_023,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,5,6,1107.452154159546,1441,33,0.0
+customer_service_representative_023,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,5,4,6,1198.3850002288818,1441,44,0.0
+customer_service_representative_023,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1197.7109909057617,1441,44,0.0
+customer_service_representative_024,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,4,1254.6699047088623,1381,44,0.0
+customer_service_representative_024,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,4,6,1412.5750064849854,1381,44,0.0
+customer_service_representative_024,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,5,6,1239.0918731689453,1381,44,0.0
+customer_service_representative_024,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,4,6,1219.3419933319092,1381,44,0.0
+customer_service_representative_024,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,4,6,1304.2120933532715,1381,44,0.0
+customer_service_representative_025,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1232.738971710205,1676,33,0.0
+customer_service_representative_025,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1283.4250926971436,1676,33,0.0
+customer_service_representative_025,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1168.7979698181152,1676,33,0.0
+customer_service_representative_025,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1127.52366065979,1676,33,0.0
+customer_service_representative_025,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1313.8997554779053,1676,33,0.0
+customer_service_representative_026,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1347.8960990905762,1664,33,0.0
+customer_service_representative_026,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,2149.7530937194824,1664,33,0.0
+customer_service_representative_026,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.2347660064697,1664,33,0.0
+customer_service_representative_026,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1056.3209056854248,1664,33,0.0
+customer_service_representative_026,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1197.4587440490723,1664,33,0.0
+customer_service_representative_027,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1330.1701545715332,2181,33,0.0
+customer_service_representative_027,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1230.1199436187744,2181,33,0.0
+customer_service_representative_027,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1231.3668727874756,2181,33,0.0
+customer_service_representative_027,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1532.2778224945068,2181,33,0.0
+customer_service_representative_027,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1228.6410331726074,2181,33,0.0
+customer_service_representative_028,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1333.2641124725342,1585,33,0.0
+customer_service_representative_028,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1329.7748565673828,1585,33,0.0
+customer_service_representative_028,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.7650089263916,1585,33,0.0
+customer_service_representative_028,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1433.1440925598145,1585,33,0.0
+customer_service_representative_028,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1433.7170124053955,1585,33,0.0
+customer_service_representative_029,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1228.9416790008545,2172,33,0.0
+customer_service_representative_029,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1471.738338470459,2172,33,0.0
+customer_service_representative_029,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,8,8,9,1395.080327987671,2172,33,0.0
+customer_service_representative_029,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1228.496789932251,2172,33,0.0
+customer_service_representative_029,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1246.3510036468506,2172,33,0.0
+customer_service_representative_030,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1177.6981353759766,1525,33,0.0
+customer_service_representative_030,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1159.425973892212,1525,33,0.0
+customer_service_representative_030,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1536.1599922180176,1525,33,0.0
+customer_service_representative_030,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1332.3490619659424,1525,33,0.0
+customer_service_representative_030,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1276.822805404663,1525,33,0.0
+customer_service_representative_031,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1179.326057434082,2247,33,0.0
+customer_service_representative_031,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1357.736349105835,2247,33,0.0
+customer_service_representative_031,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,2952.554941177368,2247,33,0.0
+customer_service_representative_031,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1160.5157852172852,2247,33,0.0
+customer_service_representative_031,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1184.3788623809814,2247,33,0.0
+customer_service_representative_032,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1433.835744857788,2350,33,0.0
+customer_service_representative_032,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,8,8,9,1292.4768924713135,2350,33,0.0
+customer_service_representative_032,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1268.3141231536865,2350,33,0.0
+customer_service_representative_032,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1126.0700225830078,2350,33,0.0
+customer_service_representative_032,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1227.3399829864502,2350,33,0.0
+customer_service_representative_033,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1155.3030014038086,2029,33,0.0
+customer_service_representative_033,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1109.5337867736816,2029,33,0.0
+customer_service_representative_033,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1315.4082298278809,2029,33,0.0
+customer_service_representative_033,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1232.800006866455,2029,33,0.0
+customer_service_representative_033,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1535.938024520874,2029,33,0.0
+customer_service_representative_034,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1162.9986763000488,1567,33,0.0
+customer_service_representative_034,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1294.9109077453613,1567,33,0.0
+customer_service_representative_034,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1229.3570041656494,1567,33,0.0
+customer_service_representative_034,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1073.3318328857422,1567,33,0.0
+customer_service_representative_034,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1154.8848152160645,1567,33,0.0
+customer_service_representative_035,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1254.4689178466797,1751,33,0.0
+customer_service_representative_035,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1430.8600425720215,1751,33,0.0
+customer_service_representative_035,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1068.6821937561035,1751,33,0.0
+customer_service_representative_035,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1184.1826438903809,1751,33,0.0
+customer_service_representative_035,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1306.9989681243896,1751,33,0.0
+customer_service_representative_036,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1560.0810050964355,2076,33,0.0
+customer_service_representative_036,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1428.5669326782227,2076,33,0.0
+customer_service_representative_036,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1336.9150161743164,2076,33,0.0
+customer_service_representative_036,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1102.522850036621,2076,33,0.0
+customer_service_representative_036,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1251.8022060394287,2076,33,0.0
+customer_service_representative_037,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,5,6,4,1433.6662292480469,1368,44,0.0
+customer_service_representative_037,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,5,6,1228.302001953125,1368,44,0.0
+customer_service_representative_037,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,4,1464.648962020874,1368,44,0.0
+customer_service_representative_037,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,4,1320.3589916229248,1368,44,0.0
+customer_service_representative_037,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,6,6,1413.917064666748,1368,44,0.0
+customer_service_representative_038,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1329.9930095672607,1564,33,0.0
+customer_service_representative_038,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1129.6260356903076,1564,33,0.0
+customer_service_representative_038,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1202.8207778930664,1564,33,0.0
+customer_service_representative_038,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,8,8,9,1243.9680099487305,1564,33,0.0
+customer_service_representative_038,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1135.4649066925049,1564,33,0.0
+customer_service_representative_039,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1313.1239414215088,1488,33,0.0
+customer_service_representative_039,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1316.046953201294,1488,33,0.0
+customer_service_representative_039,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,5,6,8,1158.416748046875,1488,33,0.0
+customer_service_representative_039,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,6,6,8,1842.3662185668945,1488,33,0.0
+customer_service_representative_039,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1228.8010120391846,1488,33,0.0
+customer_service_representative_040,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1396.6851234436035,1417,44,0.0
+customer_service_representative_040,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1536.604881286621,1417,44,0.0
+customer_service_representative_040,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1378.3817291259766,1417,44,0.0
+customer_service_representative_040,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,6,6,1525.2931118011475,1417,44,0.0
+customer_service_representative_040,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1435.0621700286865,1417,44,0.0
+customer_service_representative_041,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1329.9641609191895,1660,33,0.0
+customer_service_representative_041,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.1758766174316,1660,33,0.0
+customer_service_representative_041,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.460952758789,1660,33,0.0
+customer_service_representative_041,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1281.7249298095703,1660,33,0.0
+customer_service_representative_041,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1176.2323379516602,1660,33,0.0
+customer_service_representative_042,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,8,9,1125.1027584075928,1618,33,0.0
+customer_service_representative_042,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1230.8192253112793,1618,33,0.0
+customer_service_representative_042,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1192.9550170898438,1618,33,0.0
+customer_service_representative_042,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1363.976001739502,1618,33,0.0
+customer_service_representative_042,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1227.8320789337158,1618,33,0.0
+customer_service_representative_043,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1425.8129596710205,2319,33,0.0
+customer_service_representative_043,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1394.3378925323486,2319,33,0.0
+customer_service_representative_043,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1482.469081878662,2319,33,0.0
+customer_service_representative_043,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1229.9258708953857,2319,33,0.0
+customer_service_representative_043,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1228.8339138031006,2319,33,0.0
+customer_service_representative_044,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.373764038086,1611,33,0.0
+customer_service_representative_044,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.1160354614258,1611,33,0.0
+customer_service_representative_044,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1381.0808658599854,1611,33,0.0
+customer_service_representative_044,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1166.3482189178467,1611,33,0.0
+customer_service_representative_044,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1201.8160820007324,1611,33,0.0
+customer_service_representative_045,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1269.5298194885254,1800,33,0.0
+customer_service_representative_045,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1201.1399269104004,1800,33,0.0
+customer_service_representative_045,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1357.645034790039,1800,33,0.0
+customer_service_representative_045,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1231.8458557128906,1800,33,0.0
+customer_service_representative_045,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1328.1478881835938,1800,33,0.0
+customer_service_representative_046,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1160.1059436798096,1781,33,0.0
+customer_service_representative_046,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1399.5897769927979,1781,33,0.0
+customer_service_representative_046,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1333.7998390197754,1781,33,0.0
+customer_service_representative_046,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1329.3440341949463,1781,33,0.0
+customer_service_representative_046,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1739.856243133545,1781,33,0.0
+customer_service_representative_047,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1320.7848072052002,2269,33,0.0
+customer_service_representative_047,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1443.7220096588135,2269,33,0.0
+customer_service_representative_047,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1331.4571380615234,2269,33,0.0
+customer_service_representative_047,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1330.9738636016846,2269,33,0.0
+customer_service_representative_047,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1434.640884399414,2269,33,0.0
+customer_service_representative_048,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1330.5437564849854,1577,33,0.0
+customer_service_representative_048,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1229.3660640716553,1577,33,0.0
+customer_service_representative_048,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1065.0608539581299,1577,33,0.0
+customer_service_representative_048,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1084.0520858764648,1577,33,0.0
+customer_service_representative_048,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.9640884399414,1577,33,0.0
+customer_service_representative_049,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,5,6,8,1228.3730506896973,1322,33,0.0
+customer_service_representative_049,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,5,6,8,1228.7688255310059,1322,33,0.0
+customer_service_representative_049,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,6,6,8,1379.0888786315918,1322,33,0.0
+customer_service_representative_049,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,6,6,8,1032.9561233520508,1322,33,0.0
+customer_service_representative_049,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,6,6,8,1273.2720375061035,1322,33,0.0
+customer_service_representative_050,Customer Service Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1262.7577781677246,2180,33,0.0
+customer_service_representative_050,Customer Service Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1300.2209663391113,2180,33,0.0
+customer_service_representative_050,Customer Service Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1840.1107788085938,2180,33,0.0
+customer_service_representative_050,Customer Service Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1228.3101081848145,2180,33,0.0
+customer_service_representative_050,Customer Service Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1131.9522857666016,2180,33,0.0
+sales_representative_001,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1316.094160079956,1271,33,0.0
+sales_representative_001,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1126.4591217041016,1271,33,0.0
+sales_representative_001,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1436.2750053405762,1271,33,0.0
+sales_representative_001,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1123.3420372009277,1271,33,0.0
+sales_representative_001,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1229.7446727752686,1271,33,0.0
+sales_representative_002,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,993.8359260559082,1158,33,0.0
+sales_representative_002,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,6,6,7,4,1325.9639739990234,1158,44,0.0
+sales_representative_002,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1161.5498065948486,1158,33,0.0
+sales_representative_002,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,6,6,7,8,1141.8108940124512,1158,33,0.0
+sales_representative_002,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1315.9987926483154,1158,33,0.0
+sales_representative_003,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1228.4462451934814,1152,33,0.0
+sales_representative_003,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1111.8521690368652,1152,33,0.0
+sales_representative_003,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1959.4879150390625,1152,33,0.0
+sales_representative_003,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1331.3839435577393,1152,33,0.0
+sales_representative_003,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1127.0058155059814,1152,33,0.0
+sales_representative_004,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1232.7709197998047,1239,33,0.0
+sales_representative_004,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1223.1371402740479,1239,33,0.0
+sales_representative_004,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1332.1459293365479,1239,33,0.0
+sales_representative_004,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1126.4221668243408,1239,33,0.0
+sales_representative_004,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1127.5248527526855,1239,33,0.0
+sales_representative_005,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1227.0748615264893,1133,33,0.0
+sales_representative_005,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1128.058671951294,1133,33,0.0
+sales_representative_005,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1329.42795753479,1133,33,0.0
+sales_representative_005,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1127.0179748535156,1133,33,0.0
+sales_representative_005,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1228.6150455474854,1133,33,0.0
+sales_representative_006,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1151.5851020812988,1200,33,0.0
+sales_representative_006,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1114.1157150268555,1200,33,0.0
+sales_representative_006,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1239.9342060089111,1200,33,0.0
+sales_representative_006,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,987.529993057251,1200,33,0.0
+sales_representative_006,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1137.9361152648926,1200,33,0.0
+sales_representative_007,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1127.4371147155762,1230,33,0.0
+sales_representative_007,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1236.158847808838,1230,33,0.0
+sales_representative_007,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1922.0008850097656,1230,33,0.0
+sales_representative_007,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1111.2208366394043,1230,33,0.0
+sales_representative_007,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1363.3079528808594,1230,33,0.0
+sales_representative_008,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1534.1899394989014,1769,33,0.0
+sales_representative_008,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1228.273868560791,1769,33,0.0
+sales_representative_008,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1436.8610382080078,1769,33,0.0
+sales_representative_008,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1328.1469345092773,1769,33,0.0
+sales_representative_008,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1710.8230590820312,1769,33,0.0
+sales_representative_009,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1153.3219814300537,1129,33,0.0
+sales_representative_009,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1130.429983139038,1129,33,0.0
+sales_representative_009,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1280.2670001983643,1129,33,0.0
+sales_representative_009,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,993.7281608581543,1129,33,0.0
+sales_representative_009,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1193.6380863189697,1129,33,0.0
+sales_representative_010,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1445.781946182251,1216,33,0.0
+sales_representative_010,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1331.671953201294,1216,33,0.0
+sales_representative_010,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1206.4309120178223,1216,33,0.0
+sales_representative_010,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,6,8,1149.4910717010498,1216,33,0.0
+sales_representative_010,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1228.1742095947266,1216,33,0.0
+sales_representative_011,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1330.8300971984863,1216,33,0.0
+sales_representative_011,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1112.0381355285645,1216,33,0.0
+sales_representative_011,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1140.185832977295,1216,33,0.0
+sales_representative_011,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,4,5,6,1178.4508228302002,1216,44,0.0
+sales_representative_011,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1074.7191905975342,1216,33,0.0
+sales_representative_012,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1334.5451354980469,1256,33,0.0
+sales_representative_012,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1120.4402446746826,1256,33,0.0
+sales_representative_012,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1335.3443145751953,1256,33,0.0
+sales_representative_012,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1123.518943786621,1256,33,0.0
+sales_representative_012,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1331.3908576965332,1256,33,0.0
+sales_representative_013,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1332.8988552093506,1290,33,0.0
+sales_representative_013,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1329.5009136199951,1290,33,0.0
+sales_representative_013,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1236.6409301757812,1290,33,0.0
+sales_representative_013,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1220.1521396636963,1290,44,0.0
+sales_representative_013,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1079.0467262268066,1290,33,0.0
+sales_representative_014,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,9,9,1179.3091297149658,1721,33,0.0
+sales_representative_014,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,9,9,1223.388910293579,1721,33,0.0
+sales_representative_014,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,9,9,1334.4810009002686,1721,33,0.0
+sales_representative_014,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,9,9,1097.7809429168701,1721,33,0.0
+sales_representative_014,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,9,9,1153.1400680541992,1721,33,0.0
+sales_representative_015,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,2646.07572555542,1292,33,0.0
+sales_representative_015,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1064.4581317901611,1292,33,0.0
+sales_representative_015,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1510.6849670410156,1292,33,0.0
+sales_representative_015,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1126.2049674987793,1292,33,0.0
+sales_representative_015,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1433.0880641937256,1292,33,0.0
+sales_representative_016,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1229.6080589294434,1188,33,0.0
+sales_representative_016,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1216.9671058654785,1188,33,0.0
+sales_representative_016,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1341.4740562438965,1188,44,0.0
+sales_representative_016,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1332.6458930969238,1188,44,0.0
+sales_representative_016,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1127.5608539581299,1188,33,0.0
+sales_representative_017,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1329.6430110931396,1263,33,0.0
+sales_representative_017,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,4,8,1330.1069736480713,1263,44,0.0
+sales_representative_017,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1532.4809551239014,1263,44,0.0
+sales_representative_017,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1436.5320205688477,1263,44,0.0
+sales_representative_017,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1234.4801425933838,1263,33,0.0
+sales_representative_018,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1428.6460876464844,1952,33,0.0
+sales_representative_018,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1228.2519340515137,1952,33,0.0
+sales_representative_018,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1118.0751323699951,1952,33,0.0
+sales_representative_018,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1854.3570041656494,1952,33,0.0
+sales_representative_018,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1635.5361938476562,1952,33,0.0
+sales_representative_019,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1229.7439575195312,1179,33,0.0
+sales_representative_019,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1236.480951309204,1179,33,0.0
+sales_representative_019,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1219.6850776672363,1179,33,0.0
+sales_representative_019,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1229.2430400848389,1179,33,0.0
+sales_representative_019,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1228.1370162963867,1179,33,0.0
+sales_representative_020,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1227.863073348999,1339,33,0.0
+sales_representative_020,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1435.5878829956055,1339,33,0.0
+sales_representative_020,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1125.0720024108887,1339,33,0.0
+sales_representative_020,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1401.6551971435547,1339,33,0.0
+sales_representative_020,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1567.0678615570068,1339,33,0.0
+sales_representative_021,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1232.215166091919,1286,33,0.0
+sales_representative_021,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1430.9091567993164,1286,33,0.0
+sales_representative_021,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1126.3110637664795,1286,33,0.0
+sales_representative_021,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,2209.911823272705,1286,33,0.0
+sales_representative_021,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1277.5828838348389,1286,33,0.0
+sales_representative_022,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1094.515085220337,1156,33,0.0
+sales_representative_022,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1254.2071342468262,1156,33,0.0
+sales_representative_022,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1331.057071685791,1156,33,0.0
+sales_representative_022,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,8,1159.0862274169922,1156,33,0.0
+sales_representative_022,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,3,6,7,8,1345.106840133667,1156,44,0.0
+sales_representative_023,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1286.7393493652344,1359,33,0.0
+sales_representative_023,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1430.6468963623047,1359,33,0.0
+sales_representative_023,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1208.8232040405273,1359,33,0.0
+sales_representative_023,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1146.8243598937988,1359,33,0.0
+sales_representative_023,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1128.438949584961,1359,33,0.0
+sales_representative_024,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1329.0810585021973,1250,33,0.0
+sales_representative_024,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1086.4481925964355,1250,33,0.0
+sales_representative_024,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1166.6009426116943,1250,33,0.0
+sales_representative_024,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1328.9542198181152,1250,33,0.0
+sales_representative_024,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1230.909824371338,1250,33,0.0
+sales_representative_025,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1454.8850059509277,1120,33,0.0
+sales_representative_025,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1104.5238971710205,1120,33,0.0
+sales_representative_025,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1111.0010147094727,1120,33,0.0
+sales_representative_025,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1346.47798538208,1120,33,0.0
+sales_representative_025,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1371.2029457092285,1120,33,0.0
+sales_representative_026,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1393.860101699829,1113,33,0.0
+sales_representative_026,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1331.8960666656494,1113,33,0.0
+sales_representative_026,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1228.5330295562744,1113,33,0.0
+sales_representative_026,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1181.797981262207,1113,33,0.0
+sales_representative_026,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1207.3068618774414,1113,33,0.0
+sales_representative_027,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1501.3189315795898,1377,33,0.0
+sales_representative_027,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1229.2990684509277,1377,33,0.0
+sales_representative_027,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1286.2153053283691,1377,33,0.0
+sales_representative_027,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1266.5588855743408,1377,33,0.0
+sales_representative_027,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1352.7040481567383,1377,33,0.0
+sales_representative_028,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1246.7551231384277,1258,33,0.0
+sales_representative_028,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1197.878122329712,1258,33,0.0
+sales_representative_028,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1021.500825881958,1258,33,0.0
+sales_representative_028,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1433.5792064666748,1258,33,0.0
+sales_representative_028,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1331.1610221862793,1258,33,0.0
+sales_representative_029,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1331.244707107544,1206,44,0.0
+sales_representative_029,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1228.515863418579,1206,44,0.0
+sales_representative_029,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1228.9371490478516,1206,33,0.0
+sales_representative_029,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1228.208065032959,1206,44,0.0
+sales_representative_029,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1245.0971603393555,1206,33,0.0
+sales_representative_030,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1185.6281757354736,1167,33,0.0
+sales_representative_030,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1255.9418678283691,1167,33,0.0
+sales_representative_030,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1228.6570072174072,1167,44,0.0
+sales_representative_030,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1135.652780532837,1167,44,0.0
+sales_representative_030,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,6,1424.1969585418701,1167,44,0.0
+sales_representative_031,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,6,8,8,1432.8358173370361,1252,33,0.0
+sales_representative_031,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,6,8,8,1043.1108474731445,1252,33,0.0
+sales_representative_031,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,6,8,8,1311.6230964660645,1252,33,0.0
+sales_representative_031,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1244.6937561035156,1252,33,0.0
+sales_representative_031,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,6,8,8,1112.5030517578125,1252,33,0.0
+sales_representative_032,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1978.590965270996,1941,33,0.0
+sales_representative_032,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1297.0349788665771,1941,33,0.0
+sales_representative_032,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1438.215970993042,1941,33,0.0
+sales_representative_032,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1325.8328437805176,1941,33,0.0
+sales_representative_032,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1117.8498268127441,1941,33,0.0
+sales_representative_033,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1339.1602039337158,1183,33,0.0
+sales_representative_033,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,6,6,8,1331.4850330352783,1183,44,0.0
+sales_representative_033,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,6,6,4,1331.6619396209717,1183,44,0.0
+sales_representative_033,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1075.193166732788,1183,33,0.0
+sales_representative_033,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1176.9578456878662,1183,44,0.0
+sales_representative_034,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1433.2070350646973,1798,33,0.0
+sales_representative_034,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1331.01224899292,1798,33,0.0
+sales_representative_034,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,949.4891166687012,1798,33,0.0
+sales_representative_034,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1201.4968395233154,1798,33,0.0
+sales_representative_034,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1228.2450199127197,1798,33,0.0
+sales_representative_035,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1434.2999458312988,1150,33,0.0
+sales_representative_035,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1038.3267402648926,1150,33,0.0
+sales_representative_035,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1316.192626953125,1150,33,0.0
+sales_representative_035,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1234.5967292785645,1150,33,0.0
+sales_representative_035,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1732.9189777374268,1150,33,0.0
+sales_representative_036,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,5,4,4,6,1128.2241344451904,1127,33,0.0
+sales_representative_036,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,6,4,4,8,1302.828073501587,1127,33,0.0
+sales_representative_036,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,6,4,6,8,1257.1470737457275,1127,33,0.0
+sales_representative_036,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,6,4,6,8,1057.589054107666,1127,33,0.0
+sales_representative_036,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,6,4,4,8,1008.0609321594238,1127,33,0.0
+sales_representative_037,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1108.9460849761963,1147,33,0.0
+sales_representative_037,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,6,1228.722095489502,1147,33,0.0
+sales_representative_037,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1330.0650119781494,1147,33,0.0
+sales_representative_037,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1095.4539775848389,1147,33,0.0
+sales_representative_037,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1186.018943786621,1147,33,0.0
+sales_representative_038,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1201.5721797943115,1292,33,0.0
+sales_representative_038,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1227.2520065307617,1292,33,0.0
+sales_representative_038,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1126.845121383667,1292,33,0.0
+sales_representative_038,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1331.9077491760254,1292,33,0.0
+sales_representative_038,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1078.4540176391602,1292,33,0.0
+sales_representative_039,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1184.889316558838,1303,33,0.0
+sales_representative_039,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1215.886116027832,1303,33,0.0
+sales_representative_039,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1383.1250667572021,1303,33,0.0
+sales_representative_039,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1199.995994567871,1303,33,0.0
+sales_representative_039,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1244.7669506072998,1303,33,0.0
+sales_representative_040,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1386.2650394439697,1806,33,0.0
+sales_representative_040,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1748.399257659912,1806,33,0.0
+sales_representative_040,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1105.104923248291,1806,33,0.0
+sales_representative_040,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1226.1507511138916,1806,33,0.0
+sales_representative_040,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1209.4290256500244,1806,33,0.0
+sales_representative_041,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1136.955738067627,1676,33,0.0
+sales_representative_041,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1249.0019798278809,1676,33,0.0
+sales_representative_041,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1139.4128799438477,1676,33,0.0
+sales_representative_041,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1127.1319389343262,1676,33,0.0
+sales_representative_041,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1433.4661960601807,1676,33,0.0
+sales_representative_042,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1331.0258388519287,1200,33,0.0
+sales_representative_042,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1112.3030185699463,1200,33,0.0
+sales_representative_042,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1139.8088932037354,1200,33,0.0
+sales_representative_042,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,4,6,8,1250.8883476257324,1200,33,0.0
+sales_representative_042,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1070.2190399169922,1200,33,0.0
+sales_representative_043,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1161.099910736084,1263,33,0.0
+sales_representative_043,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1168.1468486785889,1263,33,0.0
+sales_representative_043,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1288.2440090179443,1263,33,0.0
+sales_representative_043,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1229.1231155395508,1263,33,0.0
+sales_representative_043,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1229.7589778900146,1263,33,0.0
+sales_representative_044,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,7,6,7,8,1162.5139713287354,1069,44,0.0
+sales_representative_044,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,7,6,7,8,1058.4368705749512,1069,33,0.0
+sales_representative_044,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1258.0747604370117,1069,33,0.0
+sales_representative_044,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,6,6,7,8,1233.003854751587,1069,33,0.0
+sales_representative_044,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,7,6,7,8,1390.7661437988281,1069,44,0.0
+sales_representative_045,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1234.1279983520508,1178,33,0.0
+sales_representative_045,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1263.5891437530518,1178,33,0.0
+sales_representative_045,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,7,6,7,8,1330.164909362793,1178,44,0.0
+sales_representative_045,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,7,6,7,8,1152.080774307251,1178,44,0.0
+sales_representative_045,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,7,6,7,8,1242.8059577941895,1178,44,0.0
+sales_representative_046,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1395.0071334838867,1774,33,0.0
+sales_representative_046,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1282.351016998291,1774,33,0.0
+sales_representative_046,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1339.1318321228027,1774,33,0.0
+sales_representative_046,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1458.862066268921,1774,33,0.0
+sales_representative_046,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1288.872241973877,1774,33,0.0
+sales_representative_047,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1183.7561130523682,1307,33,0.0
+sales_representative_047,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1432.572841644287,1307,33,0.0
+sales_representative_047,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1245.185136795044,1307,33,0.0
+sales_representative_047,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1315.9399032592773,1307,33,0.0
+sales_representative_047,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1125.1220703125,1307,33,0.0
+sales_representative_048,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1126.8079280853271,1172,33,0.0
+sales_representative_048,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,7,6,7,8,1433.302879333496,1172,44,0.0
+sales_representative_048,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1330.6100368499756,1172,33,0.0
+sales_representative_048,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1331.214189529419,1172,33,0.0
+sales_representative_048,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,7,6,7,8,1425.5378246307373,1172,44,0.0
+sales_representative_049,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,2,4,6,1393.8319683074951,1150,33,0.0
+sales_representative_049,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,2,4,6,1276.3051986694336,1150,33,0.0
+sales_representative_049,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,2,4,6,1130.652904510498,1150,33,0.0
+sales_representative_049,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1533.7848663330078,1150,33,0.0
+sales_representative_049,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,4,6,8,1330.1622867584229,1150,33,0.0
+sales_representative_050,Sales Representative,0,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1330.082893371582,1159,33,0.0
+sales_representative_050,Sales Representative,1,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1229.2859554290771,1159,33,0.0
+sales_representative_050,Sales Representative,2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1330.260992050171,1159,33,0.0
+sales_representative_050,Sales Representative,3,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1126.3401508331299,1159,33,0.0
+sales_representative_050,Sales Representative,4,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1844.4082736968994,1159,33,0.0
+field_technician_001,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1124.9890327453613,1920,33,0.0
+field_technician_001,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1211.3819122314453,1920,33,0.0
+field_technician_001,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1247.9290962219238,1920,33,0.0
+field_technician_001,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1329.1027545928955,1920,33,0.0
+field_technician_001,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1185.539960861206,1920,33,0.0
+field_technician_002,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1166.3427352905273,1676,33,0.0
+field_technician_002,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1128.6659240722656,1676,33,0.0
+field_technician_002,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,6,1332.1242332458496,1676,33,0.0
+field_technician_002,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1125.3077983856201,1676,33,0.0
+field_technician_002,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1247.8389739990234,1676,33,0.0
+field_technician_003,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1313.3821487426758,1674,33,0.0
+field_technician_003,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1330.3186893463135,1674,33,0.0
+field_technician_003,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1549.3528842926025,1674,33,0.0
+field_technician_003,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1239.8631572723389,1674,33,0.0
+field_technician_003,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1306.272029876709,1674,33,0.0
+field_technician_004,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,6,1433.0430030822754,1553,33,0.0
+field_technician_004,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,5,6,1375.1049041748047,1553,33,0.0
+field_technician_004,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,8,1389.927864074707,1553,33,0.0
+field_technician_004,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1331.549882888794,1553,33,0.0
+field_technician_004,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,8,1433.0790042877197,1553,33,0.0
+field_technician_005,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,7,1228.9998531341553,1563,33,0.0
+field_technician_005,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,7,1228.9659976959229,1563,33,0.0
+field_technician_005,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,7,1127.1889209747314,1563,33,0.0
+field_technician_005,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,8,1294.1608428955078,1563,33,0.0
+field_technician_005,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,8,1179.2283058166504,1563,33,0.0
+field_technician_006,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1109.5328330993652,1576,33,0.0
+field_technician_006,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1126.0712146759033,1576,33,0.0
+field_technician_006,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1126.9049644470215,1576,33,0.0
+field_technician_006,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1228.9690971374512,1576,33,0.0
+field_technician_006,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1100.5949974060059,1576,33,0.0
+field_technician_007,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1253.4739971160889,1712,33,0.0
+field_technician_007,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1228.0538082122803,1712,33,0.0
+field_technician_007,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.7041397094727,1712,33,0.0
+field_technician_007,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.9261074066162,1712,33,0.0
+field_technician_007,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.923080444336,1712,33,0.0
+field_technician_008,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1330.228328704834,1423,33,0.0
+field_technician_008,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1180.7408332824707,1423,33,0.0
+field_technician_008,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1299.354076385498,1423,33,0.0
+field_technician_008,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1308.2540035247803,1423,33,0.0
+field_technician_008,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1331.9392204284668,1423,33,0.0
+field_technician_009,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1236.7639541625977,2017,33,0.0
+field_technician_009,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1425.0099658966064,2017,33,0.0
+field_technician_009,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.8060188293457,2017,33,0.0
+field_technician_009,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1230.315923690796,2017,33,0.0
+field_technician_009,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1152.390956878662,2017,33,0.0
+field_technician_010,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1405.5790901184082,1892,33,0.0
+field_technician_010,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1332.0908546447754,1892,33,0.0
+field_technician_010,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1284.7530841827393,1892,33,0.0
+field_technician_010,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1274.200677871704,1892,33,0.0
+field_technician_010,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1172.2609996795654,1892,33,0.0
+field_technician_011,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1387.9117965698242,2429,33,0.0
+field_technician_011,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1126.5900135040283,2429,33,0.0
+field_technician_011,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1334.028959274292,2429,33,0.0
+field_technician_011,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1236.342191696167,2429,33,0.0
+field_technician_011,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,993.2951927185059,2429,33,0.0
+field_technician_012,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1308.2170486450195,1898,33,0.0
+field_technician_012,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1146.131992340088,1898,33,0.0
+field_technician_012,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1354.292869567871,1898,33,0.0
+field_technician_012,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.0950546264648,1898,33,0.0
+field_technician_012,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1112.290859222412,1898,33,0.0
+field_technician_013,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,6,1356.6968441009521,1557,33,0.0
+field_technician_013,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,7,1319.6101188659668,1557,33,0.0
+field_technician_013,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,6,1231.4679622650146,1557,33,0.0
+field_technician_013,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,2,4,6,1138.3240222930908,1557,33,0.0
+field_technician_013,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,6,1027.5120735168457,1557,33,0.0
+field_technician_014,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1312.6251697540283,2574,33,0.0
+field_technician_014,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1433.2187175750732,2574,33,0.0
+field_technician_014,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1536.4060401916504,2574,33,0.0
+field_technician_014,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1331.1738967895508,2574,33,0.0
+field_technician_014,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1126.941204071045,2574,33,0.0
+field_technician_015,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1125.3941059112549,1649,33,0.0
+field_technician_015,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1332.1609497070312,1649,33,0.0
+field_technician_015,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1169.2900657653809,1649,33,0.0
+field_technician_015,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,5,8,1390.4762268066406,1649,33,0.0
+field_technician_015,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1331.315040588379,1649,33,0.0
+field_technician_016,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,8,1124.9701976776123,1472,33,0.0
+field_technician_016,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1086.9901180267334,1472,33,0.0
+field_technician_016,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,8,1378.6499500274658,1472,33,0.0
+field_technician_016,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,4,6,1527.93288230896,1472,33,0.0
+field_technician_016,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,6,1234.84206199646,1472,33,0.0
+field_technician_017,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1325.3610134124756,1574,33,0.0
+field_technician_017,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1124.7680187225342,1574,33,0.0
+field_technician_017,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1361.2720966339111,1574,33,0.0
+field_technician_017,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1201.0149955749512,1574,33,0.0
+field_technician_017,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,6,1126.136064529419,1574,33,0.0
+field_technician_018,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1379.4922828674316,1832,33,0.0
+field_technician_018,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1231.0941219329834,1832,33,0.0
+field_technician_018,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1232.44309425354,1832,33,0.0
+field_technician_018,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1377.8738975524902,1832,33,0.0
+field_technician_018,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1053.1749725341797,1832,33,0.0
+field_technician_019,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1097.975730895996,1526,33,0.0
+field_technician_019,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,2,1224.9720096588135,1526,33,0.0
+field_technician_019,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,4,6,1232.085943222046,1526,33,0.0
+field_technician_019,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,4,8,1330.7530879974365,1526,33,0.0
+field_technician_019,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,6,6,1228.9693355560303,1526,33,0.0
+field_technician_020,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1229.0160655975342,2325,33,0.0
+field_technician_020,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1332.4048519134521,2325,33,0.0
+field_technician_020,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1226.8397808074951,2325,33,0.0
+field_technician_020,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1244.062900543213,2325,33,0.0
+field_technician_020,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1157.4809551239014,2325,33,0.0
+field_technician_021,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1130.5310726165771,2414,33,0.0
+field_technician_021,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1382.5788497924805,2414,33,0.0
+field_technician_021,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1224.1718769073486,2414,33,0.0
+field_technician_021,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1234.384298324585,2414,33,0.0
+field_technician_021,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1089.0448093414307,2414,33,0.0
+field_technician_022,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,5,8,1369.2331314086914,1496,33,0.0
+field_technician_022,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1331.7091464996338,1496,33,0.0
+field_technician_022,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1226.991891860962,1496,33,0.0
+field_technician_022,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1311.310052871704,1496,33,0.0
+field_technician_022,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1248.8510608673096,1496,33,0.0
+field_technician_023,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1312.3278617858887,2464,33,0.0
+field_technician_023,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1451.5318870544434,2464,33,0.0
+field_technician_023,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1434.459924697876,2464,33,0.0
+field_technician_023,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.5830974578857,2464,33,0.0
+field_technician_023,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1739.8829460144043,2464,33,0.0
+field_technician_024,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1389.159917831421,2488,33,0.0
+field_technician_024,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1171.9260215759277,2488,33,0.0
+field_technician_024,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.0020694732666,2488,33,0.0
+field_technician_024,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1433.229923248291,2488,33,0.0
+field_technician_024,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1055.7670593261719,2488,33,0.0
+field_technician_025,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1197.329044342041,1594,33,0.0
+field_technician_025,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1332.3051929473877,1594,33,0.0
+field_technician_025,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1180.945873260498,1594,33,0.0
+field_technician_025,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,8,1196.4612007141113,1594,33,0.0
+field_technician_025,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1101.6700267791748,1594,33,0.0
+field_technician_026,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,6,1228.7030220031738,1571,33,0.0
+field_technician_026,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,6,1098.6213684082031,1571,33,0.0
+field_technician_026,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1361.1280918121338,1571,33,0.0
+field_technician_026,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1057.8148365020752,1571,33,0.0
+field_technician_026,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1295.516014099121,1571,33,0.0
+field_technician_027,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.3970565795898,2639,33,0.0
+field_technician_027,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.8470249176025,2639,33,0.0
+field_technician_027,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1170.6280708312988,2639,33,0.0
+field_technician_027,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1286.726951599121,2639,33,0.0
+field_technician_027,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1536.1981391906738,2639,33,0.0
+field_technician_028,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1279.0560722351074,1931,33,0.0
+field_technician_028,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1203.1989097595215,1931,33,0.0
+field_technician_028,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1306.1699867248535,1931,33,0.0
+field_technician_028,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1127.2978782653809,1931,33,0.0
+field_technician_028,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1255.6586265563965,1931,33,0.0
+field_technician_029,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1083.522081375122,1606,33,0.0
+field_technician_029,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1302.1759986877441,1606,33,0.0
+field_technician_029,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1374.8340606689453,1606,33,0.0
+field_technician_029,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1219.6948528289795,1606,33,0.0
+field_technician_029,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,5,6,1238.5010719299316,1606,33,0.0
+field_technician_030,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1225.3639698028564,1894,33,0.0
+field_technician_030,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1333.9169025421143,1894,33,0.0
+field_technician_030,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1535.60209274292,1894,33,0.0
+field_technician_030,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1127.4099349975586,1894,33,0.0
+field_technician_030,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1227.3340225219727,1894,33,0.0
+field_technician_031,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.4642906188965,2616,33,0.0
+field_technician_031,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1179.1951656341553,2616,33,0.0
+field_technician_031,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1483.051061630249,2616,33,0.0
+field_technician_031,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.0439586639404,2616,33,0.0
+field_technician_031,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.043004989624,2616,33,0.0
+field_technician_032,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1536.3729000091553,2550,33,0.0
+field_technician_032,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1433.7868690490723,2550,33,0.0
+field_technician_032,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1229.3968200683594,2550,33,0.0
+field_technician_032,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1088.2229804992676,2550,33,0.0
+field_technician_032,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1470.5710411071777,2550,33,0.0
+field_technician_033,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1223.933219909668,1535,33,0.0
+field_technician_033,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,7,1234.1430187225342,1535,33,0.0
+field_technician_033,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,8,1327.1212577819824,1535,33,0.0
+field_technician_033,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,8,1232.269048690796,1535,33,0.0
+field_technician_033,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1125.8821487426758,1535,33,0.0
+field_technician_034,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1433.631181716919,1906,33,0.0
+field_technician_034,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1145.400047302246,1906,33,0.0
+field_technician_034,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1069.7121620178223,1906,33,0.0
+field_technician_034,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1264.7051811218262,1906,33,0.0
+field_technician_034,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1442.155122756958,1906,33,0.0
+field_technician_035,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1291.2838459014893,1948,33,0.0
+field_technician_035,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1076.0741233825684,1948,33,0.0
+field_technician_035,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1207.676887512207,1948,33,0.0
+field_technician_035,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1025.0439643859863,1948,33,0.0
+field_technician_035,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1229.1250228881836,1948,33,0.0
+field_technician_036,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1106.3899993896484,1922,33,0.0
+field_technician_036,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1421.0951328277588,1922,33,0.0
+field_technician_036,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1363.2347583770752,1922,33,0.0
+field_technician_036,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1217.3540592193604,1922,33,0.0
+field_technician_036,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1108.689785003662,1922,33,0.0
+field_technician_037,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1172.4421977996826,1495,33,0.0
+field_technician_037,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1211.8079662322998,1495,33,0.0
+field_technician_037,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1038.8760566711426,1495,33,0.0
+field_technician_037,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,7,1189.2766952514648,1495,33,0.0
+field_technician_037,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,7,1063.3621215820312,1495,33,0.0
+field_technician_038,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1315.9310817718506,1573,33,0.0
+field_technician_038,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1433.6929321289062,1573,33,0.0
+field_technician_038,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1139.9791240692139,1573,33,0.0
+field_technician_038,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1215.6832218170166,1573,33,0.0
+field_technician_038,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1126.1022090911865,1573,33,0.0
+field_technician_039,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1197.416067123413,1613,33,0.0
+field_technician_039,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,7,8,1091.4521217346191,1613,33,0.0
+field_technician_039,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1192.145824432373,1613,33,0.0
+field_technician_039,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,8,1364.9041652679443,1613,33,0.0
+field_technician_039,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,6,1300.842046737671,1613,33,0.0
+field_technician_040,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1179.3830394744873,1667,33,0.0
+field_technician_040,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1378.005027770996,1667,33,0.0
+field_technician_040,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,8,1434.6578121185303,1667,33,0.0
+field_technician_040,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1226.538896560669,1667,33,0.0
+field_technician_040,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1345.4270362854004,1667,33,0.0
+field_technician_041,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,6,1214.1289710998535,1568,33,0.0
+field_technician_041,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1152.3659229278564,1568,33,0.0
+field_technician_041,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,6,1205.5249214172363,1568,33,0.0
+field_technician_041,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1334.1467380523682,1568,33,0.0
+field_technician_041,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1325.4599571228027,1568,33,0.0
+field_technician_042,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,6,1330.91402053833,1591,33,0.0
+field_technician_042,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,8,1213.5570049285889,1591,33,0.0
+field_technician_042,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1384.0150833129883,1591,33,0.0
+field_technician_042,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,6,1297.8320121765137,1591,33,0.0
+field_technician_042,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,8,1225.1031398773193,1591,33,0.0
+field_technician_043,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1344.8560237884521,1877,33,0.0
+field_technician_043,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1317.2602653503418,1877,33,0.0
+field_technician_043,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.510139465332,1877,33,0.0
+field_technician_043,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1433.2129955291748,1877,33,0.0
+field_technician_043,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1389.786958694458,1877,33,0.0
+field_technician_044,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,5,6,8,1272.4618911743164,1469,33,0.0
+field_technician_044,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,5,6,8,1433.7830543518066,1469,33,0.0
+field_technician_044,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1384.1419219970703,1469,33,0.0
+field_technician_044,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,6,6,8,1144.9499130249023,1469,33,0.0
+field_technician_044,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1157.3328971862793,1469,33,0.0
+field_technician_045,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1123.8000392913818,1683,33,0.0
+field_technician_045,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1130.1560401916504,1683,33,0.0
+field_technician_045,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1329.1711807250977,1683,33,0.0
+field_technician_045,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1204.5879364013672,1683,33,0.0
+field_technician_045,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1151.1969566345215,1683,33,0.0
+field_technician_046,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1286.0701084136963,2530,33,0.0
+field_technician_046,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1273.5416889190674,2530,33,0.0
+field_technician_046,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1661.1838340759277,2530,33,0.0
+field_technician_046,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1309.455156326294,2530,33,0.0
+field_technician_046,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1534.5580577850342,2530,33,0.0
+field_technician_047,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1234.0161800384521,1869,33,0.0
+field_technician_047,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1222.985029220581,1869,33,0.0
+field_technician_047,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1434.6590042114258,1869,33,0.0
+field_technician_047,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1252.5241374969482,1869,33,0.0
+field_technician_047,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1268.8889503479004,1869,33,0.0
+field_technician_048,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1170.1633930206299,1848,33,0.0
+field_technician_048,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1247.8320598602295,1848,33,0.0
+field_technician_048,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1387.0248794555664,1848,33,0.0
+field_technician_048,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1353.3291816711426,1848,33,0.0
+field_technician_048,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1209.5818519592285,1848,33,0.0
+field_technician_049,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1119.866132736206,1577,33,0.0
+field_technician_049,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,8,1159.4219207763672,1577,33,0.0
+field_technician_049,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,8,1415.334701538086,1577,33,0.0
+field_technician_049,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,7,1218.9550399780273,1577,33,0.0
+field_technician_049,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1228.3401489257812,1577,33,0.0
+field_technician_050,Field Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1329.3440341949463,1478,33,0.0
+field_technician_050,Field Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,6,1331.744909286499,1478,33,0.0
+field_technician_050,Field Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1254.763126373291,1478,33,0.0
+field_technician_050,Field Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,6,1099.2460250854492,1478,33,0.0
+field_technician_050,Field Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1129.4770240783691,1478,33,0.0
+home_service_technician_001,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1330.0530910491943,2471,33,0.0
+home_service_technician_001,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1329.301118850708,2471,33,0.0
+home_service_technician_001,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1230.0448417663574,2471,33,0.0
+home_service_technician_001,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1536.5972518920898,2471,33,0.0
+home_service_technician_001,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1156.2769412994385,2471,33,0.0
+home_service_technician_002,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1097.085952758789,1891,33,0.0
+home_service_technician_002,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1431.1211109161377,1891,33,0.0
+home_service_technician_002,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1171.3249683380127,1891,33,0.0
+home_service_technician_002,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1348.3161926269531,1891,33,0.0
+home_service_technician_002,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1268.9437866210938,1891,33,0.0
+home_service_technician_003,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,9,9,1433.20894241333,2552,33,0.0
+home_service_technician_003,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,9,9,1296.6933250427246,2552,33,0.0
+home_service_technician_003,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,9,9,1523.6780643463135,2552,33,0.0
+home_service_technician_003,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,9,9,1480.1290035247803,2552,33,0.0
+home_service_technician_003,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1173.8390922546387,2552,33,0.0
+home_service_technician_004,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1385.9589099884033,1813,33,0.0
+home_service_technician_004,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1127.6452541351318,1813,33,0.0
+home_service_technician_004,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1231.947898864746,1813,33,0.0
+home_service_technician_004,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1327.0878791809082,1813,33,0.0
+home_service_technician_004,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1227.8060913085938,1813,33,0.0
+home_service_technician_005,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1229.0303707122803,1901,33,0.0
+home_service_technician_005,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.3968925476074,1901,33,0.0
+home_service_technician_005,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.3548564910889,1901,33,0.0
+home_service_technician_005,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1536.1237525939941,1901,33,0.0
+home_service_technician_005,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1200.8090019226074,1901,33,0.0
+home_service_technician_006,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,4,2,1420.2897548675537,1400,44,0.0
+home_service_technician_006,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,4,2,1271.4550495147705,1400,44,0.0
+home_service_technician_006,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,4,2,1329.908847808838,1400,44,0.0
+home_service_technician_006,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,5,6,1433.0828189849854,1400,33,0.0
+home_service_technician_006,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,4,2,1229.6228408813477,1400,44,0.0
+home_service_technician_007,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1387.976884841919,2482,33,0.0
+home_service_technician_007,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1171.416997909546,2482,33,0.0
+home_service_technician_007,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1221.8248844146729,2482,33,0.0
+home_service_technician_007,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1337.5699520111084,2482,33,0.0
+home_service_technician_007,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1536.229133605957,2482,33,0.0
+home_service_technician_008,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,6,6,1156.4650535583496,1573,33,0.0
+home_service_technician_008,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1319.7660446166992,1573,33,0.0
+home_service_technician_008,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,6,6,1107.0258617401123,1573,33,0.0
+home_service_technician_008,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,6,8,1231.40287399292,1573,33,0.0
+home_service_technician_008,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,4,4,6,6,1124.720811843872,1573,33,0.0
+home_service_technician_009,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,4,8,1332.413911819458,1631,33,0.0
+home_service_technician_009,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1226.1261940002441,1631,33,0.0
+home_service_technician_009,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1339.2341136932373,1631,33,0.0
+home_service_technician_009,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1424.7286319732666,1631,33,0.0
+home_service_technician_009,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,2,4,6,1330.512285232544,1631,33,0.0
+home_service_technician_010,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1438.9138221740723,1935,33,0.0
+home_service_technician_010,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1327.9011249542236,1935,33,0.0
+home_service_technician_010,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1330.8837413787842,1935,33,0.0
+home_service_technician_010,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1331.319808959961,1935,33,0.0
+home_service_technician_010,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,6,8,7,8,9,1331.861972808838,1935,33,0.0
+home_service_technician_011,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,8,7,8,9,1370.7141876220703,2384,33,0.0
+home_service_technician_011,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1317.1579837799072,2384,33,0.0
+home_service_technician_011,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1303.5411834716797,2384,33,0.0
+home_service_technician_011,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1310.8572959899902,2384,33,0.0
+home_service_technician_011,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1352.3662090301514,2384,33,0.0
+home_service_technician_012,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.9371490478516,1959,33,0.0
+home_service_technician_012,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1227.579116821289,1959,33,0.0
+home_service_technician_012,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1167.2310829162598,1959,33,0.0
+home_service_technician_012,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1418.0829524993896,1959,33,0.0
+home_service_technician_012,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1407.9039096832275,1959,33,0.0
+home_service_technician_013,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,8,6,6,1189.7950172424316,1417,44,0.0
+home_service_technician_013,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,6,6,8,1368.5569763183594,1417,44,0.0
+home_service_technician_013,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,6,6,8,1435.5239868164062,1417,44,0.0
+home_service_technician_013,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,6,6,8,1227.1831035614014,1417,44,0.0
+home_service_technician_013,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,6,6,8,1140.4752731323242,1417,33,0.0
+home_service_technician_014,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,8,7,8,1421.5047359466553,1662,33,0.0
+home_service_technician_014,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,6,8,7,8,1230.2701473236084,1662,33,0.0
+home_service_technician_014,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,8,7,8,1533.6639881134033,1662,33,0.0
+home_service_technician_014,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,8,6,4,1257.3859691619873,1662,44,0.0
+home_service_technician_014,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,5,8,6,8,1302.419900894165,1662,33,0.0
+home_service_technician_015,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1345.944881439209,2610,33,0.0
+home_service_technician_015,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1418.6010360717773,2610,33,0.0
+home_service_technician_015,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1459.1259956359863,2610,33,0.0
+home_service_technician_015,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1305.5119514465332,2610,33,0.0
+home_service_technician_015,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1330.7042121887207,2610,33,0.0
+home_service_technician_016,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,8,8,9,1433.962345123291,1719,33,0.0
+home_service_technician_016,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1228.4951210021973,1719,33,0.0
+home_service_technician_016,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,8,8,9,1126.3959407806396,1719,33,0.0
+home_service_technician_016,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1331.9849967956543,1719,33,0.0
+home_service_technician_016,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1147.7007865905762,1719,33,0.0
+home_service_technician_017,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,4,4,6,8,1244.1048622131348,1479,33,0.0
+home_service_technician_017,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,6,8,1191.4241313934326,1479,33,0.0
+home_service_technician_017,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,6,6,1126.521110534668,1479,33,0.0
+home_service_technician_017,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,4,4,6,8,1143.9149379730225,1479,33,0.0
+home_service_technician_017,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,4,4,6,8,1211.7438316345215,1479,33,0.0
+home_service_technician_018,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,4,6,6,1329.7119140625,1550,33,0.0
+home_service_technician_018,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1332.4320316314697,1550,33,0.0
+home_service_technician_018,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1229.4678688049316,1550,33,0.0
+home_service_technician_018,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1086.531162261963,1550,33,0.0
+home_service_technician_018,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1116.0390377044678,1550,33,0.0
+home_service_technician_019,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1481.895923614502,2351,33,0.0
+home_service_technician_019,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1331.5508365631104,2351,33,0.0
+home_service_technician_019,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1238.6400699615479,2351,33,0.0
+home_service_technician_019,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1321.0411071777344,2351,33,0.0
+home_service_technician_019,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1448.240041732788,2351,33,0.0
+home_service_technician_020,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,8,1213.604211807251,1554,33,0.0
+home_service_technician_020,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,8,1074.3050575256348,1554,33,0.0
+home_service_technician_020,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,8,1280.724048614502,1554,33,0.0
+home_service_technician_020,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,8,1126.7480850219727,1554,33,0.0
+home_service_technician_020,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,8,1115.2257919311523,1554,33,0.0
+home_service_technician_021,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1400.805950164795,1927,33,0.0
+home_service_technician_021,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1245.0180053710938,1927,33,0.0
+home_service_technician_021,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1175.466775894165,1927,33,0.0
+home_service_technician_021,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1207.6280117034912,1927,33,0.0
+home_service_technician_021,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1425.6799221038818,1927,33,0.0
+home_service_technician_022,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1235.4810237884521,1929,33,0.0
+home_service_technician_022,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1332.3736190795898,1929,33,0.0
+home_service_technician_022,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1307.4266910552979,1929,33,0.0
+home_service_technician_022,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1456.7430019378662,1929,33,0.0
+home_service_technician_022,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1126.5347003936768,1929,33,0.0
+home_service_technician_023,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1331.5949440002441,2574,33,0.0
+home_service_technician_023,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1227.565050125122,2574,33,0.0
+home_service_technician_023,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1331.5651416778564,2574,33,0.0
+home_service_technician_023,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1432.8498840332031,2574,33,0.0
+home_service_technician_023,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1433.487892150879,2574,33,0.0
+home_service_technician_024,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1290.6641960144043,2515,33,0.0
+home_service_technician_024,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1100.2757549285889,2515,33,0.0
+home_service_technician_024,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1218.2040214538574,2515,33,0.0
+home_service_technician_024,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1136.2252235412598,2515,33,0.0
+home_service_technician_024,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1296.9059944152832,2515,33,0.0
+home_service_technician_025,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1227.6451587677002,2356,33,0.0
+home_service_technician_025,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1331.0163021087646,2356,33,0.0
+home_service_technician_025,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1212.4218940734863,2356,33,0.0
+home_service_technician_025,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1143.6982154846191,2356,33,0.0
+home_service_technician_025,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1330.3461074829102,2356,33,0.0
+home_service_technician_026,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1228.1689643859863,1705,33,0.0
+home_service_technician_026,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1060.4772567749023,1705,33,0.0
+home_service_technician_026,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1131.9091320037842,1705,33,0.0
+home_service_technician_026,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1141.7820453643799,1705,33,0.0
+home_service_technician_026,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1096.2989330291748,1705,33,0.0
+home_service_technician_027,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,2,4,6,8,1305.7689666748047,1576,33,0.0
+home_service_technician_027,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,2,4,5,6,1226.529836654663,1576,33,0.0
+home_service_technician_027,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,2,4,6,8,1407.7372550964355,1576,33,0.0
+home_service_technician_027,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,2,4,6,8,1268.9359188079834,1576,33,0.0
+home_service_technician_027,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,2,4,5,6,1522.325038909912,1576,33,0.0
+home_service_technician_028,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1228.7349700927734,1861,33,0.0
+home_service_technician_028,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1230.9272289276123,1861,33,0.0
+home_service_technician_028,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1226.4420986175537,1861,33,0.0
+home_service_technician_028,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1330.9698104858398,1861,33,0.0
+home_service_technician_028,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1091.4607048034668,1861,33,0.0
+home_service_technician_029,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1365.8511638641357,1517,33,0.0
+home_service_technician_029,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1127.0971298217773,1517,33,0.0
+home_service_technician_029,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1227.8268337249756,1517,33,0.0
+home_service_technician_029,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1194.9560642242432,1517,33,0.0
+home_service_technician_029,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1468.9018726348877,1517,33,0.0
+home_service_technician_030,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1534.670114517212,2592,33,0.0
+home_service_technician_030,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1637.9010677337646,2592,33,0.0
+home_service_technician_030,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,8,7,8,9,1435.1019859313965,2592,33,0.0
+home_service_technician_030,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1329.05912399292,2592,33,0.0
+home_service_technician_030,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1639.7922039031982,2592,33,0.0
+home_service_technician_031,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,6,4,6,8,1434.3171119689941,1633,33,0.0
+home_service_technician_031,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,6,4,6,8,1388.4379863739014,1633,33,0.0
+home_service_technician_031,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,6,4,6,8,1111.5951538085938,1633,33,0.0
+home_service_technician_031,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,6,8,1182.5249195098877,1633,33,0.0
+home_service_technician_031,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,6,4,6,8,1316.5559768676758,1633,33,0.0
+home_service_technician_032,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1245.2890872955322,2422,33,0.0
+home_service_technician_032,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1333.6257934570312,2422,33,0.0
+home_service_technician_032,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1121.6020584106445,2422,33,0.0
+home_service_technician_032,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1231.6758632659912,2422,33,0.0
+home_service_technician_032,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1016.9079303741455,2422,33,0.0
+home_service_technician_033,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1336.7421627044678,1875,33,0.0
+home_service_technician_033,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1331.1491012573242,1875,33,0.0
+home_service_technician_033,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1242.0260906219482,1875,33,0.0
+home_service_technician_033,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,8,9,9,1421.555995941162,1875,33,0.0
+home_service_technician_033,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1278.3927917480469,1875,33,0.0
+home_service_technician_034,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1241.59574508667,2524,33,0.0
+home_service_technician_034,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1273.0920314788818,2524,33,0.0
+home_service_technician_034,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1345.2479839324951,2524,33,0.0
+home_service_technician_034,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1211.9901180267334,2524,33,0.0
+home_service_technician_034,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1328.0251026153564,2524,33,0.0
+home_service_technician_035,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1203.5131454467773,2381,33,0.0
+home_service_technician_035,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1254.1189193725586,2381,33,0.0
+home_service_technician_035,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1330.6491374969482,2381,33,0.0
+home_service_technician_035,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1433.7248802185059,2381,33,0.0
+home_service_technician_035,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1123.723030090332,2381,33,0.0
+home_service_technician_036,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,6,8,1116.4097785949707,1447,33,0.0
+home_service_technician_036,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,5,6,8,1076.0188102722168,1447,33,0.0
+home_service_technician_036,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,8,977.1239757537842,1447,33,0.0
+home_service_technician_036,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,6,8,1154.9711227416992,1447,33,0.0
+home_service_technician_036,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1206.8898677825928,1447,33,0.0
+home_service_technician_037,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1434.1886043548584,2518,33,0.0
+home_service_technician_037,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1127.3558139801025,2518,33,0.0
+home_service_technician_037,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1535.6810092926025,2518,33,0.0
+home_service_technician_037,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1183.3560466766357,2518,33,0.0
+home_service_technician_037,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1375.3118515014648,2518,33,0.0
+home_service_technician_038,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,5,6,4,1435.014009475708,1676,33,0.0
+home_service_technician_038,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,5,6,4,1431.8578243255615,1676,44,0.0
+home_service_technician_038,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,5,6,4,1331.0327529907227,1676,33,0.0
+home_service_technician_038,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,5,6,5,1433.8319301605225,1676,33,0.0
+home_service_technician_038,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,5,6,4,1331.4058780670166,1676,44,0.0
+home_service_technician_039,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1331.238031387329,1792,33,0.0
+home_service_technician_039,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1228.5113334655762,1792,33,0.0
+home_service_technician_039,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1232.1529388427734,1792,33,0.0
+home_service_technician_039,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1431.2348365783691,1792,33,0.0
+home_service_technician_039,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1227.0357608795166,1792,33,0.0
+home_service_technician_040,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1331.2561511993408,1842,33,0.0
+home_service_technician_040,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1233.9789867401123,1842,33,0.0
+home_service_technician_040,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1224.0300178527832,1842,33,0.0
+home_service_technician_040,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1095.672845840454,1842,33,0.0
+home_service_technician_040,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1359.0619564056396,1842,33,0.0
+home_service_technician_041,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1435.20188331604,2057,33,0.0
+home_service_technician_041,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1131.0961246490479,2057,33,0.0
+home_service_technician_041,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1021.9249725341797,2057,33,0.0
+home_service_technician_041,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1214.1261100769043,2057,33,0.0
+home_service_technician_041,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1239.616870880127,2057,33,0.0
+home_service_technician_042,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,3,6,8,1433.6187839508057,1512,33,0.0
+home_service_technician_042,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,6,5,992.2540187835693,1512,33,0.0
+home_service_technician_042,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,6,5,1362.8449440002441,1512,33,0.0
+home_service_technician_042,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,6,5,1194.7567462921143,1512,33,0.0
+home_service_technician_042,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,5,4,6,8,1087.177038192749,1512,33,0.0
+home_service_technician_043,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1195.9290504455566,2312,33,0.0
+home_service_technician_043,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1268.5718536376953,2312,33,0.0
+home_service_technician_043,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1193.042278289795,2312,33,0.0
+home_service_technician_043,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1435.0242614746094,2312,33,0.0
+home_service_technician_043,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1431.9238662719727,2312,33,0.0
+home_service_technician_044,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1228.3263206481934,1431,33,0.0
+home_service_technician_044,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,6,1125.9279251098633,1431,33,0.0
+home_service_technician_044,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,8,1231.1811447143555,1431,33,0.0
+home_service_technician_044,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,6,8,1206.897258758545,1431,33,0.0
+home_service_technician_044,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1170.691967010498,1431,33,0.0
+home_service_technician_045,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1306.2610626220703,1842,33,0.0
+home_service_technician_045,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.1007747650146,1842,33,0.0
+home_service_technician_045,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1641.7250633239746,1842,33,0.0
+home_service_technician_045,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1319.2839622497559,1842,33,0.0
+home_service_technician_045,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1442.7592754364014,1842,33,0.0
+home_service_technician_046,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,3,4,4,5,1294.1069602966309,1525,44,0.0
+home_service_technician_046,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1367.6011562347412,1525,33,0.0
+home_service_technician_046,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,4,4,6,5,1259.4959735870361,1525,33,0.0
+home_service_technician_046,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,4,3,4,6,1195.1439380645752,1525,33,0.0
+home_service_technician_046,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,8,1436.2738132476807,1525,33,0.0
+home_service_technician_047,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,8,8,9,1329.7181129455566,1989,33,0.0
+home_service_technician_047,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1330.9531211853027,1989,33,0.0
+home_service_technician_047,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1331.6140174865723,1989,33,0.0
+home_service_technician_047,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,8,8,9,1225.532054901123,1989,33,0.0
+home_service_technician_047,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1437.7636909484863,1989,33,0.0
+home_service_technician_048,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,5,6,1329.6692371368408,1439,33,0.0
+home_service_technician_048,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,5,6,1432.9559803009033,1439,33,0.0
+home_service_technician_048,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,5,6,5,1127.8209686279297,1439,33,0.0
+home_service_technician_048,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,5,6,5,1128.4799575805664,1439,33,0.0
+home_service_technician_048,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,5,6,1328.0258178710938,1439,33,0.0
+home_service_technician_049,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1331.7549228668213,2539,33,0.0
+home_service_technician_049,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1228.3709049224854,2539,33,0.0
+home_service_technician_049,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1560.9068870544434,2539,33,0.0
+home_service_technician_049,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1511.8961334228516,2539,33,0.0
+home_service_technician_049,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1227.9410362243652,2539,33,0.0
+home_service_technician_050,Home Service Technician,0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1271.3289260864258,1779,33,0.0
+home_service_technician_050,Home Service Technician,1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1083.942174911499,1779,33,0.0
+home_service_technician_050,Home Service Technician,2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1382.6172351837158,1779,33,0.0
+home_service_technician_050,Home Service Technician,3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1278.635025024414,1779,33,0.0
+home_service_technician_050,Home Service Technician,4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1149.5728492736816,1779,33,0.0
+general_manager_(franchise)_001,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,6,8,1410.7139110565186,1604,33,0.0
+general_manager_(franchise)_001,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,8,1329.118013381958,1604,44,0.0
+general_manager_(franchise)_001,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,6,8,1325.434923171997,1604,33,0.0
+general_manager_(franchise)_001,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,6,8,1134.1681480407715,1604,33,0.0
+general_manager_(franchise)_001,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,3,4,4,6,8,1067.8069591522217,1604,33,0.0
+general_manager_(franchise)_002,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1287.682056427002,1622,33,0.0
+general_manager_(franchise)_002,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1168.3430671691895,1622,33,0.0
+general_manager_(franchise)_002,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,7,8,1356.4610481262207,1622,33,0.0
+general_manager_(franchise)_002,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,8,1004.1279792785645,1622,33,0.0
+general_manager_(franchise)_002,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,8,1206.3720226287842,1622,33,0.0
+general_manager_(franchise)_003,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,3,6,7,8,1201.1120319366455,1670,33,0.0
+general_manager_(franchise)_003,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,3,6,7,8,1331.6638469696045,1670,33,0.0
+general_manager_(franchise)_003,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,3,6,7,8,1126.4939308166504,1670,33,0.0
+general_manager_(franchise)_003,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,3,6,7,8,1227.6690006256104,1670,33,0.0
+general_manager_(franchise)_003,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1229.1059494018555,1670,33,0.0
+general_manager_(franchise)_004,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1228.4202575683594,1524,44,0.0
+general_manager_(franchise)_004,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1228.9543151855469,1524,33,0.0
+general_manager_(franchise)_004,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1126.5239715576172,1524,33,0.0
+general_manager_(franchise)_004,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1127.5691986083984,1524,33,0.0
+general_manager_(franchise)_004,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1434.2970848083496,1524,33,0.0
+general_manager_(franchise)_005,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,8,6,8,1226.227045059204,1489,33,0.0
+general_manager_(franchise)_005,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,6,6,8,1265.843152999878,1489,33,0.0
+general_manager_(franchise)_005,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1500.6530284881592,1489,44,0.0
+general_manager_(franchise)_005,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,8,6,8,1483.9041233062744,1489,33,0.0
+general_manager_(franchise)_005,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,8,6,8,1073.547124862671,1489,33,0.0
+general_manager_(franchise)_006,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,6,7,8,1587.1241092681885,1616,44,0.0
+general_manager_(franchise)_006,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1453.765869140625,1616,44,0.0
+general_manager_(franchise)_006,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,5,7,8,1134.8581314086914,1616,33,0.0
+general_manager_(franchise)_006,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,4,6,8,1153.879165649414,1616,33,0.0
+general_manager_(franchise)_006,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,5,6,8,1296.6389656066895,1616,44,0.0
+general_manager_(franchise)_007,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,8,9,1356.4682006835938,2423,33,0.0
+general_manager_(franchise)_007,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1743.9799308776855,2423,33,0.0
+general_manager_(franchise)_007,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1433.3901405334473,2423,33,0.0
+general_manager_(franchise)_007,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1456.6619396209717,2423,33,0.0
+general_manager_(franchise)_007,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1336.338996887207,2423,33,0.0
+general_manager_(franchise)_008,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1405.9948921203613,1915,33,0.0
+general_manager_(franchise)_008,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1160.395860671997,1915,33,0.0
+general_manager_(franchise)_008,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1398.41890335083,1915,33,0.0
+general_manager_(franchise)_008,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1232.206106185913,1915,33,0.0
+general_manager_(franchise)_008,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1122.8978633880615,1915,33,0.0
+general_manager_(franchise)_009,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1263.2830142974854,2315,33,0.0
+general_manager_(franchise)_009,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1399.8050689697266,2315,33,0.0
+general_manager_(franchise)_009,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1125.563144683838,2315,33,0.0
+general_manager_(franchise)_009,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1162.553071975708,2315,33,0.0
+general_manager_(franchise)_009,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,8,9,1294.219970703125,2315,33,0.0
+general_manager_(franchise)_010,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1371.6740608215332,2486,33,0.0
+general_manager_(franchise)_010,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1396.1260318756104,2486,33,0.0
+general_manager_(franchise)_010,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,9,9,1330.4698467254639,2486,33,0.0
+general_manager_(franchise)_010,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1430.8722019195557,2486,33,0.0
+general_manager_(franchise)_010,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1212.5847339630127,2486,33,0.0
+general_manager_(franchise)_011,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1349.0140438079834,1905,33,0.0
+general_manager_(franchise)_011,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1281.6927433013916,1905,33,0.0
+general_manager_(franchise)_011,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1379.2428970336914,1905,33,0.0
+general_manager_(franchise)_011,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1239.5589351654053,1905,33,0.0
+general_manager_(franchise)_011,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1165.7121181488037,1905,33,0.0
+general_manager_(franchise)_012,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1485.7380390167236,1653,44,0.0
+general_manager_(franchise)_012,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,6,7,8,1331.1920166015625,1653,44,0.0
+general_manager_(franchise)_012,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,6,7,8,1331.120252609253,1653,44,0.0
+general_manager_(franchise)_012,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,4,1535.951852798462,1653,44,0.0
+general_manager_(franchise)_012,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,5,6,4,6,7,8,1637.8321647644043,1653,33,0.0
+general_manager_(franchise)_013,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1212.2259140014648,1776,33,0.0
+general_manager_(franchise)_013,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1281.6691398620605,1776,33,0.0
+general_manager_(franchise)_013,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1431.0328960418701,1776,33,0.0
+general_manager_(franchise)_013,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1194.05198097229,1776,33,0.0
+general_manager_(franchise)_013,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1332.336187362671,1776,33,0.0
+general_manager_(franchise)_014,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1129.1210651397705,1692,33,0.0
+general_manager_(franchise)_014,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1124.0999698638916,1692,33,0.0
+general_manager_(franchise)_014,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,4,6,8,1215.5656814575195,1692,33,0.0
+general_manager_(franchise)_014,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1175.027847290039,1692,33,0.0
+general_manager_(franchise)_014,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,6,4,6,5,6,8,1409.8711013793945,1692,44,0.0
+general_manager_(franchise)_015,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1322.40891456604,1706,33,0.0
+general_manager_(franchise)_015,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,5,6,8,1218.7461853027344,1706,33,0.0
+general_manager_(franchise)_015,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1199.3837356567383,1706,33,0.0
+general_manager_(franchise)_015,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1470.6470966339111,1706,33,0.0
+general_manager_(franchise)_015,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1152.1461009979248,1706,33,0.0
+general_manager_(franchise)_016,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1098.275899887085,1632,33,0.0
+general_manager_(franchise)_016,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1536.6473197937012,1632,33,0.0
+general_manager_(franchise)_016,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1227.4250984191895,1632,33,0.0
+general_manager_(franchise)_016,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1126.4128684997559,1632,33,0.0
+general_manager_(franchise)_016,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1231.5011024475098,1632,33,0.0
+general_manager_(franchise)_017,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1328.6080360412598,1831,33,0.0
+general_manager_(franchise)_017,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1329.2291164398193,1831,33,0.0
+general_manager_(franchise)_017,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1332.8509330749512,1831,33,0.0
+general_manager_(franchise)_017,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1138.2579803466797,1831,33,0.0
+general_manager_(franchise)_017,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1421.072006225586,1831,33,0.0
+general_manager_(franchise)_018,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1331.0420513153076,1983,33,0.0
+general_manager_(franchise)_018,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1344.0768718719482,1983,33,0.0
+general_manager_(franchise)_018,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1215.803861618042,1983,33,0.0
+general_manager_(franchise)_018,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1450.476884841919,1983,33,0.0
+general_manager_(franchise)_018,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1316.235065460205,1983,33,0.0
+general_manager_(franchise)_019,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,6,8,1124.9051094055176,1570,33,0.0
+general_manager_(franchise)_019,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,6,1229.4549942016602,1570,33,0.0
+general_manager_(franchise)_019,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,5,6,8,1124.8979568481445,1570,33,0.0
+general_manager_(franchise)_019,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,4,6,6,1331.347942352295,1570,33,0.0
+general_manager_(franchise)_019,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,5,4,4,4,6,8,1126.0130405426025,1570,33,0.0
+general_manager_(franchise)_020,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1433.3760738372803,2572,33,0.0
+general_manager_(franchise)_020,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1431.985855102539,2572,33,0.0
+general_manager_(franchise)_020,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1434.5316886901855,2572,33,0.0
+general_manager_(franchise)_020,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1432.9729080200195,2572,33,0.0
+general_manager_(franchise)_020,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1101.4609336853027,2572,33,0.0
+general_manager_(franchise)_021,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1127.8369426727295,1521,33,0.0
+general_manager_(franchise)_021,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,3,4,5,6,1252.5100708007812,1521,33,0.0
+general_manager_(franchise)_021,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,4,3,6,8,1185.4231357574463,1521,33,0.0
+general_manager_(franchise)_021,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1171.5619564056396,1521,33,0.0
+general_manager_(franchise)_021,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,5,8,1228.4817695617676,1521,33,0.0
+general_manager_(franchise)_022,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,9,9,1431.6880702972412,2482,33,0.0
+general_manager_(franchise)_022,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,9,9,1537.0192527770996,2482,33,0.0
+general_manager_(franchise)_022,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1636.8739604949951,2482,33,0.0
+general_manager_(franchise)_022,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1433.6049556732178,2482,33,0.0
+general_manager_(franchise)_022,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1638.4308338165283,2482,33,0.0
+general_manager_(franchise)_023,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1269.995927810669,1658,33,0.0
+general_manager_(franchise)_023,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1187.6790523529053,1658,33,0.0
+general_manager_(franchise)_023,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1331.6149711608887,1658,33,0.0
+general_manager_(franchise)_023,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1330.8281898498535,1658,33,0.0
+general_manager_(franchise)_023,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1276.4649391174316,1658,33,0.0
+general_manager_(franchise)_024,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1283.1368446350098,1583,33,0.0
+general_manager_(franchise)_024,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1127.8538703918457,1583,33,0.0
+general_manager_(franchise)_024,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1163.8867855072021,1583,33,0.0
+general_manager_(franchise)_024,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,8,1312.6838207244873,1583,33,0.0
+general_manager_(franchise)_024,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1142.333984375,1583,44,0.0
+general_manager_(franchise)_025,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1294.8400974273682,1624,33,0.0
+general_manager_(franchise)_025,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,3,4,6,8,1330.7719230651855,1624,33,0.0
+general_manager_(franchise)_025,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,4,6,6,1141.5469646453857,1624,33,0.0
+general_manager_(franchise)_025,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,6,1418.5519218444824,1624,44,0.0
+general_manager_(franchise)_025,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,6,1228.3141613006592,1624,44,0.0
+general_manager_(franchise)_026,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1227.8099060058594,1793,33,0.0
+general_manager_(franchise)_026,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1302.833080291748,1793,33,0.0
+general_manager_(franchise)_026,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1257.7738761901855,1793,33,0.0
+general_manager_(franchise)_026,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1434.8390102386475,1793,33,0.0
+general_manager_(franchise)_026,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1227.5872230529785,1793,33,0.0
+general_manager_(franchise)_027,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1121.1919784545898,1580,33,0.0
+general_manager_(franchise)_027,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,3,4,6,8,1238.131046295166,1580,33,0.0
+general_manager_(franchise)_027,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1200.0832557678223,1580,33,0.0
+general_manager_(franchise)_027,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1150.1410007476807,1580,33,0.0
+general_manager_(franchise)_027,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,3,6,7,8,1126.1858940124512,1580,33,0.0
+general_manager_(franchise)_028,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,5,6,6,8,1229.2652130126953,1718,33,0.0
+general_manager_(franchise)_028,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,6,7,8,1330.6200504302979,1718,44,0.0
+general_manager_(franchise)_028,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,6,7,8,1320.8091259002686,1718,44,0.0
+general_manager_(franchise)_028,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,5,6,6,8,1137.7840042114258,1718,33,0.0
+general_manager_(franchise)_028,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,6,6,6,5,6,8,1095.9889888763428,1718,33,0.0
+general_manager_(franchise)_029,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1360.2948188781738,1878,33,0.0
+general_manager_(franchise)_029,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1327.4810314178467,1878,33,0.0
+general_manager_(franchise)_029,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1132.0209503173828,1878,33,0.0
+general_manager_(franchise)_029,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1173.868179321289,1878,33,0.0
+general_manager_(franchise)_029,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1509.3989372253418,1878,33,0.0
+general_manager_(franchise)_030,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1306.386947631836,1909,33,0.0
+general_manager_(franchise)_030,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1423.0599403381348,1909,33,0.0
+general_manager_(franchise)_030,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1426.2902736663818,1909,33,0.0
+general_manager_(franchise)_030,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1451.4250755310059,1909,33,0.0
+general_manager_(franchise)_030,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1434.3581199645996,1909,33,0.0
+general_manager_(franchise)_031,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1226.4680862426758,1911,33,0.0
+general_manager_(franchise)_031,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1334.1050148010254,1911,33,0.0
+general_manager_(franchise)_031,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1226.478099822998,1911,33,0.0
+general_manager_(franchise)_031,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1127.1040439605713,1911,33,0.0
+general_manager_(franchise)_031,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,7,8,9,1433.1998825073242,1911,33,0.0
+general_manager_(franchise)_032,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,6,7,7,1228.0211448669434,1711,33,0.0
+general_manager_(franchise)_032,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,6,7,7,1233.4191799163818,1711,33,0.0
+general_manager_(franchise)_032,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,6,7,7,1327.3131847381592,1711,33,0.0
+general_manager_(franchise)_032,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,6,7,7,1329.9660682678223,1711,33,0.0
+general_manager_(franchise)_032,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,6,7,8,1247.4048137664795,1711,33,0.0
+general_manager_(franchise)_033,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,7,6,8,1414.7489070892334,1459,44,0.0
+general_manager_(franchise)_033,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1455.6889533996582,1459,44,0.0
+general_manager_(franchise)_033,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1310.1179599761963,1459,33,0.0
+general_manager_(franchise)_033,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,7,8,7,1233.5610389709473,1459,33,0.0
+general_manager_(franchise)_033,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1229.261875152588,1459,44,0.0
+general_manager_(franchise)_034,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1629.0910243988037,1961,33,0.0
+general_manager_(franchise)_034,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1326.5037536621094,1961,33,0.0
+general_manager_(franchise)_034,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1153.6269187927246,1961,33,0.0
+general_manager_(franchise)_034,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1402.7020931243896,1961,33,0.0
+general_manager_(franchise)_034,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1329.761028289795,1961,33,0.0
+general_manager_(franchise)_035,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1292.5901412963867,1806,33,0.0
+general_manager_(franchise)_035,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1286.6220474243164,1806,33,0.0
+general_manager_(franchise)_035,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1203.859806060791,1806,33,0.0
+general_manager_(franchise)_035,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1129.8158168792725,1806,33,0.0
+general_manager_(franchise)_035,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1426.9421100616455,1806,33,0.0
+general_manager_(franchise)_036,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1330.6379318237305,2242,33,0.0
+general_manager_(franchise)_036,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1432.4078559875488,2242,33,0.0
+general_manager_(franchise)_036,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,8,6,8,9,1230.9958934783936,2242,33,0.0
+general_manager_(franchise)_036,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,8,6,8,9,1634.5820426940918,2242,33,0.0
+general_manager_(franchise)_036,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,9,9,1333.688735961914,2242,33,0.0
+general_manager_(franchise)_037,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1631.2320232391357,2474,33,0.0
+general_manager_(franchise)_037,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1330.5561542510986,2474,33,0.0
+general_manager_(franchise)_037,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1535.7351303100586,2474,33,0.0
+general_manager_(franchise)_037,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1332.3419094085693,2474,33,0.0
+general_manager_(franchise)_037,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1430.6449890136719,2474,33,0.0
+general_manager_(franchise)_038,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1333.6870670318604,1429,33,0.0
+general_manager_(franchise)_038,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1122.9100227355957,1429,33,0.0
+general_manager_(franchise)_038,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,5,6,8,1126.08003616333,1429,33,0.0
+general_manager_(franchise)_038,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,6,7,8,1229.7489643096924,1429,33,0.0
+general_manager_(franchise)_038,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1332.268238067627,1429,33,0.0
+general_manager_(franchise)_039,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1331.557035446167,1434,44,0.0
+general_manager_(franchise)_039,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1308.863878250122,1434,44,0.0
+general_manager_(franchise)_039,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,6,7,8,1443.4881210327148,1434,44,0.0
+general_manager_(franchise)_039,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1261.0900402069092,1434,44,0.0
+general_manager_(franchise)_039,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,6,7,8,1102.7162075042725,1434,33,0.0
+general_manager_(franchise)_040,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1273.4062671661377,1882,33,0.0
+general_manager_(franchise)_040,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1187.779188156128,1882,33,0.0
+general_manager_(franchise)_040,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1122.9639053344727,1882,33,0.0
+general_manager_(franchise)_040,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1327.6381492614746,1882,33,0.0
+general_manager_(franchise)_040,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1572.878122329712,1882,33,0.0
+general_manager_(franchise)_041,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1354.8827171325684,1887,33,0.0
+general_manager_(franchise)_041,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1270.3630924224854,1887,33,0.0
+general_manager_(franchise)_041,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1327.4850845336914,1887,33,0.0
+general_manager_(franchise)_041,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,7,8,9,1345.8030223846436,1887,33,0.0
+general_manager_(franchise)_041,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1345.850944519043,1887,33,0.0
+general_manager_(franchise)_042,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1155.4653644561768,1487,33,0.0
+general_manager_(franchise)_042,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,5,4,6,8,1278.5999774932861,1487,33,0.0
+general_manager_(franchise)_042,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,4,4,6,5,6,8,1324.5749473571777,1487,33,0.0
+general_manager_(franchise)_042,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,6,4,6,8,1244.5099353790283,1487,33,0.0
+general_manager_(franchise)_042,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,2,5,4,6,8,1519.7150707244873,1487,33,0.0
+general_manager_(franchise)_043,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,8,1227.3731231689453,1395,44,0.0
+general_manager_(franchise)_043,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,8,1434.628963470459,1395,44,0.0
+general_manager_(franchise)_043,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,7,6,7,6,7,8,1228.94287109375,1395,33,0.0
+general_manager_(franchise)_043,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,7,1331.1090469360352,1395,44,0.0
+general_manager_(franchise)_043,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,5,6,8,1230.2958965301514,1395,44,0.0
+general_manager_(franchise)_044,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1339.6379947662354,1885,33,0.0
+general_manager_(franchise)_044,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1423.1939315795898,1885,33,0.0
+general_manager_(franchise)_044,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1331.2852382659912,1885,33,0.0
+general_manager_(franchise)_044,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1330.2650451660156,1885,33,0.0
+general_manager_(franchise)_044,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,7,8,6,8,9,1230.072021484375,1885,33,0.0
+general_manager_(franchise)_045,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1123.687982559204,1882,33,0.0
+general_manager_(franchise)_045,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1331.0129642486572,1882,33,0.0
+general_manager_(franchise)_045,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1331.4638137817383,1882,33,0.0
+general_manager_(franchise)_045,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1229.7778129577637,1882,33,0.0
+general_manager_(franchise)_045,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1330.8327198028564,1882,33,0.0
+general_manager_(franchise)_046,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1533.841848373413,2455,33,0.0
+general_manager_(franchise)_046,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1336.3289833068848,2455,33,0.0
+general_manager_(franchise)_046,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,8,9,1428.2841682434082,2455,33,0.0
+general_manager_(franchise)_046,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,9,9,1331.6059112548828,2455,33,0.0
+general_manager_(franchise)_046,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,6,8,9,1347.3620414733887,2455,33,0.0
+general_manager_(franchise)_047,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,4,4,6,8,1211.5700244903564,1649,33,0.0
+general_manager_(franchise)_047,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,4,3,6,8,1229.2921543121338,1649,33,0.0
+general_manager_(franchise)_047,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,6,5,6,4,6,8,1229.417085647583,1649,33,0.0
+general_manager_(franchise)_047,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,4,5,6,4,6,8,1226.2351512908936,1649,33,0.0
+general_manager_(franchise)_047,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,4,6,5,4,6,8,1230.0100326538086,1649,33,0.0
+general_manager_(franchise)_048,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1740.652084350586,2430,33,0.0
+general_manager_(franchise)_048,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1537.560224533081,2430,33,0.0
+general_manager_(franchise)_048,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,8,9,1329.1997909545898,2430,33,0.0
+general_manager_(franchise)_048,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,8,9,9,1360.0201606750488,2430,33,0.0
+general_manager_(franchise)_048,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,9,9,7,8,9,1182.2588443756104,2430,33,0.0
+general_manager_(franchise)_049,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,8,6,8,9,1348.1290340423584,1677,33,0.0
+general_manager_(franchise)_049,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1229.0701866149902,1677,33,0.0
+general_manager_(franchise)_049,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1331.6638469696045,1677,33,0.0
+general_manager_(franchise)_049,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1330.0449848175049,1677,33,0.0
+general_manager_(franchise)_049,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1431.7858219146729,1677,33,0.0
+general_manager_(franchise)_050,General Manager (Franchise),0,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1951.279878616333,2576,33,0.0
+general_manager_(franchise)_050,General Manager (Franchise),1,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1190.5622482299805,2576,33,0.0
+general_manager_(franchise)_050,General Manager (Franchise),2,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,7,8,9,1263.089895248413,2576,33,0.0
+general_manager_(franchise)_050,General Manager (Franchise),3,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1228.2898426055908,2576,33,0.0
+general_manager_(franchise)_050,General Manager (Franchise),4,meta-llama/Llama-3.1-8B-Instruct:novita,8,8,9,6,8,9,1331.4402103424072,2576,33,0.0

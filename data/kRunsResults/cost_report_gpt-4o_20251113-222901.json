@@ -1,0 +1,16 @@
+{
+  "model": "gpt-4o",
+  "timestamp": "20251113-222901",
+  "k_samples": 5,
+  "num_interviews": 250,
+  "num_samples": 1250,
+  "total_cost": 8.01802000000002,
+  "total_input_tokens": 2521324,
+  "total_output_tokens": 171471,
+  "scoring_cost": 5.652237500000023,
+  "rewrite_cost": 2.365782500000001,
+  "num_scoring_calls": 1250,
+  "num_rewrite_calls": 250,
+  "cost_per_interview": 0.03207208000000008,
+  "cost_per_sample": 0.004521790000000019
+}
