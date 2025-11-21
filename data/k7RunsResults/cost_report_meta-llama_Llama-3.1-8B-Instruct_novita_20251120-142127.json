@@ -1,0 +1,16 @@
+{
+  "model": "meta-llama/Llama-3.1-8B-Instruct:novita",
+  "timestamp": "20251120-142127",
+  "k_samples": 7,
+  "num_interviews": 250,
+  "num_samples": 1750,
+  "total_cost": 0.0,
+  "total_input_tokens": 3467268,
+  "total_output_tokens": 190879,
+  "scoring_cost": 0.0,
+  "rewrite_cost": 0.0,
+  "num_scoring_calls": 1750,
+  "num_rewrite_calls": 250,
+  "cost_per_interview": 0.0,
+  "cost_per_sample": 0.0
+}

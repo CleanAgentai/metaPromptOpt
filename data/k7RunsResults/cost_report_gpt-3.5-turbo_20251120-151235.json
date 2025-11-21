@@ -1,0 +1,16 @@
+{
+  "model": "gpt-3.5-turbo",
+  "timestamp": "20251120-151235",
+  "k_samples": 7,
+  "num_interviews": 250,
+  "num_samples": 1750,
+  "total_cost": 1.9958150000000014,
+  "total_input_tokens": 3411268,
+  "total_output_tokens": 193454,
+  "scoring_cost": 1.6234325000000034,
+  "rewrite_cost": 0.37238249999999967,
+  "num_scoring_calls": 1750,
+  "num_rewrite_calls": 250,
+  "cost_per_interview": 0.007983260000000006,
+  "cost_per_sample": 0.0009276757142857162
+}
