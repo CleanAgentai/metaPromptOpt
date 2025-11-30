@@ -1,0 +1,13 @@
+{
+  "job_id": "ftjob-t9Yi16FKGtHzeZsY7zAPq7KU",
+  "status": "succeeded",
+  "fine_tuned_model": "ft:gpt-4o-2024-08-06:cleanagent:interview-scorer:ChhOUzkh",
+  "created_at": 1764529444,
+  "finished_at": 1764530943,
+  "trained_tokens": 1044894,
+  "hyperparameters": {
+    "batch_size": 1,
+    "learning_rate_multiplier": 2.0,
+    "n_epochs": 3
+  }
+}
