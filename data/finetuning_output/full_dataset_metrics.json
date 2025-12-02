@@ -1,0 +1,64 @@
+{
+  "model": "ft:gpt-4o-2024-08-06:cleanagent:interview-scorer:ChhOUzkh",
+  "total_samples": 250,
+  "timestamp": "2025-12-02T04:49:47.038650",
+  "per_metric": {
+    "cognitive_ability": {
+      "mae": 0.144,
+      "rmse": 0.5366563145999496,
+      "exact_match": 0.928,
+      "within_1": 0.928,
+      "within_2": 1.0
+    },
+    "experience": {
+      "mae": 0.2,
+      "rmse": 0.8099382692526635,
+      "exact_match": 0.936,
+      "within_1": 0.94,
+      "within_2": 0.94
+    },
+    "problem_solving": {
+      "mae": 0.672,
+      "rmse": 1.411382301150188,
+      "exact_match": 0.76,
+      "within_1": 0.768,
+      "within_2": 0.82
+    },
+    "reliability": {
+      "mae": 0.544,
+      "rmse": 1.1171392035015153,
+      "exact_match": 0.748,
+      "within_1": 0.748,
+      "within_2": 0.98
+    },
+    "professionalism": {
+      "mae": 0.404,
+      "rmse": 0.7771743691090179,
+      "exact_match": 0.696,
+      "within_1": 0.9,
+      "within_2": 1.0
+    },
+    "communication": {
+      "mae": 0.624,
+      "rmse": 1.0770329614269007,
+      "exact_match": 0.612,
+      "within_1": 0.796,
+      "within_2": 0.968
+    }
+  },
+  "overall": {
+    "mae": 0.43133333333333335,
+    "rmse": 0.9956572368708688,
+    "exact_match": 0.78,
+    "within_1": 0.8466666666666667,
+    "within_2": 0.9513333333333334
+  },
+  "latency": {
+    "mean_ms": 1614.1354837417603,
+    "median_ms": 1518.5182094573975,
+    "p95_ms": 3570.3120231628372,
+    "p99_ms": 4415.423207283019,
+    "min_ms": 768.7792778015137,
+    "max_ms": 5192.073106765747
+  }
+}
